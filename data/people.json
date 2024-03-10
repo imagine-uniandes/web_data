@@ -48,12 +48,12 @@
     "ugrad-lauraMonroy": {
         "display_name": "Laura Milena Monroy Torres",
         "role": "ugrad",
-        "image": "foto_lauraMonroy.jpeg"
+        "image": "foto_lauraMonroy.jpg"
     },
     "ugrad-melissaContreras": {
         "display_name": "Melissa Lizeth Contreras Rojas",
         "role": "ugrad",
-        "image": "foto_melissaContreras.jpeg"
+        "image": "foto_melissaContreras.jpg"
     },
     "ugrad-nicolasRueda": {
         "display_name": "Nicolas Enrique Rueda Rincon",
@@ -67,13 +67,13 @@
     "ugrad-juanAlegria": {
         "display_name": "Juan Sebastian Alegria Zuñiga",
         "role": "ugrad",
-        "image": "foto_juanAlegria.jpeg",
+        "image": "foto_juanAlegria.jpg",
         "webpage": "https://www.linkedin.com/in/juanszalegria/"
     },
     "ugrad-julianMora": {
         "display_name": "Julian Camilo Mora Valbuena",
         "role": "ugrad",
-        "image": "foto_julianMora.jpeg",
+        "image": "foto_julianMora.jpg",
         "webpage": "https://co.linkedin.com/in/juli%C3%A1n-27-mora"
     },
     "ugrad-estebanOrtiz": {
@@ -348,7 +348,7 @@
         "display_name": "Antonio de la Vega",
         "role": "ugrad-alum",
         "webpage": "https://adelavegaf.github.io/",
-        "image": "foto_antonioDeLaVega.jpeg"
+        "image": "foto_antonioDeLaVega.jpg"
     },
     "ugrad-alum-davidDelgado": {
         "display_name": "David Mauricio Delgado Ruiz",
@@ -365,7 +365,7 @@
     "ugrad-alum-rogeliogarcia": {
         "display_name": "Rogelio Garcia",
         "role": "ugrad-alum",
-        "image": "foto_RogelioGarcia.jpeg"
+        "image": "foto_RogelioGarcia.jpg"
     },
     "ugrad-alum-margaritaGomez": {
         "display_name": "Margarita Gómez Ballén",
@@ -388,7 +388,7 @@
         "display_name": "Fabio Andrés López Corredor",
         "role": "ugrad-alum",
         "webpage": "https://falopez10.github.io/",
-        "image": "foto_fabioLopez.jpeg"
+        "image": "foto_fabioLopez.jpg"
     },
     "ugrad-alum-joanTorres": {
         "display_name": "Joan David Torres Pinzón",
@@ -458,7 +458,7 @@
         "display_name": "Nychol Bazurto",
         "role": "ugrad-alum",
         "webpage": "http://nycholbazurto.me/",
-        "image": "foto_nycholBazurto.jpeg"
+        "image": "foto_nycholBazurto.jpg"
     },
     "ugrad-alum-andresSandoval": {
         "display_name": "Andrés Sandoval",
@@ -588,17 +588,17 @@
     "ugrad-alum-andresSanchez": {
         "display_name": "Andrés Felipe Sánchez Rangel",
         "role": "ugrad-alum",
-        "image": "foto_andresSanchez.jpeg"
+        "image": "foto_andresSanchez.jpg"
     },
     "ugrad-alum-santiagoGamboa": {
         "display_name": "Santiago Esteban Gamboa",
         "role": "ugrad-alum",
-        "image": "foto_santiagoGamboa.jpeg"
+        "image": "foto_santiagoGamboa.jpg"
     },
     "ugrad-alum-nicolasFajardo": {
         "display_name": "Nicolás Fajardo Ramirez",
         "role": "ugrad-alum",
-        "image": "foto_nicolasFajardo.jpeg"
+        "image": "foto_nicolasFajardo.jpg"
     },
     "ugrad-alum-juanPabloOtalora": {
         "display_name": "Juan Pablo Otálora Romero",
@@ -633,7 +633,7 @@
     "master-alum-joseLuna": {
         "display_name": "José Luna",
         "role": "master-alum",
-        "image": "foto_joseLuna.jpeg"
+        "image": "foto_joseLuna.jpg"
     },
     "master-alum-camiloUseche": {
         "display_name": "Juan Camilo Useche",
@@ -661,7 +661,7 @@
         "display_name": "Fabian Camilo Peña",
         "role": "master-alum",
         "webpage": "https://fabiancpl.github.io/",
-        "image": "foto_fabianPenna.jpeg"
+        "image": "foto_fabianPenna.jpg"
     },
     "master-alum-miguelFeijoo": {
         "display_name": "Miguel Alfonso Feijóo G",
@@ -746,7 +746,7 @@
     "master-alum-kellyPenaranda": {
         "display_name": "Kelly Katherine Peñaranda Rivera",
         "role": "master-alum",
-        "image": "foto_KellyPenaranda.jpeg"
+        "image": "foto_KellyPenaranda.jpg"
     },
     "phd-alum-diegorodriguez": {
         "display_name": "Diego Rodríguez",
