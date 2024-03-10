@@ -128,7 +128,7 @@
         "display_name": "Maciej Orkisz",
         "webpage": "https://www.creatis.insa-lyon.fr/site7/en/users/orkisz",
         "role": "collab",
-        "image": "foto_maciejOrkisz.png"
+        "image": "foto_maciejOrkisz.jpg"
     },
     "collab-dariocorreal": {
         "display_name": "Prof Dario Correal",
@@ -162,7 +162,7 @@
         "display_name": "John C McClelland",
         "webpage": "https://cil.csit.carleton.ca/staff-members/john-mcclelland/",
         "role": "collab",
-        "image": "foto_johnCMcClelland.png"
+        "image": "foto_johnCMcClelland.jpg"
     },
     "collab-audreyGirouard": {
         "display_name": "Audrey Girouard",
@@ -246,7 +246,7 @@
         "display_name": "Nicolás Esteban Calero Caycedo",
         "role": "ugrad-alum",
         "webpage": "https://www.linkedin.com/in/nicolascalero",
-        "image": "foto_nicolasCalero.png"
+        "image": "foto_nicolasCalero.jpg"
     },
     "ugrad-alum-santiagoTangarife": {
         "display_name": "Santiago Tangarife Rincón",
@@ -261,13 +261,13 @@
     "ugrad-alum-GabrielaCaballero": {
         "display_name": "Gabriela Caballero Durán",
         "role": "ugrad-alum",
-        "image": "foto_gabrielaCaballero.png"
+        "image": "foto_gabrielaCaballero.jpg"
     },
     "ugrad-alum-AngelaJimenez": {
         "display_name": "Ángela Liliana Jiménez Flechas",
         "role": "ugrad-alum",
         "webpage": "https://www.linkedin.com/in/angelajimenezf/",
-        "image": "foto_angelaJimenez.png"
+        "image": "foto_angelaJimenez.jpg"
     },
     "ugrad-alum-AndresRincon": {
         "display_name": "Andrés Felipe Rincón Pinzón",
@@ -291,12 +291,12 @@
     "ugrad-alum-gabrielSerna": {
         "display_name": "Gabriel Santiago Serna",
         "role": "ugrad-alum",
-        "image": "foto_gabrielSerna.jfif"
+        "image": "foto_gabrielSerna.jpg"
     },
     "ugrad-alum-camiloOtalora": {
         "display_name": "Camilo Otálora",
         "role": "ugrad-alum",
-        "image": "foto_camiloOtalora.jfif"
+        "image": "foto_camiloOtalora.jpg"
     },
     "ugrad-alum-camiloescobarv": {
         "display_name": "Camilo Andrés Escobar Velásquez",
@@ -313,7 +313,7 @@
     "ugrad-alum-camiloAlfonso": {
         "display_name": "Camilo Alejandro Alfonso Sánchez",
         "role": "ugrad-alum",
-        "image": "foto_camiloAlfonso.png"
+        "image": "foto_camiloAlfonso.jpg"
     },
     "ugrad-alum-estebanDalel": {
         "display_name": "Esteban Dalel Rueda",
@@ -360,7 +360,7 @@
         "display_name": "Juan Guillermo Murillo Castillo",
         "role": "ugrad-alum",
         "webpage": "http://juanmurillo.me/",
-        "image": "foto_juanGuillermo.png"
+        "image": "foto_juanGuillermo.jpg"
     },
     "ugrad-alum-rogeliogarcia": {
         "display_name": "Rogelio Garcia",
@@ -377,7 +377,7 @@
         "display_name": "Camila García Hernández",
         "role": "ugrad-alum",
         "webpage": "http://cgarciahdez.github.io/",
-        "image": "foto_camilaGarcia.png"
+        "image": "foto_camilaGarcia.jpg"
     },
     "ugrad-alum-santiagoBeltran": {
         "display_name": "Santiago Beltran",
@@ -555,7 +555,7 @@
         "display_name": "Carlos Eduardo González Álvarez",
         "role": "ugrad-alum",
         "webpage": "https://cegonzalv.github.io",
-        "image": "foto_CarlosGonzalez.png"
+        "image": "foto_CarlosGonzalez.jpg"
     },
     "ugrad-alum-davidLaiton": {
         "display_name": "Andrés David Laiton",
@@ -567,19 +567,19 @@
         "display_name": "Pablo Andrés Suarez Murillo",
         "role": "ugrad-alum",
         "webpage": "https://www.linkedin.com/in/pablo-andres-suarez/",
-        "image": "foto_pabloSuarez.png"
+        "image": "foto_pabloSuarez.jpg"
     },
     "ugrad-alum-danielPardo": {
         "display_name": "Daniel Andrés Pardo Chaves",
         "role": "ugrad-alum",
         "webpage": "https://danielpardo.website/",
-        "image": "foto_danielPardo.png"
+        "image": "foto_danielPardo.jpg"
     },
     "ugrad-alum-andresLosada": {
         "display_name": "Andrés Felipe Losada Luna",
         "role": "ugrad-alum",
         "webpage": "https://www.linkedin.com/in/andres-felipe-l-4a63a3104/",
-        "image": "foto_andresLosada.png"
+        "image": "foto_andresLosada.jpg"
     },
     "ugrad-alum-juanSanchez": {
         "display_name": "Juan Camilo Sanchez Pardo",
@@ -624,7 +624,7 @@
         "display_name": "Sebastian Calvache Mejia",
         "role": "master-alum",
         "webpage": "https://www.linkedin.com/in/sebastian-calvache-mejia/",
-        "image": "foto_SebastianCalvache.png"
+        "image": "foto_SebastianCalvache.jpg"
     },
     "master-alum-juanPalacios": {
         "display_name": "Juan Felipe Palacios Sanchez",
@@ -649,13 +649,13 @@
         "display_name": "Johann Felipe González",
         "role": "master-alum",
         "webpage": "https://cil.csit.carleton.ca/staff-members/johann-felipe-gonzalez-avila/",
-        "image": "foto_JohannGonzalez.png"
+        "image": "foto_JohannGonzalez.jpg"
     },
     "master-alum-meiliVanegas": {
         "display_name": "Meili Vanegas",
         "role": "master-alum",
         "webpage": "https://mvanegas10.github.io/",
-        "image": "foto_meiliVanegas.png"
+        "image": "foto_meiliVanegas.jpg"
     },
     "master-alum-fabianPenna": {
         "display_name": "Fabian Camilo Peña",
@@ -720,7 +720,7 @@
     "master-alum-leonardobareno": {
         "display_name": "Leonardo Bareño",
         "role": "master-alum",
-        "image": "foto_LeonardoBareno.png"
+        "image": "foto_LeonardoBareno.jpg"
     },
     "master-alum-santiagoMunera": {
         "display_name": "Santiago Felipe Munera Dávila",
