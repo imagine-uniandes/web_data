@@ -31,7 +31,7 @@
         "display_name": "Vivian Gómez Cubillos",
         "role": "faculty",
         "webpage": "https://www.linkedin.com/in/vivian-g%C3%B3mez-cubillos-79499b18a/",
-        "image": "foto_VivianGomez.JPG",
+        "image": "foto_VivianGomez.jpg",
         "bio": "Instructor Professor & Colivri Lab Coordinator"
     },
     "ugrad-abelArismendy": {
@@ -371,7 +371,7 @@
         "display_name": "Margarita Gómez Ballén",
         "role": "ugrad-alum",
         "webpage": "https://margaritagomez.github.io/",
-        "image": "foto_margaritaGomez.PNG"
+        "image": "foto_margaritaGomez.jpg"
     },
     "ugrad-alum-camilaGarcia": {
         "display_name": "Camila García Hernández",
@@ -490,24 +490,24 @@
     },
     "ugrad-alum-juanCorrea": {
         "display_name": "Juan Diego Correa",
-        "image": "foto_JuanCorrea.PNG",
+        "image": "foto_JuanCorrea.jpg",
         "role": "ugrad-alum"
     },
     "ugrad-alum-AndresBejarano": {
         "display_name": "Andrés Bejarano",
-        "image": "foto_AndresBejarano.PNG",
+        "image": "foto_AndresBejarano.jpg",
         "role": "ugrad-alum"
     },
     "ugrad-alum-juanCamacho": {
         "display_name": "Juan Pablo Camacho",
         "role": "ugrad-alum",
-        "image": "foto_JuanCamacho.PNG"
+        "image": "foto_JuanCamacho.jpg"
     },
     "ugrad-alum-joseRiano": {
         "display_name": "Jose Alejandro Riaño Riaño",
         "role": "ugrad-alum",
         "webpage": "https://www.linkedin.com/in/joalri/?originalSubdomain=co",
-        "image": "foto_JoseRiano.PNG"
+        "image": "foto_JoseRiano.jpg"
     },
     "ugrad-alum-julianMendoza": {
         "display_name": "Julian David Mendoza Ruiz",
@@ -741,7 +741,7 @@
     "master-alum-davidCubillos": {
         "display_name": "David Fernando Cubillos",
         "role": "master-alum",
-        "image": "foto_DavidCubillos.PNG"
+        "image": "foto_DavidCubillos.jpg"
     },
     "master-alum-kellyPenaranda": {
         "display_name": "Kelly Katherine Peñaranda Rivera",
