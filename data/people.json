@@ -40,7 +40,13 @@
         "image": "foto_abelArismendy.jpg",
         "webpage": "https://abel.arismendy.co/"
     },
-    "juanEsteban": {
+    "juanjoseSierra": {
+        "display_name": "Juan Jose Sierra",
+        "role": "ugrad",
+        "image": "",
+        "webpage": "https://www.linkedin.com/in/sierra-juan-jose/"
+    },
+    "juanestebanRodriguez": {
         "display_name": "Juan Esteban Rodriguez",
         "role": "ugrad",
         "image": "foto_juanEsteban.jpg"

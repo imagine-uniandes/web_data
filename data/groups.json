@@ -2,21 +2,19 @@
     {
         "id": 1,
         "nombre": "SinfonIA",
-        "researchArea": "Human Computer Interaction",
-        "descripcion": "tiene una aplicación en Python que permite trabajar con las estructuras listas enlazadas, árboles binarios ordenados y grafos.",
-        "logo": "aprendizajeEstructuras.png",
-        "fotoGrupo":"",
-        "website": "",
+        "researchArea": "Robotics",
+        "descripcion": "robotics and AI research group at Universidad de Los Andes, a team passionate about merging technology and human interaction. We currently work in the following subgroups: Perception, Navigation, Manipulation and Speech, each of which refines a piece of the social interaction pie. Likewise, members in Interface and Toolkit ensure that our robots are top-notch, while task members orchestrate the grand symphony of robotic tasks.",
+        "logo": "sinfonia.png",
+        "fotoGrupo":"sinfoniaTeam.jpg",
+        "website": "https://sinfoniauniandes.github.io/SinfonIA-web/home",
         "github": "",
         "integrantes": [
-            "fernandodelarosa",
-            "eduardoCabello"
         ],
         "redes": {
-            "instagram": "",
+            "instagram": "https://www.instagram.com/sinfonia_uniandes/",
             "tiktok": "",
             "youtube": "",
-            "facebook": "",
+            "facebook": "https://www.facebook.com/SinfoniaUniandes/?locale=es_LA",
             "whatsapp": ""
         }
     },
@@ -44,28 +42,30 @@
     {
         "id": 3,
         "nombre": "Oasis",
-        "researchArea": "Human Computer Interaction",
-        "descripcion": "tiene una aplicación en Python que permite trabajar con las estructuras listas enlazadas, árboles binarios ordenados y grafos.",
-        "logo": "aprendizajeEstructuras.png",
+        "researchArea": "Mixed Realities",
+        "descripcion": "La Iniciativa Estudiantil Oasis busca fomentar el conocimiento y la exploración de diferentes tecnologías de Realidad Mixta entre los participantes. Nuestro principal objetivo es brindar un espacio de encuentro semanal en el que se presenten diversas categorías de aplicaciones de Realidad Mixta y se promueva el aprendizaje, la interacción y la diversión en torno a estas tecnologías.",
+        "logo": "oasis.png",
         "fotoGrupo":"",
         "website": "",
-        "github": "",
+        "github": "https://github.com/Oasis-Uniandes",
         "integrantes": [
-            "fernandodelarosa",
-            "eduardoCabello"
+            "abelArismendy",
+            "juanjoseSierra",
+            "juanestebanRodriguez",
+            "julianMora"
         ],
         "redes": {
-            "instagram": "",
-            "tiktok": "",
+            "instagram": "https://www.instagram.com/oasis.uniandes",
+            "tiktok": "https://www.tiktok.com/@oasis.uniandes",
             "youtube": "",
             "facebook": "",
-            "whatsapp": ""
+            "whatsapp": "https://chat.whatsapp.com/HmQ6w0yRtOk5sCgtILmsWY"
         }
     },
     {
         "id": 4,
         "nombre": "IMAGINE",
-        "researchArea": "Systems & Computing Engineering",
+        "researchArea": "Visual Analytics",
         "descripcion": "IMAGINE is a Visual Computing research group at Los Andes University in the Systems & Computing Engineering department. The group develops research and innovation with knowledge-based image processing, computer graphics, mixed reality, human machine interaction and interactive robotics. Our main application domains are: biomedicine, training and entertainment, visual analytics and sustainable urban systems.",
         "logo": "imagine.jpg",
         "fotoGrupo":"",
@@ -73,7 +73,9 @@
         "github": "https://github.com/imagine-uniandes",
         "integrantes": [
             "fernandodelarosa",
-            "eduardoCabello"
+            "pablofigueroa",
+            "vivianGomez",
+            "marcelahernandez"
         ],
         "redes": {
             "correo": "imagine@uniandes.edu.co",
@@ -87,21 +89,21 @@
     {
         "id": 5,
         "nombre": "Vivero Virtual",
-        "researchArea": "Human Computer Interaction",
-        "descripcion": "tiene una aplicación en Python que permite trabajar con las estructuras listas enlazadas, árboles binarios ordenados y grafos.",
-        "logo": "aprendizajeEstructuras.png",
+        "researchArea": "Mixed Realities",
+        "descripcion": "Vivero Virtual es el Programa de Incubadora XR de la Universidad de los Andes que fue beneficiario de la beca Higher Ed XR Innovation Grant de Unity Social Impact y Meta Immersive Learning, gracias a sus propuestas de inclusión, impacto, viabilidad e innovación en la alfabetización desde la académica de este nuevo uso de las tecnologías, para aumentar el acceso a hardware AR/VR, el contenido educativo de alta calidad y otros recursos que ayudarán a los educadores a crear o mejorar programas XR innovadores.",
+        "logo": "vivieroVirtual.jpg",
         "fotoGrupo":"",
-        "website": "",
+        "website": "https://vivero.virtual.uniandes.edu.co/",
         "github": "",
         "integrantes": [
-            "fernandodelarosa",
-            "eduardoCabello"
+            "pablofigueroa",
+            "vivianGomez"
         ],
         "redes": {
-            "instagram": "",
+            "instagram": "https://www.instagram.com/viverovirtual_uniandes",
             "tiktok": "",
-            "youtube": "",
-            "facebook": "",
+            "youtube": "https://www.youtube.com/channel/UCkJnkKHOWqj5tk9Jf5vgMSw",
+            "facebook": "https://www.facebook.com/p/Vivero-Virtual-Uniandes-100086579619980/?locale=es_LA",
             "whatsapp": ""
         }
     }
