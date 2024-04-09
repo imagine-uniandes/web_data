@@ -347,7 +347,7 @@
         "grupo": "Imagine",
         "researchArea": "Visual Analytics",
         "descripcion": "Treemaps are an important and useful tool to navigate and visualize image galleries. Images repositories has grown in size and now there is the need of a tool that allows to navigate and find meaningful insights in a straightforward way.",
-        "foto": "treeMaps.png",
+        "foto": "treeMaps.PNG",
         "video": "",
         "link": "",
         "repository": "https://github.com/john-guerra/photoTreemap",
