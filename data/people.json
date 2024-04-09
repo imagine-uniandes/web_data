@@ -49,7 +49,8 @@
     "juanestebanRodriguez": {
         "display_name": "Juan Esteban Rodriguez",
         "role": "ugrad",
-        "image": "foto_juanEsteban.jpg"
+        "image": "foto_juanEsteban.jpg",
+        "webpage": "https://www.linkedin.com/in/juan-esteban-rodr%C3%ADguez-ospino/"
     },
     "lauraMonroy": {
         "display_name": "Laura Milena Monroy Torres",
@@ -768,5 +769,21 @@
         "display_name": "Pierre Raimbaud",
         "role": "phd-alum",
         "image": "foto_PierreRaimbaud.jpg"
+    },
+    "carlosAldana": {
+        "display_name": "Carlos Aldana",
+        "role": "ugrad-alum"
+    },
+    "alexandraGuitierrez": {
+        "display_name": "Alexandra Gutierrez",
+        "role": "ugrad-alum"
+    },
+    "luccasRojas": {
+        "display_name": "Luccas Rojas Becerra",
+        "role": "ugrad-alum"
+    },
+    "davidCuevas": {
+        "display_name": "David Cuevas Alba",
+        "role": "ugrad-alum"
     }
 }
