@@ -15,7 +15,7 @@
             "vhanessaCardona"
         ],
         "eventos": [],
-        "papers":[]
+        "papers":[1]
     },
     {
         "id": 2,
@@ -33,7 +33,7 @@
             "davidOviedo"
         ],
         "eventos": [],
-        "papers":[]
+        "papers":[2]
     },
     {
         "id": 3,
@@ -53,7 +53,7 @@
             "arturoRubio"
         ],
         "eventos": [],
-        "papers":[]
+        "papers":[3]
     },
     {
         "id": 4,
@@ -71,7 +71,7 @@
             "pablofigueroa"
         ],
         "eventos": [],
-        "papers":[]
+        "papers":[4]
     },
     {
         "id": 5,
@@ -126,7 +126,7 @@
             "franciscoDurango"
         ],
         "eventos": [],
-        "papers":[]
+        "papers":[5]
     },
     {
         "id": 8,
@@ -162,7 +162,7 @@
             "nelsonAndresSanchez"
         ],
         "eventos": [],
-        "papers":[]
+        "papers":[6]
     },
     {
         "id": 10,
@@ -180,7 +180,7 @@
             "eduardoCabello"
         ],
         "eventos": [],
-        "papers":[]
+        "papers":[7]
     },
     {
         "id": 11,
@@ -217,7 +217,7 @@
             "juanCamilo"
         ],
         "eventos": [],
-        "papers":[]
+        "papers":[8]
     },
     {
         "id": 13,
@@ -235,7 +235,7 @@
             "meiliVanegas"
         ],
         "eventos": [],
-        "papers":[]
+        "papers":[9]
     },
     {
         "id": 14,

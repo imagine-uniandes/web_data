@@ -1,10 +1,103 @@
 [
     {
         "id": 1,
-        "nombre": "",
-        "descripcion": "",
-        "researchArea": "",
-        "fecha": "",
-        "autores": []
+        "nombre": "Ambiente de apoyo al aprendizaje de estructuras de datos en Python",
+        "descripcion": "En este documento se presenta el proceso de diseño, desarrollo y resultados de la creación de un aplicativo en Python que permite a los estudiantes obtener retroalimentación de las estructuras de datos de su autoría. Este aplicativo se construye con la finalidad de servir como un apoyo al aprendizaje de la temática mencionada ya que en la mayoría de los casos se percibe un alto nivel de dificultad debido a la abstracción del tema. Como resultado, se logra construir exitosamente el aplicativo el cual soporta las estructuras de datos de listas enlazadas, árboles binarios ordenados y grafos. Además, se tienen en cuenta una serie de casos de error probables para los cuales se realiza un manejo e información que permita al alumno corregir su implementación.",
+        "researchArea": "Human Computer Interaction",
+        "fecha": "2023-01-24",
+        "link": "http://hdl.handle.net/1992/64158",
+        "autores": [
+            "fernandodelarosa",
+            "vhanessaCardona"]
+    },
+    {
+        "id": 2,
+        "nombre": "Sistema para la Automatización de Tareas de Inspección de Estructuras Físicas Utilizando un Dron",
+        "descripcion": "Este trabajo presenta el diseño e implementación de un sistema para automatizar la tarea de inspección de una estructura física, delimitada por un envolvente geométrico simple, utilizando un dron. En particular, se utilizó el dron DJI Mavic Pro, pero el sistema está diseñado para funcionar con cualquier dron de la marca DJI. Para este sistema, el usuario puede elegir entre uno de tres modelos envolventes geométricos simples proporcionados (plano, caja y cilindro) para representar la estructura a inspeccionar. Luego, el sistema planifica la trayectoria de vuelo del dron con el fin de garantizar que todo el modelo envolvente esté cubierto en la inspección, y luego el dron ejecuta el vuelo de forma autónoma. El sistema consta de dos componentes de software principales: una aplicación de robótica ROS utilizada para el control del dron y una aplicación de Android para permitir la comunicación con el dron utilizando DJI Mobile SDK V4. El sistema se probó con el simulador Gazebo y el simulador DJI Assistant 2 para garantizar su funcionamiento correcto. Finalmente, se probó en un escenario experimental (real) para inspeccionar la parte frontal de un edificio, obteniendo resultados satisfactorios.",
+        "researchArea": "Robotics",
+        "fecha": "2023-06",
+        "link": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/0b5bf786-5e7a-4291-9614-fb331456f803/content",
+        "autores": [
+            "fernandodelarosa",
+            "davidOviedo"]
+    },
+    {
+        "id": 3,
+        "nombre": "Defensor de la cultura",
+        "descripcion": "Defensor de la Cultura es un juego educativo con un gameplay entretenido que busca enseñar y evaluar los conocimientos de cultura general del jugador, a través de la lucha contra ladrones de arte y la protección de valiosas obras de arte en museos de todo el mundo",
+        "researchArea": "Video Games",
+        "fecha": "2023-10-18",
+        "link": "https://hdl.handle.net/1992/70984",
+        "autores": [
+            "pablofigueroa",
+            "gabrielSerna",
+            "camiloOtalora",
+            "arturoRubio"]
+    },
+    {
+        "id": 4,
+        "nombre": "Desarrollo humano para valientes: aplicación de realidad virtual para apoyar la generación de empatía",
+        "descripcion": "El proyecto busca apoyar la generación de empatía que se puede crear mediante videos de realidad virtual 360. Para tal fin, se desarrolló una aplicación de realidad virtual en la cual se pueden reproducir videos 360. Usando esta aplicación se exploraron funcionalidades con el potencial de contribuir a la generación de empatía. Éstas fueron validadas en experimentos con usuarios para optimizarlas y hallar nuevas oportunidades de mejora. Al finalizar el proyecto se determina que los Bullet comments son un mecanismo de participación que aporta apoyo a la generación de empatía. Se espera que este proyecto sirva como motivación para futuras investigaciones que exploren el potencial de la realidad virtual como herramienta para apoyar la generación de empatía.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2022-12-15",
+        "link": "http://hdl.handle.net/1992/64286",
+        "autores": [
+            "camiloUseche",
+            "pablofigueroa"]
+    },
+    {
+        "id": 5,
+        "nombre": "Diseño de sistema de planeación y seguimiento de rutas en un escenario interior con un robot móvil",
+        "descripcion": "Este proyecto consiste en el diseño, integración, diseño de experimentos y caracterización de una solución de un sistema que pueda ser utilizado como guía para visitantes dentro del Edificio Mario Laserna de la Universidad de los Andes. Por lo tanto, se es importante considerar la situación en la cual un visitante que llega al Edificio Mario Laserna, tiene la intención de dirigirse a un punto particular, como, por ejemplo: la biblioteca, una oficina, un laboratorio o salón, entre otros. Por lo tanto, debe darse una interacción con el robot guía para indicar cuál es su punto de interés. Por lo tanto, el robot al recibir este punto lleva a cabo la planeación de una ruta entre el punto en el cual se da este primer acercamiento y el punto de destino. En este caso, el reto se aborda desde la integración de diferentes plataformas de robots móviles para realizar una solución adecuada...",
+        "researchArea": "Robotics",
+        "fecha": "2019",
+        "link": "http://hdl.handle.net/1992/45621",
+        "autores": [
+            "fernandodelarosa",
+            "franciscoDurango"]
+    },
+    {
+        "id": 6,
+        "nombre": "Path planning and following through genetic algorithms for solving Multi-Travel Salesman Problem in Dynamic Scenarios",
+        "descripcion": "This paper presents an implementation of a technique to solve the problem of Multi-Travel Salesman Problem (MTSP) applied on mobile robots in dynamic scenarios. Because MTSP is a NP-Complete problem, we use genetic algorithms in order to resolve it efficiently. Once we got a theoretical solution for MTSP, we required to apply this on simulated and experimental scenarios. That is why we implement path planning algorithms to generate the path for each of the robots. Finally, we implement evasion algorithms for manage dynamic scenarios. With those main challenges clear, we test these implementations on simulation and laboratory in order to measure the quality indicators of the proposed solution.",
+        "researchArea": "Robotics",
+        "fecha": "2017-07-10",
+        "link": "https://ieeexplore.ieee.org/document/8023519",
+        "autores": [
+            "fernandodelarosa",
+            "nelsonAndresSanchez"]
+    },
+    {
+        "id": 7,
+        "nombre": "Definición de una arquitectura para la creación de aplicaciones web integrando robots lego EV3",
+        "descripcion": "Este proyecto consiste en la definición de una arquitectura base para la creación de aplicaciones Web para el manejo, control o programación de robots Lego Mindstorms EV3. Actualmente, son muy pocos los proyectos que trabajan con los robots Lego Mindstorms EV3, especialmente en el ámbito Web, por lo que se propone una arquitectura Web la cual servirá como base y guía para proyectos futuros. Por lo tanto, se investiga e integra tecnologías que satisfagan la arquitectura propuesta. Como parte de la arquitectura se construye un robot usando un Kit Lego Mindstorms EV3 para la ejecución de comandos enviados desde el cliente Web. La funcionalidad básica del robot se implementa utilizando la API LeJOS. Se cuenta con una componente intermedia que se encarga de recibir las peticiones del cliente Web y de enviarlas al robot para que sean ejecutadas. Por último, se implementa una aplicación demo basada en la arquitectura propuesta que permite realizar pruebas de conexión, ejecución de comandos básicos y complejos",
+        "researchArea": "Robotics",
+        "fecha": "2018-05",
+        "link": "http://hdl.handle.net/1992/40318",
+        "autores": [
+            "fernandodelarosa",
+            "eduardoCabello"]
+    },
+    {
+        "id": 8,
+        "nombre": "Tadava : visual analytics architecture for large table-based datasets",
+        "descripcion": "Visual Analytics provide the user with tools to process data in a very intuitive way. One of the challenges Visual Analytics faces nowadays is the need to represent big amounts of information in a way that the user can explore. This large amount of data can not be managed by conventional machines and must be partitioned or underrepresented. Usually, visual analytics applications or widgets work with one single machine due to the requirements of low latency and quick interactions. This article presents Tadava, a visual analytics architecture based on representative sampling for large table-based datasets. Datasets samples are generated using systematics sampling and random sampling in order to obtain a collection of data from the original dataset. Experiments are made to determine the best sampling method to be used in datasets of different sizes, varying the step expected between samples. Tadava is built as a backend architecture for Navio, an interactive visualization widget for summarizing, exploring and navigating large datasets, and provides the widget with the capacity to manage table-based datasets between 400MB and 4GB.",
+        "researchArea": "Visual Analytics",
+        "fecha": "2019-12-9",
+        "link": "http://hdl.handle.net/1992/34912",
+        "autores": [
+            "johnguerra",
+            "juanCamilo"]
+    },
+    {
+        "id": 9,
+        "nombre": "Visualizing Taxonomic Reports from Biological Sequence Alignments",
+        "descripcion": " Biological sequence comparison is a crucial step towards the process of identifying and cataloging new sequences. To achieve this, computational biologists must compare a new sequence to the permanently-growing biological databases. This comparison produces a myriad of results, from where extracting useful information is highly cost-intensive given the lack of tools providing an overview of the results. Moreover, itis possible to mistakenlycatalognewsequencesduetopoorcomparison analysis. This project is the outcome of a close collaboration with domain experts and a thorough study of the state of the art. As a result, six analysis tasks commonly performed by bioinformaticians were identified. Each task consists either in summarizing (for single sequence results) or comparing (for multiple sequence results): regionsofinterest(AT1), taxonomic reports(AT2),and sequences descriptions (AT3).",
+        "researchArea": "Visual Analytics",
+        "fecha": "2018-05-25",
+        "link": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/6077cedd-9826-4789-8499-94f63a599993/content",
+        "autores": [
+            "johnguerra",
+            "meiliVanegas"]
     }
 ]
