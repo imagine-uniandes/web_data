@@ -26,18 +26,17 @@
     {
         "id": 2,
         "nombre": "SEMA",
-        "researchArea": "Human Computer Interaction",
-        "descripcion": "tiene una aplicación en Python que permite trabajar con las estructuras listas enlazadas, árboles binarios ordenados y grafos.",
-        "logo": "aprendizajeEstructuras.png",
+        "researchArea": "Robotics",
+        "descripcion": "SEMA",
+        "logo": "",
         "fotoGrupo":"",
         "website": "",
         "github": "",
         "integrantes": [
-            "fernandodelarosa",
-            "eduardoCabello"
+            ""
         ],
         "redes": {
-            "correo": "imagine@uniandes.edu.co",
+            "correo": "",
             "instagram": "",
             "tiktok": "",
             "youtube": "",
