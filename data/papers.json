@@ -92,12 +92,317 @@
     {
         "id": 9,
         "nombre": "Visualizing Taxonomic Reports from Biological Sequence Alignments",
-        "descripcion": " Biological sequence comparison is a crucial step towards the process of identifying and cataloging new sequences. To achieve this, computational biologists must compare a new sequence to the permanently-growing biological databases. This comparison produces a myriad of results, from where extracting useful information is highly cost-intensive given the lack of tools providing an overview of the results. Moreover, itis possible to mistakenlycatalognewsequencesduetopoorcomparison analysis. This project is the outcome of a close collaboration with domain experts and a thorough study of the state of the art. As a result, six analysis tasks commonly performed by bioinformaticians were identified. Each task consists either in summarizing (for single sequence results) or comparing (for multiple sequence results): regionsofinterest(AT1), taxonomic reports(AT2),and sequences descriptions (AT3).",
+        "descripcion": "Biological sequence comparison is a crucial step towards the process of identifying and cataloging new sequences. To achieve this, computational biologists must compare a new sequence to the permanently-growing biological databases. This comparison produces a myriad of results, from where extracting useful information is highly cost-intensive given the lack of tools providing an overview of the results. Moreover, itis possible to mistakenlycatalognewsequencesduetopoorcomparison analysis. This project is the outcome of a close collaboration with domain experts and a thorough study of the state of the art. As a result, six analysis tasks commonly performed by bioinformaticians were identified. Each task consists either in summarizing (for single sequence results) or comparing (for multiple sequence results): regionsofinterest(AT1), taxonomic reports(AT2),and sequences descriptions (AT3).",
         "researchArea": "Visual Analytics",
         "fecha": "2018-05-25",
         "link": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/6077cedd-9826-4789-8499-94f63a599993/content",
         "autores": [
             "johnguerra",
             "meiliVanegas"]
+    },
+    {
+        "id": 10,
+        "nombre": "Exploring treemaps for summarizing and navigating image galleries",
+        "descripcion": "Treemaps are a two-dimensional representation of complex traditional tree structures, which show the leaf nodes as rectangular blocks with a size associated to the nodes data, so the numeric value of the data will determinate the size of the block [7]. Since its creation by Ben Shneiderman in 1991, the representation of image collections have followed this alternative in the recent years. It has shown how treemaps are effective in the task of provide to the user a quick overview which show the relevance of their images.",
+        "researchArea": "Visual Analytics",
+        "fecha": "2018",
+        "link": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/289a0a20-c55c-4283-b7c7-7d459d7d3491/content",
+        "autores": [
+            "johnguerra",
+            "luisMesa"]
+    },
+    {
+        "id": 11,
+        "nombre": "CAAVAT: Computer Assisted Analysis of Visceral Adipose Tissue on CT Images",
+        "descripcion": "CAAVAT is a fast and reliable tool suitable to be used in clinical practice for CT VAT quantification in the diagnostic of the metabolic syndrome. BACKGROUND Individuals with high accumulation of visceral adipose tissue (VAT) are characterized by a set of alterations known as metabolic syndrome with an increased risk of type 2 diabetes, dyslipidemia, and coronary heart disease.",
+        "researchArea": "Image Processing",
+        "fecha": "2012-11-26",
+        "link": "https://www.researchgate.net/publication/266102401_CAAVAT_Computer_Assisted_Analysis_of_Visceral_Adipose_Tissue_on_CT_Images",
+        "autores": [
+            "marcelahernandez",
+            "ricardoMendoza"]
+    },
+    {
+        "id": 12,
+        "nombre": "Astronomical image processing from large all-sky photometric surveys for the detection and measurement of type Ia supernovae",
+        "descripcion": "La detección de objetos transitorios se ha convertido en un tema importante de investigación en la astronomía de hoy. Para detectar, reportar y estudiar dichos fenómenos, diferentes aproximaciones han sido propuestos, entre ellos, el uso de pipelines de procesamiento de imágenes. Usando el LSST Science Pipelines Stack (o Stack), un framework creado por el equipo de datos del LSST, desarrollamos adiciones a uno de dichos pipelines encargado de la detección de supernovas de tipo IA en las imágenes del telescopio CFHT. Logramos correr un pipeline completo, con tiempos reducidos de procesamiento, logrando una reducción de hasta 80% del número de detección dudosas, reportando 95% curvas de luz candidatas y preservando hasta el 85% de las supernovae Ia con alta señal presente.",
+        "researchArea": "Image Processing",
+        "fecha": "2019-05-23",
+        "link": "http://hdl.handle.net/1992/41233",
+        "autores": [
+            "marcelahernandez",
+            "juanPabloReyes"]
+    },
+    {
+        "id": 13,
+        "nombre": "3RCity",
+        "descripcion": "The project consists in the development of a serious videogame, using the SCRUM methodology. The game teaches the player how recycling is happening in a city.",
+        "researchArea": "Video Games",
+        "fecha": "2017-05",
+        "link": "http://hdl.handle.net/1992/61524",
+        "autores": [
+            "pablofigueroa",
+            "omarPino",
+            "sergioMadera",
+            "juanCamacho",
+            "joseRiano"]
+    },
+    {
+        "id": 14,
+        "nombre": "Adaptic: A Shape Changing Prop with Haptic Retargeting",
+        "descripcion": "Adaptic, a novel ”hybrid” active/passive haptic device that can change shape to act as a proxy for a range of virtual objects in VR. We use Adaptic with haptic retargeting to redirect the user’s hand to provide haptic feedback for several virtual objects in arm’s reach using only a single prop. To evaluate the effectiveness of Adaptic with haptic retargeting, we conducted a within-subjects experiment employing a docking task to compare Adaptic to non-matching proxy objects (i.e., Styrofoam balls) and matching shape props. In our study, Adaptic sat on a desk in front of the user and changed shapes between grasps, to provide matching tactile feedback for various virtual objects placed in different virtual locations. Results indicate that the illusion was convincing: users felt they were manipulating several virtual objects in different virtual locations with a single Adaptic device. Docking performance (completion time and accuracy) with Adaptic was comparable to props without haptic retargeting.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2021-11-09",
+        "link": "https://dl.acm.org/doi/10.1145/3485279.3485293",
+        "autores": [
+            "pablofigueroa",
+            "johannGonzalez",
+            "robTeather",
+            "johnCMcClelland",
+            "audreyGirouard"]
+    },
+    {
+        "id": 15,
+        "nombre": "Balance Universal",
+        "descripcion": "The life of a college student is full of challenges, effort and achievements through this period of their life in which they are searching, studying and preparing for their work life. However, this also comes with high levels of stress, unbalance and unhealthy habits that can have negative effects on the mental health of students in the medium term. Through the development of a serious game in which the engineering process and agile methodologies of development were used, we try to make players experiment and be more conscious of this conundrum that many students go through. This conundrum is not talked about enough outside of the academic field of psychology. This video game was developed and published until reaching a beta version looking for feedback and validation from users inside the age range of the average college student.",
+        "researchArea": "Video Games",
+        "fecha": "2021-09",
+        "link": "http://hdl.handle.net/1992/55624",
+        "autores": [
+            "pablofigueroa",
+            "julianMendoza",
+            "julioMorales",
+            "andresGonzalez"]
+    },
+    {
+        "id": 16,
+        "nombre": "Boom Away",
+        "descripcion": "The project began by exploring experimental mechanics relating to the use of explosives as a means of movement in a 2D environment in order to complete levels designed around this characteristic. Nonetheless, throughout the semester we, apart from achieving just that, made the game into a fully fledged out experience. We used principles learned during our years in this major to implement a robust architecture following the S.O.L.I.D. principles in order to make a fully scalable and perfectly usable application. Furthermore, we collected analytics about the way players interacted with our game; we took this data and transformed it into information and later into knowledge so we could understand the problems our players were facing during their playtime. Finally, we used this knowledge to iterate over our design and implementation and make an even better experience.",
+        "researchArea": "Video Games",
+        "fecha": "2021",
+        "link": "http://hdl.handle.net/1992/50760",
+        "autores": [
+            "pablofigueroa",
+            "pabloSuarez",
+            "danielPardo",
+            "andresLosada"]
+    },
+    {
+        "id": 17,
+        "nombre": "Corruptio",
+        "descripcion": "Uno de los problemas más prominentes de Colombia y Latinoamérica es la corrupción. Por esto, se creó en Corruptio una forma de concientizar y animar a los jóvenes a tener un mayor protagonismo en la política, desarrollando un videojuego interactivo. Este videojuego pone al jugador como el alcalde de una ciudad, donde debe realizar tareas como la gestión del presupuesto de esta y la toma de decisiones sobre eventos específicos, todo mientras mantiene un puntaje de popularidad positivo para evitar ser destituido. Durante el tiempo de desarrollo, se adelantó y publicó en línea un MVP (Producto Mínimo Viable) cuyo objetivo era el de obtener comentarios de los jugadores para lanzar un segundo MVP, el cual tiene en cuenta toda la retroalimentación obtenida en la etapa de pruebas.",
+        "researchArea": "Video Games",
+        "fecha": "2022-07-19",
+        "link": "http://hdl.handle.net/1992/59020",
+        "autores": [
+            "pablofigueroa",
+            "andresSanchez",
+            "santiagoGamboa",
+            "nicolasFajardo"]
+    },
+    {
+        "id": 18,
+        "nombre": "Domicilio Survivor",
+        "descripcion": "Reckless driving, especially of motorcyclists, is one of the most relevant causes of death on Colombian streets and therefore represents one of the most daily occurring problems. However, it is given very little importance by the population, since it has become a habit for drivers to think that traffic regulations are a suggestion rather than an obligation, especially in small towns where motorcycles abound. For this reason, the objective of this project is to make drivers aware of the risks involved in not following the traffic norms. To this end, they are shown a familiar context in which the possible consequences of reckless driving can be represented.",
+        "researchArea": "Video Games",
+        "fecha": "2021-12",
+        "link": "http://hdl.handle.net/1992/55614",
+        "autores": [
+            "pablofigueroa",
+            "santiagoSerrano",
+            "carlosOrduz",
+            "jesusCarcamo"]
+    },
+    {
+        "id": 19,
+        "nombre": "Training in seismic safety practices using virtual reality",
+        "descripcion": "The project seeks to support the learning of prevention measures and safety protocols that must be applied to be better protected and prepared for an earthquake. This through the development of an immersive video game in virtual reality that improves the retention of knowledge.",
+        "researchArea": "Video Games",
+        "fecha": "2019",
+        "link": "http://hdl.handle.net/1992/45341",
+        "autores": [
+            "pablofigueroa",
+            "camiloZambrano",
+            "zulmaCastaneda",
+            "camiloUseche"]
+    },
+    {
+        "id": 20,
+        "nombre": "Inmersión total: creando el Gemelo Digital del Laboratorio Colivri en la Universidad de Los Andes",
+        "descripcion": "Este proyecto desarrolla un Gemelo Digital avanzado para el laboratorio Colivri de la Universidad de Los Andes, utilizando Unity para modelar un entorno tridimensional desplegado en aplicaciones de escritorio, realidad virtual, aumentada y mixta. Se asegura la funcionalidad en dispositivos de punta como Meta Quest 2, Meta Quest Pro, equipo multiscreen, HTC VIVE Pro y Microsoft HoloLens 2, con un énfasis en funcionalidades esenciales como la adaptabilidad gráfica y el monitoreo en tiempo real del rendimiento de sistemas informáticos remotos. Un servidor central promueve la comunicación eficiente mediante HTTP, mientras que la integración de análisis de imágenes facilita la interacción con movimientos de objetos físicos. Este esfuerzo académico resalta el uso de metodologías ágiles y herramientas como Jira y Git, enfatizando el fortalecimiento de las competencias colaborativas de los estudiantes en Ingeniería de Sistemas y Computación.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2024-01-20",
+        "link": "https://hdl.handle.net/1992/73447",
+        "autores": [
+            "pablofigueroa",
+            "vivianGomez",
+            "juanestebanRodriguez",
+            "melissaContreras",
+            "juanAlegria",
+            "julianMora",
+            "nicolasFalla",
+            "valentinaUribe"]
+    },
+    {
+        "id": 21,
+        "nombre": "VR Salsa : aprender a bailar en realidad virtual",
+        "descripcion": "VR Salsa was the development of a VR environment to teach people how to dance salsa. The goal was to design a tool that provided a safe space to learn for people who do not feel comfortable dancing, so they could learn at their own phase. The system was tested with users to determine the effectiveness and qualities, the results were registered.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2018",
+        "link": "http://hdl.handle.net/1992/34759",
+        "autores": [
+            "pablofigueroa",
+            "julianaMM"]
+    },
+    {
+        "id": 22,
+        "nombre": "Modelo para micro-simulación de tráfico vehicular y peatonal utilizando CUDA",
+        "descripcion": "La plataforma utiliza algoritmos de micro-simulación y tiene una representación de espacio discreto, por lo que se utiliza una grilla de celdas; cada celda contiene información sobre el espacio discreto al que representa, y esta información es guardada en una imagen de textura que es almacenada en la memoria de la GPU. El documento inicia con un marco teórico que muestra diferentes simuladores de conducción, éstos son comparados entre ellos para determinar cuál cumple con la mayor cantidad de características necesarias. Posteriormente se explica el contexto del ambiente a simular y se hace una introducción a CUDA, explicando cómo esta arquitectura va a ser utilizada en el simulador. Luego se explica el formato y origen de los datos geográficos del ambiente a simular y la forma como estos datos son extendidos para dar lugar a la utilización de metas locales y globales. Debido a que el simulador ejecuta cada entidad de manera paralela, se explican las fases del paso de simulación que evitan la aparición de inconsistencias en el simulador. Posteriormente se hace un análisis de rendimiento, se muestran las limitaciones y el trabajo futuro.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2012-01",
+        "link": "http://hdl.handle.net/1992/11591",
+        "autores": [
+            "pablofigueroa",
+            "diegorodriguez"]
+    },
+    {
+        "id": 23,
+        "nombre": "Perceived Space and Spatial Performance during Path-Integration Tasks in Consumer-Oriented Virtual Reality Environments",
+        "descripcion": "Studies using virtual reality environments (VE) have shown that sub-jects can perform path integration tasks with acceptable performance.However, in these studies, subjects could walk naturally across largetracking areas, or researchers provided them with large-immersivedisplays. Unfortunately, these conﬁgurations are far from currentconsumer-oriented VEs (COVEs), and little is known about howtheir limitations inﬂuence this task. Using a triangle completionparadigm, we assessed the subjects’ spatial performance when devel-oping path integration tasks in two consumer-oriented displays (anHTC Vive and a GearVR) and two consumer-oriented interactiondevices (a Virtuix Omni Treadmill and a Touchpad Control). Ourresults show that when locomotion is available (treadmill condition),there exist signiﬁcant effects regarding the display and the path. Incontrast, when locomotion is mediated no effect was found. Somefuture research directions are therefore proposed.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2019-03",
+        "link": "https://doi.org/10.1109/VR.2019.8798344",
+        "autores": [
+            "pablofigueroa",
+            "joseDorado"]
+    },
+    {
+        "id": 24,
+        "nombre": "Sensibilización en el proceso de reparación de tierras",
+        "descripcion": "The project aims to raise knowledge of the stages that are carried out during a land repair process, as well as raise conscience and awareness about its difficulty. For this, a simulation video-game is proposed through the use of virtual reality.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2019-11-29",
+        "link": "http://hdl.handle.net/1992/45101",
+        "autores": [
+            "pablofigueroa",
+            "yesidBejarano",
+            "juanManuelMuñoz",
+            "juanSebastianArciniegas"]
+    },
+    {
+        "id": 25,
+        "nombre": "Escape Room VR : a tool for diagnosis and treatment of ADD",
+        "descripcion": "Attention Deficit Disorder (ADD) is characterized by the lack of a long attention span. Both its diagnosis and treatment can be improved or helped using technology. Since the number of people suffering from it has been increasing for years, this paper intends to create a new alternative to improve the treatment of this disorder using Virtual Reality as a tool to support mental health workers process to treat the disorder.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2019-11-29",
+        "link": "http://hdl.handle.net/1992/60960",
+        "autores": [
+            "pablofigueroa",
+            "AndresBejarano",
+            "juanCorrea"]
+    },
+    {
+        "id": 26,
+        "nombre": "Shades of my Soul",
+        "descripcion": "In the former document we talk about Shades of My Soul, a videogame in which the player is able to control two main characters at the same time, in order to take on challenges and problems found throughout the entire game. The project was born under the idea of creating new videogame mechanics and innovating through them throughout the development process. The whole development process took us from the conception of main game mechanics, coding, art, sounds and music. The development of the game was planned with the help of lean methodologies based on four main sprints that would tackle different problems in each one of them. Each sprint was composed of micro-sprints which were weekly meetings with our supervisor Pablo Figueroa. He helped us with feedback and improvements to be done throughout development.",
+        "researchArea": "Video Games",
+        "fecha": "2021",
+        "link": "http://hdl.handle.net/1992/50651",
+        "autores": [
+            "pablofigueroa",
+            "juanPabloOtalora",
+            "eliasNegrete"]
+    },
+    {
+        "id": 27,
+        "nombre": "Simulaciones para Vehículos Autónomos en ambiente CARLA a partir de la extracción de patrones en análisis de vídeos de Bogotá",
+        "descripcion": "This degree project consists of the design and implementation of a system for the generation of autonomous vehicle simulations from video analysis, in the open source software CARLA. Simulations are one of the most important and fundamental parts of automatic driving. However, the creation of realistic simulations, necessary for the proper testing of these vehicles, are often expensive and complex. For this reason, the project will make use of videos to automate the creation of simulations from patterns identified in the video analysis.",
+        "researchArea": "Visual Analytics",
+        "fecha": "2021",
+        "link": "http://hdl.handle.net/1992/53374",
+        "autores": [
+            "pablofigueroa",
+            "lauraForero"]
+    },
+    {
+        "id": 28,
+        "nombre": "A perceptual calibration method to ameliorate the phenomenon of non-size-constancy in hetereogeneous VR displays",
+        "descripcion": "The interception of the action-perception loop in virtual reality [VR] causes that understanding the effects of different display factors in spatial perception becomes a challenge. For example, studies have reported that there is not size-constancy, the perceived size of an object does not remain constant as its distance increases. This phenomenon is closely related to the reports of underestimation of distances in VR, which causes remain unclear. Despite the efforts improving the spatial cues regarding display technology and computer graphics, some interest has started to focus on the human side. In this study, we propose a perceptual calibration method which can ameliorate the effects of non-size-constancy in heterogeneous VR displays. The method was validated in a perceptual matching experiment comparing the performance between an HTC Vive HMD and a four-walls CAVE system. Results show that perceptual calibration based on interpupillary distance increments can solve partially the phenomenon of non-size-constancy in VR.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2018-06-19",
+        "link": "https://doi.org/10.29007/sxjn",
+        "autores": [
+            "pablofigueroa",
+            "josehernandez",
+            "joseDorado"]
+    },
+    {
+        "id": 29,
+        "nombre": "Ambiente VR para preparar presentaciones en público",
+        "descripcion": "Esté proyecto parte del proyecto STAGE desarrollado anteriormente por la universidad de Würzburg en Unreal Engine, el cual tiene como función principal hacer capacitaciones supervisadas para hablar en público en seminarios universitarios. A partir de este se quiere lograr hacer un nuevo escenario para ayudar a personas que quieran preparar sus presentaciones en una ambiente similar al de un salón de clases, principalmente para que estas puedan estar preparadas para cualquier tipo de reacción que pueda tener la audiencia.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2023-01-21",
+        "link": "http://hdl.handle.net/1992/64065",
+        "autores": [
+            "GabrielaCaballero",
+            "pablofigueroa"]
+    },
+    {
+        "id": 30,
+        "nombre": "BIM-based mixed reality environments to improve AEC task performance",
+        "descripcion": "The Building Information Modelling (BIM) currently contributes to deeply modify the Architecture, Construction and Engineering (AEC) industry by improving data management, task planning, and architecture design etc. Nevertheless, other technologies have also joined this revolution, with the aim of allowing experts to perform better their tasks with them than with only the BIM, particularly mixed reality (MR). However, MR applications can take very diverse forms, because of the multiple design choice possibilities: multiple data sources from the BIM (3D model, worksite monitoring, simulations.. .), multiple possibilities of visualisations in MR (visual effects, 4D.. .) and multiple MR interactions (move, write, say, grasp.. .). Behind MR application design choices, there is a task for which the application has been created. Yet, having BIM-based MR environments that really allow to respond to the original need and that improve task performance is a current difficulty. In this paper, we present our proposal of a methodology for going from BIM to BIM-based mixed reality environments. Our inputs are the AEC tasks which are likely to benefit from being performed in a mixed reality environment, their performance measures (efficiency and effectiveness), and BIM data. Our target is to provide BIM-based mixed reality environments that support specific AEC tasks, and to prove thanks to appropriate indicators that the task performance has improved in MR compared to traditional methods. Thus, we present here the results from our first case studies and their impact on the methodology evolution. Finally, our ongoing and future works are discussed in the last sections",
+        "researchArea": "Mixed Realities",
+        "fecha": "2019-10",
+        "link": "http://hdl.handle.net/10985/17738",
+        "autores": [
+            "josehernandez",
+            "pablofigueroa",
+            "praimbaud"]
+    },
+    {
+        "id": 31,
+        "nombre": "Simulador multimodal de entrenamiento en reducción de fracturas como módulo de residencia",
+        "descripcion": "The Halsted's Model for the skills learning on the orthopedical surgical room has showed some weaknesses fot the lower interaction which residents have on the surgical room. This is causing a higher learning curve for motor skills learning. The previous prototype of IMAGINE group deveolped for fractures reduction training was taken to extend it and offerr an integrable tool in the residencial formation for orthopedic surgeons. The result of this research process counts on a haptic and virtual-reality environment where distinct challenges can be propposed. For examples other fractures types including virtual elements which could increase the complexity (e. g. tissues to interact with). On the other hand the evaluation process was parametrized to allow define additional measures. A new measure was added about wrong boardings to neural and vascular tissues. Two fractures cases were added for the validation: middle third on the clavicule and distal radius.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2018-12",
+        "link": "http://hdl.handle.net/1992/44131",
+        "autores": [
+            "josehernandez",
+            "davidMayorga"]
+    },
+    {
+        "id": 32,
+        "nombre": "SPLOR-T : an interactive urban spatiotemporal data exploration web approach",
+        "descripcion": "The analysis of spatio-temporal urban data has evolved along the last 30 years. Data heterogeneity and segmented analysis is a frequent issue in this context. We present a new proposal to address these challenges by using the visual analytics approach in a web environment using the What-Where-When pyramidal paradigm to drive the analysis. Thanks to the flexibility of new web tools, we arrive to offer with S-PLOR-T a flexible and multi-screen web interface. Furthermore, we provide an architecture to allow to put coordinated visualizations, letting an analyst to have a clear notion of its data through interactions within the three main Wh* dimensions. With S-PLOR-T, the users will result in a customizable analysis in order to support the finding of new insights and support an effortless decision making with them. Additionally, our approach allows the user, not only to visual query any view, but to explore and to analyze multi-scale attributes within the space and the time. In this paper, we present a use case which was built and tested with domain experts in land use and mobility.",
+        "researchArea": "Visual Analytics",
+        "fecha": "2019-05",
+        "link": "http://hdl.handle.net/1992/44321",
+        "autores": [
+            "josehernandez",
+            "miguelFeijoo"]
+    },
+    {
+        "id": 33,
+        "nombre": "Planteamiento y visualización de un modelo urbano basado en agentes",
+        "descripcion": "Presenta un modelo urbano de segregacion basado en tres agentes, estos son, cabezas de hogar, inversionistas y promotores. Por medio de una visualizacion sencilla se puede acceder a los resultados de la simulaci´on del modelo utilizando un navegador. El proposito general es establecer una relacion entre la herramienta de inteligencia artificial, la propuesta de simulacion economica y la manipulacion de datos georreferenciados. Para validar el modelo, se compararon los resultados con modelos urbanos de segregacion propuestos anteriormente y se evaluaron los resultados junto con un experto en planeacion urbana. En conclusion, se encontrara una primera version, la cual, lejos de poder utilizarse en un sistema de apoyo a la decision, es util porque permite ver sistematicamente el comportamiento de los agentes propuestos bajo un contexto urbano y georreferenciado.",
+        "researchArea": "Visual Analytics",
+        "fecha": "2017-01-10",
+        "link": "http://hdl.handle.net/1992/8870",
+        "autores": [
+            "josehernandez",
+            "meiliVanegas"]
+    },
+    {
+        "id": 34,
+        "nombre": "Wizard Chess",
+        "descripcion": "Wizard Chess es un ajedrez en realidad virtual por control de voz cuyo objetivo principal es incentivar a personas que han tenido poco contacto con el ajedrez a jugarlo de una manera más entretenida. Para ello se creó un juego multijugador cooperativo en el cual el usuario puede comandar las fichas por medio de su voz en un escenario con un ambiente mágico.",
+        "researchArea": "Mixed Realities",
+        "fecha": "2023-02-02",
+        "link": "http://hdl.handle.net/1992/64588",
+        "autores": [
+            "nicolasCalero",
+            "santiagoTangarife",
+            "DanielUseche",
+            "pablofigueroa"]
     }
 ]
