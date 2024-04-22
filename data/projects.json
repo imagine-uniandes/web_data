@@ -1175,7 +1175,7 @@
             "pablofigueroa",
             "fmedina"
         ],
-        "eventos": [],
+        "eventos": [1, 2],
         "papers":[]
     },
     {
