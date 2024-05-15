@@ -25,27 +25,6 @@
     },
     {
         "id": 2,
-        "nombre": "SEMA",
-        "researchArea": "Robotics",
-        "descripcion": "SEMA",
-        "logo": "",
-        "fotoGrupo":"",
-        "website": "",
-        "github": "",
-        "integrantes": [
-            ""
-        ],
-        "redes": {
-            "correo": "",
-            "instagram": "",
-            "tiktok": "",
-            "youtube": "",
-            "facebook": "",
-            "whatsapp": ""
-        }
-    },
-    {
-        "id": 3,
         "nombre": "Oasis",
         "researchArea": "Mixed Realities",
         "descripcion": "La Iniciativa Estudiantil Oasis busca fomentar el conocimiento y la exploración de diferentes tecnologías de Realidad Mixta entre los participantes. Nuestro principal objetivo es brindar un espacio de encuentro semanal en el que se presenten diversas categorías de aplicaciones de Realidad Mixta y se promueva el aprendizaje, la interacción y la diversión en torno a estas tecnologías.",
@@ -69,7 +48,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 3,
         "nombre": "IMAGINE",
         "researchArea": "Visual Analytics",
         "descripcion": "IMAGINE is a Visual Computing research group at Los Andes University in the Systems & Computing Engineering department. The group develops research and innovation with knowledge-based image processing, computer graphics, mixed reality, human machine interaction and interactive robotics. Our main application domains are: biomedicine, training and entertainment, visual analytics and sustainable urban systems.",
@@ -93,7 +72,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 4,
         "nombre": "Vivero Virtual",
         "researchArea": "Mixed Realities",
         "descripcion": "Vivero Virtual es el Programa de Incubadora XR de la Universidad de los Andes que fue beneficiario de la beca Higher Ed XR Innovation Grant de Unity Social Impact y Meta Immersive Learning, gracias a sus propuestas de inclusión, impacto, viabilidad e innovación en la alfabetización desde la académica de este nuevo uso de las tecnologías, para aumentar el acceso a hardware AR/VR, el contenido educativo de alta calidad y otros recursos que ayudarán a los educadores a crear o mejorar programas XR innovadores.",
