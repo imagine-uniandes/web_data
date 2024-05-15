@@ -1,78 +1,6 @@
 [
     {
         "id": 1,
-        "nombre": "SinfonIA",
-        "researchArea": "Robotics",
-        "descripcion": "SinfonIA is a robotics and AI research group at Universidad de Los Andes, about merging technology and human interaction. They currently work in the following subgroups: Perception, Navigation, Manipulation and Speech, each of which refines a piece of the social interaction pie. Likewise, members in Interface and Toolkit ensure that our robots are top-notch, while task members orchestrate the grand symphony of robotic tasks.",
-        "logo": "sinfonia.png",
-        "fotoGrupo":"sinfoniaTeam.jpg",
-        "website": "https://sinfoniauniandes.github.io/SinfonIA-web/home",
-        "github": "",
-        "integrantes": [
-            "carlosAldana",
-            "alexandraGuitierrez",
-            "luccasRojas",
-            "davidCuevas"
-        ],
-        "redes": {
-            "correo": "sinfonia@uniandes.edu.co",
-            "instagram": "https://www.instagram.com/sinfonia_uniandes/",
-            "tiktok": "",
-            "youtube": "",
-            "facebook": "https://www.facebook.com/SinfoniaUniandes/?locale=es_LA",
-            "whatsapp": ""
-        }
-    },
-    {
-        "id": 2,
-        "nombre": "Oasis",
-        "researchArea": "Mixed Realities",
-        "descripcion": "La Iniciativa Estudiantil Oasis busca fomentar el conocimiento y la exploración de diferentes tecnologías de Realidad Mixta entre los participantes. Nuestro principal objetivo es brindar un espacio de encuentro semanal en el que se presenten diversas categorías de aplicaciones de Realidad Mixta y se promueva el aprendizaje, la interacción y la diversión en torno a estas tecnologías.",
-        "logo": "oasis.png",
-        "fotoGrupo":"oasisTeam.jpg",
-        "website": "",
-        "github": "https://github.com/Oasis-Uniandes",
-        "integrantes": [
-            "abelArismendy",
-            "juanjoseSierra",
-            "juanestebanRodriguez",
-            "julianMora"
-        ],
-        "redes": {
-            "correo": "oasis@uniandes.edu.co",
-            "instagram": "https://www.instagram.com/oasis.uniandes",
-            "tiktok": "https://www.tiktok.com/@oasis.uniandes",
-            "youtube": "",
-            "facebook": "",
-            "whatsapp": "https://chat.whatsapp.com/HmQ6w0yRtOk5sCgtILmsWY"
-        }
-    },
-    {
-        "id": 3,
-        "nombre": "IMAGINE",
-        "researchArea": "Visual Analytics",
-        "descripcion": "IMAGINE is a Visual Computing research group at Los Andes University in the Systems & Computing Engineering department. The group develops research and innovation with knowledge-based image processing, computer graphics, mixed reality, human machine interaction and interactive robotics. Our main application domains are: biomedicine, training and entertainment, visual analytics and sustainable urban systems.",
-        "logo": "imagine.png",
-        "fotoGrupo":"",
-        "website": "https://imagine.uniandes.edu.co/",
-        "github": "https://github.com/imagine-uniandes",
-        "integrantes": [
-            "fernandodelarosa",
-            "pablofigueroa",
-            "vivianGomez",
-            "marcelahernandez"
-        ],
-        "redes": {
-            "correo": "imagine@uniandes.edu.co",
-            "instagram": "",
-            "tiktok": "",
-            "youtube": "https://www.youtube.com/@imagineuniandes",
-            "facebook": "",
-            "whatsapp": ""
-        }
-    },
-    {
-        "id": 4,
         "nombre": "Vivero Virtual",
         "researchArea": "Mixed Realities",
         "descripcion": "Vivero Virtual es el Programa de Incubadora XR de la Universidad de los Andes que fue beneficiario de la beca Higher Ed XR Innovation Grant de Unity Social Impact y Meta Immersive Learning, gracias a sus propuestas de inclusión, impacto, viabilidad e innovación en la alfabetización desde la académica de este nuevo uso de las tecnologías, para aumentar el acceso a hardware AR/VR, el contenido educativo de alta calidad y otros recursos que ayudarán a los educadores a crear o mejorar programas XR innovadores.",
@@ -96,6 +24,78 @@
             "tiktok": "",
             "youtube": "https://www.youtube.com/channel/UCkJnkKHOWqj5tk9Jf5vgMSw",
             "facebook": "https://www.facebook.com/p/Vivero-Virtual-Uniandes-100086579619980/?locale=es_LA",
+            "whatsapp": ""
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "IMAGINE",
+        "researchArea": "Visual Analytics",
+        "descripcion": "IMAGINE is a Visual Computing research group at Los Andes University in the Systems & Computing Engineering department. The group develops research and innovation with knowledge-based image processing, computer graphics, mixed reality, human machine interaction and interactive robotics. Our main application domains are: biomedicine, training and entertainment, visual analytics and sustainable urban systems.",
+        "logo": "imagine.png",
+        "fotoGrupo":"",
+        "website": "https://imagine.uniandes.edu.co/",
+        "github": "https://github.com/imagine-uniandes",
+        "integrantes": [
+            "fernandodelarosa",
+            "pablofigueroa",
+            "vivianGomez",
+            "marcelahernandez"
+        ],
+        "redes": {
+            "correo": "imagine@uniandes.edu.co",
+            "instagram": "",
+            "tiktok": "",
+            "youtube": "https://www.youtube.com/@imagineuniandes",
+            "facebook": "",
+            "whatsapp": ""
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Oasis",
+        "researchArea": "Mixed Realities",
+        "descripcion": "La Iniciativa Estudiantil Oasis busca fomentar el conocimiento y la exploración de diferentes tecnologías de Realidad Mixta entre los participantes. Nuestro principal objetivo es brindar un espacio de encuentro semanal en el que se presenten diversas categorías de aplicaciones de Realidad Mixta y se promueva el aprendizaje, la interacción y la diversión en torno a estas tecnologías.",
+        "logo": "oasis.png",
+        "fotoGrupo":"oasisTeam.jpg",
+        "website": "",
+        "github": "https://github.com/Oasis-Uniandes",
+        "integrantes": [
+            "abelArismendy",
+            "juanjoseSierra",
+            "juanestebanRodriguez",
+            "julianMora"
+        ],
+        "redes": {
+            "correo": "oasis@uniandes.edu.co",
+            "instagram": "https://www.instagram.com/oasis.uniandes",
+            "tiktok": "https://www.tiktok.com/@oasis.uniandes",
+            "youtube": "",
+            "facebook": "",
+            "whatsapp": "https://chat.whatsapp.com/HmQ6w0yRtOk5sCgtILmsWY"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "SinfonIA",
+        "researchArea": "Robotics",
+        "descripcion": "SinfonIA is a robotics and AI research group at Universidad de Los Andes, about merging technology and human interaction. They currently work in the following subgroups: Perception, Navigation, Manipulation and Speech, each of which refines a piece of the social interaction pie. Likewise, members in Interface and Toolkit ensure that our robots are top-notch, while task members orchestrate the grand symphony of robotic tasks.",
+        "logo": "sinfonia.png",
+        "fotoGrupo":"sinfoniaTeam.jpg",
+        "website": "https://sinfoniauniandes.github.io/SinfonIA-web/home",
+        "github": "",
+        "integrantes": [
+            "carlosAldana",
+            "alexandraGuitierrez",
+            "luccasRojas",
+            "davidCuevas"
+        ],
+        "redes": {
+            "correo": "sinfonia@uniandes.edu.co",
+            "instagram": "https://www.instagram.com/sinfonia_uniandes/",
+            "tiktok": "",
+            "youtube": "",
+            "facebook": "https://www.facebook.com/SinfoniaUniandes/?locale=es_LA",
             "whatsapp": ""
         }
     }
