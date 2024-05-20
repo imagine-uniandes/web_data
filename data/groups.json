@@ -14,6 +14,7 @@
             "valentinaRozo",
             "valentinaUribe",
             "julianMora",
+            "lauraMonroy",
             "abelArismendy",
             "juanestebanRodriguez",
             "juanjoseSierra"
@@ -96,6 +97,36 @@
             "tiktok": "",
             "youtube": "",
             "facebook": "https://www.facebook.com/SinfoniaUniandes/?locale=es_LA",
+            "whatsapp": ""
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Equipo Colivri",
+        "researchArea": "oasisTeam.jpg",
+        "descripcion": "Equipo Colivri es un grupo de profesores y estudiantes de la Universidad de los Andes que busca desarrollar proyectos de investigación y desarrollo en el área de Realidad Virtual y Realidad Aumentada.",
+        "logo": "colivri.png",
+        "fotoGrupo":"",
+        "website": "",
+        "github": "",
+        "integrantes": [
+            "pablofigueroa",
+            "vivianGomez",
+            "valentinaRozo",
+            "valentinaUribe",
+            "julianMora",
+            "juanestebanRodriguez",
+            "lauraMonroy",
+            "abelArismendy",
+            "juanjoseSierra",
+            "joseDorado"
+        ],
+        "redes": {
+            "correo": "",
+            "instagram": "",
+            "tiktok": "",
+            "youtube": "",
+            "facebook": "",
             "whatsapp": ""
         }
     }
