@@ -79,7 +79,7 @@
     },
     "julianMora": {
         "display_name": "Julian Camilo Mora Valbuena",
-        "role": "ugrad",
+        "role": "master",
         "image": "foto_julianMora.jpg",
         "webpage": "https://co.linkedin.com/in/juli%C3%A1n-27-mora"
     },
@@ -786,5 +786,15 @@
     "davidCuevas": {
         "display_name": "David Cuevas Alba",
         "role": "ugrad-alum"
+    },
+    "zulayVillabona": {
+        "display_name": "Zulay Villabona Parra",
+        "role": "Electrical Lab Coordinator",
+        "image": "foto_zulayVillabona.PNG"
+    },
+    "julianaLaserna": {
+        "display_name": "Juliana Andrea Laserna Montoya",
+        "role": "Mechanical Lab Coordinator",
+        "image": "foto_julianaLaserna.PNG"
     }
 }
