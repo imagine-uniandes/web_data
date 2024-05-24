@@ -911,22 +911,22 @@
     },
     "carlosAldana": {
         "display_name": "Carlos Aldana",
-        "role": "ugrad",
+        "role": "sinfonia",
         "is_active": false
     },
     "alexandraGuitierrez": {
         "display_name": "Alexandra Gutierrez",
-        "role": "ugrad",
+        "role": "sinfonia",
         "is_active": false
     },
     "luccasRojas": {
         "display_name": "Luccas Rojas Becerra",
-        "role": "ugrad",
+        "role": "sinfonia",
         "is_active": false
     },
     "davidCuevas": {
         "display_name": "David Cuevas Alba",
-        "role": "ugrad",
+        "role": "sinfonia",
         "is_active": false
     },
     "zulayVillabona": {
