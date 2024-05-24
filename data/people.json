@@ -647,14 +647,12 @@
     "martinAlvarez": {
         "display_name": "Martin Alvarez Gaviria",
         "role": "ugrad",
-        "is_active": false,
-        "image": "foto_MartinAlvarez.jpg"
+        "is_active": false
     },
     "nicolasBejar": {
         "display_name": "Nicolas Bejar Arambula",
         "role": "ugrad",
-        "is_active": false,
-        "image": "foto_NicolasBejar.jpg"
+        "is_active": false
     },
     "carlosGonzalez": {
         "display_name": "Carlos Eduardo Gonz\u00e1lez \u00c1lvarez",
