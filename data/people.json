@@ -644,16 +644,6 @@
         "role": "ugrad",
         "is_active": false
     },
-    "alejandroMorales": {
-        "display_name": "Julio Alejandro Morales Buitrago",
-        "role": "ugrad",
-        "is_active": false
-    },
-    "andresJavierGonzalez": {
-        "display_name": "Andr\u00e9s Javier Gonz\u00e1lez Torres",
-        "role": "ugrad",
-        "is_active": false
-    },
     "martinAlvarez": {
         "display_name": "Martin Alvarez Gaviria",
         "role": "ugrad",
