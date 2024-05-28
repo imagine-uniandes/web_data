@@ -44,27 +44,31 @@
         "role": "ugrad",
         "image": "foto_abelArismendy.jpg",
         "webpage": "https://abel.arismendy.co/",
-        "is_active": true
+        "is_active": true,
+        "bio": "Research Monitor"
     },
     "juanjoseSierra": {
         "display_name": "Juan Jose Sierra",
         "role": "ugrad",
         "image": "foto_juanjoseSierra.jpg",
         "webpage": "https://www.linkedin.com/in/sierra-juan-jose/",
-        "is_active": true
+        "is_active": true,
+        "bio": "Research Monitor"
     },
     "juanestebanRodriguez": {
         "display_name": "Juan Esteban Rodriguez",
         "role": "ugrad",
         "image": "foto_juanEsteban.jpg",
         "webpage": "https://www.linkedin.com/in/juan-esteban-rodr%C3%ADguez-ospino/",
-        "is_active": true
+        "is_active": true,
+        "bio": "Research Monitor"
     },
     "lauraMonroy": {
         "display_name": "Laura Milena Monroy Torres",
         "role": "ugrad",
         "image": "foto_lauraMonroy.jpg",
-        "is_active": true
+        "is_active": true,
+        "bio": "Research and Design Monitor"
     },
     "melissaContreras": {
         "display_name": "Melissa Lizeth Contreras Rojas",
@@ -95,7 +99,8 @@
         "role": "master",
         "image": "foto_julianMora.jpg",
         "webpage": "https://co.linkedin.com/in/juli%C3%A1n-27-mora",
-        "is_active": true
+        "is_active": true,
+        "bio": "Graduate Assistant"
     },
     "estebanOrtiz": {
         "display_name": "Esteban Emmanuel Ortiz Morales",
@@ -117,13 +122,15 @@
         "role": "master",
         "image": "foto_valentinaRozo.jpg",
         "webpage": "https://www.linkedin.com/in/valentina-rozo-bernal-5964721b5/",
-        "is_active": true
+        "is_active": true,
+        "bio": "Graduate Assistant"
     },
     "valentinaUribe": {
         "display_name": "Valentina Uribe",
         "role": "master",
         "image": "foto_valentinaUribe.jpg",
-        "is_active": true
+        "is_active": true,
+        "bio": "Graduate Assistant"
     },
     "joseDorado": {
         "display_name": "Jos\u00e9 Luis Dorado",
