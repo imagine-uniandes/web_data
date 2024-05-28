@@ -929,14 +929,16 @@
     },
     "zulayVillabona": {
         "display_name": "Zulay Villabona Parra",
-        "role": "Electrical Lab Coordinator",
+        "role": "Lab Coordinator",
         "image": "foto_zulayVillabona.PNG",
-        "is_active": true
+        "is_active": true,
+        "bio": "Electrical Lab Coordinator"
     },
     "julianaLaserna": {
         "display_name": "Juliana Andrea Laserna Montoya",
-        "role": "Mechanical Lab Coordinator",
+        "role": "Lab Coordinator",
         "image": "foto_julianaLaserna.PNG",
-        "is_active": true
+        "is_active": true,
+        "bio": "Mechanical Lab Coordinator"
     }
 }
