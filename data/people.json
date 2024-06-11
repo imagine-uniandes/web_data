@@ -947,5 +947,35 @@
         "image": "foto_julianaLaserna.PNG",
         "is_active": true,
         "bio": "Mechanical Lab Coordinator"
+    },
+    "gabrielVasco": {
+        "display_name": "Gabriel Vasco",
+        "role": "collab",
+        "is_active": false
+    },
+    "camiloCamargo": {
+        "display_name": "Camilo Camargo",
+        "role": "collab",
+        "is_active": false
+    },
+    "mariaNavarro": {
+        "display_name": "Maria Elisa Navarro",
+        "role": "collab",
+        "is_active": false
+    },
+    "otonielCastaneda": {
+        "display_name": "Otoniel Castañeda",
+        "role": "collab",
+        "is_active": false
+    },
+    "juanManuelHernandez": {
+        "display_name": "Juan Manuel Hernandez",
+        "role": "ugrad",
+        "is_active": false
+    },
+    "geraldineJimenez": {
+        "display_name": "Geraldine Jiménez",
+        "role": "ugrad",
+        "is_active": false
     }
 }
