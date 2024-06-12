@@ -44,6 +44,8 @@
         "role": "ugrad",
         "image": "foto_abelArismendy.jpg",
         "webpage": "https://abel.arismendy.co/",
+        "linkedin": "https://www.linkedin.com/in/abelarismendy/",
+        "github": "abelarismendy",
         "is_active": true,
         "bio": "Research Monitor"
     },
