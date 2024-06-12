@@ -12,10 +12,12 @@
         "lastUpdated": "",
         "integrantes": [
             "fernandodelarosa",
-            "vhanessaCardona"
+            "vhanessacardona"
         ],
         "eventos": [],
-        "papers":[1]
+        "papers": [
+            1
+        ]
     },
     {
         "id": 2,
@@ -30,10 +32,12 @@
         "lastUpdated": "",
         "integrantes": [
             "fernandodelarosa",
-            "davidOviedo"
+            "davidoviedo"
         ],
         "eventos": [],
-        "papers":[2]
+        "papers": [
+            2
+        ]
     },
     {
         "id": 3,
@@ -48,12 +52,14 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "gabrielSerna",
-            "camiloOtalora",
-            "arturoRubio"
+            "gabrielserna",
+            "camilootalora",
+            "arturorubio"
         ],
         "eventos": [],
-        "papers":[3]
+        "papers": [
+            3
+        ]
     },
     {
         "id": 4,
@@ -67,11 +73,13 @@
         "repository": "https://github.com/imagine-uniandes/empatia-room-360",
         "lastUpdated": "2022-11-22",
         "integrantes": [
-            "camiloUseche",
+            "camilouseche",
             "pablofigueroa"
         ],
         "eventos": [],
-        "papers":[4]
+        "papers": [
+            4
+        ]
     },
     {
         "id": 5,
@@ -85,12 +93,12 @@
         "repository": "https://github.com/AngelaJimenez/ColabVRTesis",
         "lastUpdated": "2022-11-22",
         "integrantes": [
-            "AngelaJimenez",
-            "AndresRincon",
+            "angelajimenez",
+            "andresrincon",
             "pablofigueroa"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 6,
@@ -105,10 +113,10 @@
         "lastUpdated": "2018-12-05",
         "integrantes": [
             "fernandodelarosa",
-            "nelsonAndresSanchez"
+            "nelsonandressanchez"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 7,
@@ -123,10 +131,12 @@
         "lastUpdated": "2019-06-20",
         "integrantes": [
             "fernandodelarosa",
-            "franciscoDurango"
+            "franciscodurango"
         ],
         "eventos": [],
-        "papers":[5]
+        "papers": [
+            5
+        ]
     },
     {
         "id": 8,
@@ -141,10 +151,10 @@
         "lastUpdated": "2019-02-04",
         "integrantes": [
             "fernandodelarosa",
-            "samuelBaquero"
+            "samuelbaquero"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 9,
@@ -159,10 +169,12 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "fernandodelarosa",
-            "nelsonAndresSanchez"
+            "nelsonandressanchez"
         ],
         "eventos": [],
-        "papers":[6]
+        "papers": [
+            6
+        ]
     },
     {
         "id": 10,
@@ -177,10 +189,12 @@
         "lastUpdated": "2018-02-19",
         "integrantes": [
             "fernandodelarosa",
-            "eduardoCabello"
+            "eduardocabello"
         ],
         "eventos": [],
-        "papers":[7]
+        "papers": [
+            7
+        ]
     },
     {
         "id": 11,
@@ -194,12 +208,12 @@
         "repository": "",
         "lastUpdated": "2022-11-22",
         "integrantes": [
-            "AngelaJimenez",
-            "AndresRincon",
+            "angelajimenez",
+            "andresrincon",
             "pablofigueroa"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 12,
@@ -214,10 +228,12 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "johnguerra",
-            "juanCamilo"
+            "juancamilo"
         ],
         "eventos": [],
-        "papers":[8]
+        "papers": [
+            8
+        ]
     },
     {
         "id": 13,
@@ -232,10 +248,12 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "johnguerra",
-            "meiliVanegas"
+            "meilivanegas"
         ],
         "eventos": [],
-        "papers":[9]
+        "papers": [
+            9
+        ]
     },
     {
         "id": 14,
@@ -250,10 +268,10 @@
         "lastUpdated": "2018-04-04",
         "integrantes": [
             "johnguerra",
-            "estebanDalel"
+            "estebandalel"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 15,
@@ -268,10 +286,10 @@
         "lastUpdated": "2018-02-19",
         "integrantes": [
             "johnguerra",
-            "estebanDalel"
+            "estebandalel"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 16,
@@ -286,10 +304,10 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "johnguerra",
-            "camiloAlfonso"
+            "camiloalfonso"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 17,
@@ -304,10 +322,10 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "johnguerra",
-            "antonioDeLaVega"
+            "antoniodelavega"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 18,
@@ -323,10 +341,10 @@
         "integrantes": [
             "josehernandez",
             "johnguerra",
-            "fabianPenna"
+            "fabianpenna"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 19,
@@ -341,10 +359,10 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "johnguerra",
-            "felipeMartinez"
+            "felipemartinez"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 20,
@@ -359,10 +377,10 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "johnguerra",
-            "juanGuillermo"
+            "juanguillermo"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 21,
@@ -377,11 +395,11 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "johnguerra",
-            "davidDelgado",
-            "davidLaiton"
+            "daviddelgado",
+            "davidlaiton"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 22,
@@ -396,10 +414,12 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "johnguerra",
-            "luisMesa"
+            "luismesa"
         ],
         "eventos": [],
-        "papers":[10]
+        "papers": [
+            10
+        ]
     },
     {
         "id": 23,
@@ -414,10 +434,10 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "johnguerra",
-            "camiloMera"
+            "camilomera"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 24,
@@ -432,10 +452,10 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "johnguerra",
-            "nicolarChavez"
+            "nicolarchavez"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 25,
@@ -450,10 +470,10 @@
         "lastUpdated": "2018-02-09",
         "integrantes": [
             "johnguerra",
-            "estebanDalel"
+            "estebandalel"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 26,
@@ -471,7 +491,7 @@
             "rogeliogarcia"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 27,
@@ -486,12 +506,12 @@
         "lastUpdated": "2018-02-19",
         "integrantes": [
             "marcelahernandez",
-            "margaritaGomez",
-            "camilaGarcia",
-            "maciejOrkisz"
+            "margaritagomez",
+            "camilagarcia",
+            "maciejorkisz"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 28,
@@ -506,10 +526,12 @@
         "lastUpdated": "2019-09-02",
         "integrantes": [
             "marcelahernandez",
-            "ricardoMendoza"
+            "ricardomendoza"
         ],
         "eventos": [],
-        "papers":[11]
+        "papers": [
+            11
+        ]
     },
     {
         "id": 29,
@@ -528,7 +550,7 @@
             "danielwilches"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 30,
@@ -543,10 +565,12 @@
         "lastUpdated": "2018-02-19",
         "integrantes": [
             "marcelahernandez",
-            "juanPabloReyes"
+            "juanpabloreyes"
         ],
         "eventos": [],
-        "papers":[12]
+        "papers": [
+            12
+        ]
     },
     {
         "id": 31,
@@ -561,13 +585,13 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "vivianGomez",
-            "sebastianCalvache",
-            "valentinaUribe",
-            "markusTatzgen"
+            "viviangomez",
+            "sebastiancalvache",
+            "valentinauribe",
+            "markustatzgen"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 32,
@@ -582,10 +606,10 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "andresSandoval"
+            "andressandoval"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 33,
@@ -600,13 +624,15 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "omarPino",
-            "sergioMadera",
-            "juanCamacho",
-            "joseRiano"
+            "omarpino",
+            "sergiomadera",
+            "juancamacho",
+            "joseriano"
         ],
         "eventos": [],
-        "papers":[13]
+        "papers": [
+            13
+        ]
     },
     {
         "id": 34,
@@ -621,13 +647,15 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "johannGonzalez",
-            "robTeather",
-            "johnCMcClelland",
-            "audreyGirouard"
+            "johanngonzalez",
+            "robteather",
+            "johncmcclelland",
+            "audreygirouard"
         ],
         "eventos": [],
-        "papers":[14]
+        "papers": [
+            14
+        ]
     },
     {
         "id": 35,
@@ -642,10 +670,10 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "vivianGomez"
+            "viviangomez"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 36,
@@ -660,11 +688,11 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "juanCorrea",
-            "AndresBejarano"
+            "juancorrea",
+            "andresbejarano"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 37,
@@ -679,10 +707,10 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "vivianGomez"
+            "viviangomez"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 38,
@@ -697,11 +725,11 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "vivianGomez",
-            "nicolasRueda"
+            "viviangomez",
+            "nicolasrueda"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 39,
@@ -716,12 +744,14 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "julianMendoza",
-            "julioMorales",
-            "andresGonzalez"
+            "julianmendoza",
+            "juliomorales",
+            "andresgonzalez"
         ],
         "eventos": [],
-        "papers":[15]
+        "papers": [
+            15
+        ]
     },
     {
         "id": 40,
@@ -736,12 +766,14 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "pabloSuarez",
-            "danielPardo",
-            "andresLosada"
+            "pablosuarez",
+            "danielpardo",
+            "andreslosada"
         ],
         "eventos": [],
-        "papers":[16]
+        "papers": [
+            16
+        ]
     },
     {
         "id": 41,
@@ -756,10 +788,10 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "danielCagua"
+            "danielcagua"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 42,
@@ -774,12 +806,14 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "andresSanchez",
-            "santiagoGamboa",
-            "nicolasFajardo"
+            "andressanchez",
+            "santiagogamboa",
+            "nicolasfajardo"
         ],
         "eventos": [],
-        "papers":[17]
+        "papers": [
+            17
+        ]
     },
     {
         "id": 43,
@@ -797,7 +831,7 @@
             "fmedina"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 44,
@@ -819,7 +853,7 @@
             "oscargonzalez"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 45,
@@ -834,12 +868,14 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "santiagoSerrano",
-            "carlosOrduz",
-            "jesusCarcamo"
+            "santiagoserrano",
+            "carlosorduz",
+            "jesuscarcamo"
         ],
         "eventos": [],
-        "papers":[18]
+        "papers": [
+            18
+        ]
     },
     {
         "id": 46,
@@ -854,12 +890,14 @@
         "lastUpdated": "2019-02-06",
         "integrantes": [
             "pablofigueroa",
-            "camiloZambrano",
-            "zulmaCastaneda",
-            "camiloUseche"
+            "camilozambrano",
+            "zulmacastaneda",
+            "camilouseche"
         ],
         "eventos": [],
-        "papers":[19]
+        "papers": [
+            19
+        ]
     },
     {
         "id": 47,
@@ -877,7 +915,7 @@
             "leonardobareno"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 48,
@@ -892,16 +930,18 @@
         "lastUpdated": "2023-10-17",
         "integrantes": [
             "pablofigueroa",
-            "vivianGomez",
-            "juanestebanRodriguez",
-            "melissaContreras",
-            "juanAlegria",
-            "julianMora",
-            "nicolasFalla",
-            "valentinaUribe"
+            "viviangomez",
+            "juanestebanrodriguez",
+            "melissacontreras",
+            "juanalegria",
+            "julianmora",
+            "nicolasfalla",
+            "valentinauribe"
         ],
         "eventos": [],
-        "papers":[20]
+        "papers": [
+            20
+        ]
     },
     {
         "id": 49,
@@ -916,10 +956,10 @@
         "lastUpdated": "2017-08-04",
         "integrantes": [
             "pablofigueroa",
-            "santiagoBeltran"
+            "santiagobeltran"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 50,
@@ -938,7 +978,7 @@
             "diegorodriguez"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 51,
@@ -953,10 +993,10 @@
         "lastUpdated": "2023-10-17",
         "integrantes": [
             "pablofigueroa",
-            "valentinaRozo"
+            "valentinarozo"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 52,
@@ -971,12 +1011,12 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "andresSanchez",
-            "santiagoGamboa",
-            "nicolasFajardo"
+            "andressanchez",
+            "santiagogamboa",
+            "nicolasfajardo"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 53,
@@ -991,10 +1031,12 @@
         "lastUpdated": "2018-02-19",
         "integrantes": [
             "pablofigueroa",
-            "julianaMM"
+            "julianamm"
         ],
         "eventos": [],
-        "papers":[21]
+        "papers": [
+            21
+        ]
     },
     {
         "id": 54,
@@ -1009,11 +1051,11 @@
         "lastUpdated": "2023-10-17",
         "integrantes": [
             "pablofigueroa",
-            "vivianGomez",
-            "valentinaUribe"
+            "viviangomez",
+            "valentinauribe"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 55,
@@ -1031,7 +1073,9 @@
             "diegorodriguez"
         ],
         "eventos": [],
-        "papers":[22]
+        "papers": [
+            22
+        ]
     },
     {
         "id": 56,
@@ -1046,11 +1090,11 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "kellyPenaranda",
-            "vivianGomez"
+            "kellypenaranda",
+            "viviangomez"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 57,
@@ -1065,10 +1109,10 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "davidMayorga"
+            "davidmayorga"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 58,
@@ -1086,7 +1130,7 @@
             "diegorodriguez"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 59,
@@ -1104,7 +1148,7 @@
             "fmedina"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 60,
@@ -1119,10 +1163,12 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "joseDorado"
+            "josedorado"
         ],
         "eventos": [],
-        "papers":[23]
+        "papers": [
+            23
+        ]
     },
     {
         "id": 61,
@@ -1137,10 +1183,10 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "rafaelForero"
+            "rafaelforero"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 62,
@@ -1155,12 +1201,14 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "yesidBejarano",
-            "juanManuelMuñoz",
-            "juanSebastianArciniegas"
+            "yesidbejarano",
+            "juanmanuelmuñoz",
+            "juansebastianarciniegas"
         ],
         "eventos": [],
-        "papers":[24]
+        "papers": [
+            24
+        ]
     },
     {
         "id": 63,
@@ -1177,23 +1225,23 @@
             "pablofigueroa",
             "fmedina"
         ],
-        "eventos": [    
+        "eventos": [
             {
-            "id": 1,
-            "nombre": "Expociencia 2018",
-            "fecha": "",
-            "descripcion": "",
-            "foto": "expociencia.jpg"
+                "id": 1,
+                "nombre": "Expociencia 2018",
+                "fecha": "",
+                "descripcion": "",
+                "foto": "expociencia.jpg"
             },
             {
-            "id": 2,
-            "nombre": "SigularityU Colombia",
-            "fecha": "",
-            "descripcion": "",
-            "foto": "singularity.jpg"
+                "id": 2,
+                "nombre": "SigularityU Colombia",
+                "fecha": "",
+                "descripcion": "",
+                "foto": "singularity.jpg"
             }
         ],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 64,
@@ -1211,7 +1259,7 @@
             "fmedina"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 65,
@@ -1229,7 +1277,7 @@
             "diegorodriguez"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 66,
@@ -1244,11 +1292,13 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "juanPabloOtalora",
-            "eliasNegrete"
+            "juanpablootalora",
+            "eliasnegrete"
         ],
         "eventos": [],
-        "papers":[26]
+        "papers": [
+            26
+        ]
     },
     {
         "id": 67,
@@ -1263,10 +1313,12 @@
         "lastUpdated": "",
         "integrantes": [
             "pablofigueroa",
-            "lauraForero"
+            "lauraforero"
         ],
         "eventos": [],
-        "papers":[27]
+        "papers": [
+            27
+        ]
     },
     {
         "id": 68,
@@ -1282,10 +1334,12 @@
         "integrantes": [
             "pablofigueroa",
             "josehernandez",
-            "joseDorado"
+            "josedorado"
         ],
         "eventos": [],
-        "papers":[28]
+        "papers": [
+            28
+        ]
     },
     {
         "id": 69,
@@ -1299,11 +1353,13 @@
         "repository": "",
         "lastUpdated": "2022-12-11",
         "integrantes": [
-            "GabrielaCaballero",
+            "gabrielacaballero",
             "pablofigueroa"
         ],
         "eventos": [],
-        "papers":[29]
+        "papers": [
+            29
+        ]
     },
     {
         "id": 70,
@@ -1322,7 +1378,9 @@
             "praimbaud"
         ],
         "eventos": [],
-        "papers":[30]
+        "papers": [
+            30
+        ]
     },
     {
         "id": 71,
@@ -1337,10 +1395,10 @@
         "lastUpdated": "2018-02-06",
         "integrantes": [
             "josehernandez",
-            "juanCamiloIbarra"
+            "juancamiloibarra"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 72,
@@ -1358,7 +1416,7 @@
             "camiloescobarv"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 73,
@@ -1376,7 +1434,7 @@
             "deisydiaz"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 74,
@@ -1391,10 +1449,12 @@
         "lastUpdated": "2019-02-04",
         "integrantes": [
             "josehernandez",
-            "davidMayorga"
+            "davidmayorga"
         ],
         "eventos": [],
-        "papers":[31]
+        "papers": [
+            31
+        ]
     },
     {
         "id": 75,
@@ -1409,10 +1469,12 @@
         "lastUpdated": "2019-02-04",
         "integrantes": [
             "josehernandez",
-            "miguelFeijoo"
+            "miguelfeijoo"
         ],
         "eventos": [],
-        "papers":[32]
+        "papers": [
+            32
+        ]
     },
     {
         "id": 76,
@@ -1427,10 +1489,12 @@
         "lastUpdated": "2016-12-07",
         "integrantes": [
             "josehernandez",
-            "meiliVanegas"
+            "meilivanegas"
         ],
         "eventos": [],
-        "papers":[33]
+        "papers": [
+            33
+        ]
     },
     {
         "id": 77,
@@ -1444,13 +1508,15 @@
         "repository": "",
         "lastUpdated": "2022-12-11",
         "integrantes": [
-            "nicolasCalero",
-            "santiagoTangarife",
-            "DanielUseche",
+            "nicolascalero",
+            "santiagotangarife",
+            "danieluseche",
             "pablofigueroa"
         ],
         "eventos": [],
-        "papers":[34]
+        "papers": [
+            34
+        ]
     },
     {
         "id": 78,
@@ -1469,7 +1535,7 @@
             "pablofigueroa"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 79,
@@ -1488,7 +1554,7 @@
             "pablofigueroa"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 80,
@@ -1507,14 +1573,14 @@
             "pablofigueroa"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 81,
         "nombreProyecto": "DEVICE",
         "grupo": "Imagine",
         "researchArea": "Video Games",
-        "descripcion": "Device era un evento online enfocado en desarrollo de videojuegos. Este evento tenía como objetivo dar una excusa a personas que estaban interesadas en el desarrollo de videojuegos para que cada dos meses dedicaran algo de su tiempo libre a aprender a diseñar, prototipar e implementar videojuegos, experimentando ideas e intercambiando conocimientos con personas de diferentes edades, niveles de experiencia, especialidades y ambientes sociales.",	
+        "descripcion": "Device era un evento online enfocado en desarrollo de videojuegos. Este evento tenía como objetivo dar una excusa a personas que estaban interesadas en el desarrollo de videojuegos para que cada dos meses dedicaran algo de su tiempo libre a aprender a diseñar, prototipar e implementar videojuegos, experimentando ideas e intercambiando conocimientos con personas de diferentes edades, niveles de experiencia, especialidades y ambientes sociales.",
         "foto": "device.png",
         "video": "https://www.youtube.com/embed/15qCw8oWxt8",
         "link": "https://device.virtual.uniandes.edu.co",
@@ -1526,7 +1592,7 @@
             "pablofigueroa"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     },
     {
         "id": 82,
@@ -1542,9 +1608,16 @@
         "is_legacy": true,
         "execution_years": "2012-2015",
         "integrantes": [
-            "pablofigueroa","gabrielVasco","camiloCamargo","mariaNavarro","otonielCastaneda","juanManuelHernandez","geraldineJimenez","sergioMadera"
+            "pablofigueroa",
+            "gabrielvasco",
+            "camilocamargo",
+            "marianavarro",
+            "otonielcastaneda",
+            "juanmanuelhernandez",
+            "geraldinejimenez",
+            "sergiomadera"
         ],
         "eventos": [],
-        "papers":[]
+        "papers": []
     }
 ]

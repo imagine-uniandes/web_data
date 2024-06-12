@@ -8,7 +8,8 @@
         "link": "http://hdl.handle.net/1992/64158",
         "autores": [
             "fernandodelarosa",
-            "vhanessaCardona"]
+            "vhanessacardona"
+        ]
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
         "link": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/0b5bf786-5e7a-4291-9614-fb331456f803/content",
         "autores": [
             "fernandodelarosa",
-            "davidOviedo"]
+            "davidoviedo"
+        ]
     },
     {
         "id": 3,
@@ -30,9 +32,10 @@
         "link": "https://hdl.handle.net/1992/70984",
         "autores": [
             "pablofigueroa",
-            "gabrielSerna",
-            "camiloOtalora",
-            "arturoRubio"]
+            "gabrielserna",
+            "camilootalora",
+            "arturorubio"
+        ]
     },
     {
         "id": 4,
@@ -42,8 +45,9 @@
         "fecha": "2022-12-15",
         "link": "http://hdl.handle.net/1992/64286",
         "autores": [
-            "camiloUseche",
-            "pablofigueroa"]
+            "camilouseche",
+            "pablofigueroa"
+        ]
     },
     {
         "id": 5,
@@ -54,7 +58,8 @@
         "link": "http://hdl.handle.net/1992/45621",
         "autores": [
             "fernandodelarosa",
-            "franciscoDurango"]
+            "franciscodurango"
+        ]
     },
     {
         "id": 6,
@@ -65,7 +70,8 @@
         "link": "https://ieeexplore.ieee.org/document/8023519",
         "autores": [
             "fernandodelarosa",
-            "nelsonAndresSanchez"]
+            "nelsonandressanchez"
+        ]
     },
     {
         "id": 7,
@@ -76,7 +82,8 @@
         "link": "http://hdl.handle.net/1992/40318",
         "autores": [
             "fernandodelarosa",
-            "eduardoCabello"]
+            "eduardocabello"
+        ]
     },
     {
         "id": 8,
@@ -87,7 +94,8 @@
         "link": "http://hdl.handle.net/1992/34912",
         "autores": [
             "johnguerra",
-            "juanCamilo"]
+            "juancamilo"
+        ]
     },
     {
         "id": 9,
@@ -98,7 +106,8 @@
         "link": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/6077cedd-9826-4789-8499-94f63a599993/content",
         "autores": [
             "johnguerra",
-            "meiliVanegas"]
+            "meilivanegas"
+        ]
     },
     {
         "id": 10,
@@ -109,7 +118,8 @@
         "link": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/289a0a20-c55c-4283-b7c7-7d459d7d3491/content",
         "autores": [
             "johnguerra",
-            "luisMesa"]
+            "luismesa"
+        ]
     },
     {
         "id": 11,
@@ -120,7 +130,8 @@
         "link": "https://www.researchgate.net/publication/266102401_CAAVAT_Computer_Assisted_Analysis_of_Visceral_Adipose_Tissue_on_CT_Images",
         "autores": [
             "marcelahernandez",
-            "ricardoMendoza"]
+            "ricardomendoza"
+        ]
     },
     {
         "id": 12,
@@ -131,7 +142,8 @@
         "link": "http://hdl.handle.net/1992/41233",
         "autores": [
             "marcelahernandez",
-            "juanPabloReyes"]
+            "juanpabloreyes"
+        ]
     },
     {
         "id": 13,
@@ -142,10 +154,11 @@
         "link": "http://hdl.handle.net/1992/61524",
         "autores": [
             "pablofigueroa",
-            "omarPino",
-            "sergioMadera",
-            "juanCamacho",
-            "joseRiano"]
+            "omarpino",
+            "sergiomadera",
+            "juancamacho",
+            "joseriano"
+        ]
     },
     {
         "id": 14,
@@ -156,10 +169,11 @@
         "link": "https://dl.acm.org/doi/10.1145/3485279.3485293",
         "autores": [
             "pablofigueroa",
-            "johannGonzalez",
-            "robTeather",
-            "johnCMcClelland",
-            "audreyGirouard"]
+            "johanngonzalez",
+            "robteather",
+            "johncmcclelland",
+            "audreygirouard"
+        ]
     },
     {
         "id": 15,
@@ -170,9 +184,10 @@
         "link": "http://hdl.handle.net/1992/55624",
         "autores": [
             "pablofigueroa",
-            "julianMendoza",
-            "julioMorales",
-            "andresGonzalez"]
+            "julianmendoza",
+            "juliomorales",
+            "andresgonzalez"
+        ]
     },
     {
         "id": 16,
@@ -183,9 +198,10 @@
         "link": "http://hdl.handle.net/1992/50760",
         "autores": [
             "pablofigueroa",
-            "pabloSuarez",
-            "danielPardo",
-            "andresLosada"]
+            "pablosuarez",
+            "danielpardo",
+            "andreslosada"
+        ]
     },
     {
         "id": 17,
@@ -196,9 +212,10 @@
         "link": "http://hdl.handle.net/1992/59020",
         "autores": [
             "pablofigueroa",
-            "andresSanchez",
-            "santiagoGamboa",
-            "nicolasFajardo"]
+            "andressanchez",
+            "santiagogamboa",
+            "nicolasfajardo"
+        ]
     },
     {
         "id": 18,
@@ -209,9 +226,10 @@
         "link": "http://hdl.handle.net/1992/55614",
         "autores": [
             "pablofigueroa",
-            "santiagoSerrano",
-            "carlosOrduz",
-            "jesusCarcamo"]
+            "santiagoserrano",
+            "carlosorduz",
+            "jesuscarcamo"
+        ]
     },
     {
         "id": 19,
@@ -222,9 +240,10 @@
         "link": "http://hdl.handle.net/1992/45341",
         "autores": [
             "pablofigueroa",
-            "camiloZambrano",
-            "zulmaCastaneda",
-            "camiloUseche"]
+            "camilozambrano",
+            "zulmacastaneda",
+            "camilouseche"
+        ]
     },
     {
         "id": 20,
@@ -235,13 +254,14 @@
         "link": "https://hdl.handle.net/1992/73447",
         "autores": [
             "pablofigueroa",
-            "vivianGomez",
-            "juanestebanRodriguez",
-            "melissaContreras",
-            "juanAlegria",
-            "julianMora",
-            "nicolasFalla",
-            "valentinaUribe"]
+            "viviangomez",
+            "juanestebanrodriguez",
+            "melissacontreras",
+            "juanalegria",
+            "julianmora",
+            "nicolasfalla",
+            "valentinauribe"
+        ]
     },
     {
         "id": 21,
@@ -252,7 +272,8 @@
         "link": "http://hdl.handle.net/1992/34759",
         "autores": [
             "pablofigueroa",
-            "julianaMM"]
+            "julianamm"
+        ]
     },
     {
         "id": 22,
@@ -263,7 +284,8 @@
         "link": "http://hdl.handle.net/1992/11591",
         "autores": [
             "pablofigueroa",
-            "diegorodriguez"]
+            "diegorodriguez"
+        ]
     },
     {
         "id": 23,
@@ -274,7 +296,8 @@
         "link": "https://doi.org/10.1109/VR.2019.8798344",
         "autores": [
             "pablofigueroa",
-            "joseDorado"]
+            "josedorado"
+        ]
     },
     {
         "id": 24,
@@ -285,9 +308,10 @@
         "link": "http://hdl.handle.net/1992/45101",
         "autores": [
             "pablofigueroa",
-            "yesidBejarano",
-            "juanManuelMuñoz",
-            "juanSebastianArciniegas"]
+            "yesidbejarano",
+            "juanmanuelmuñoz",
+            "juansebastianarciniegas"
+        ]
     },
     {
         "id": 25,
@@ -298,8 +322,9 @@
         "link": "http://hdl.handle.net/1992/60960",
         "autores": [
             "pablofigueroa",
-            "AndresBejarano",
-            "juanCorrea"]
+            "andresbejarano",
+            "juancorrea"
+        ]
     },
     {
         "id": 26,
@@ -310,8 +335,9 @@
         "link": "http://hdl.handle.net/1992/50651",
         "autores": [
             "pablofigueroa",
-            "juanPabloOtalora",
-            "eliasNegrete"]
+            "juanpablootalora",
+            "eliasnegrete"
+        ]
     },
     {
         "id": 27,
@@ -322,7 +348,8 @@
         "link": "http://hdl.handle.net/1992/53374",
         "autores": [
             "pablofigueroa",
-            "lauraForero"]
+            "lauraforero"
+        ]
     },
     {
         "id": 28,
@@ -334,7 +361,8 @@
         "autores": [
             "pablofigueroa",
             "josehernandez",
-            "joseDorado"]
+            "josedorado"
+        ]
     },
     {
         "id": 29,
@@ -344,8 +372,9 @@
         "fecha": "2023-01-21",
         "link": "http://hdl.handle.net/1992/64065",
         "autores": [
-            "GabrielaCaballero",
-            "pablofigueroa"]
+            "gabrielacaballero",
+            "pablofigueroa"
+        ]
     },
     {
         "id": 30,
@@ -357,7 +386,8 @@
         "autores": [
             "josehernandez",
             "pablofigueroa",
-            "praimbaud"]
+            "praimbaud"
+        ]
     },
     {
         "id": 31,
@@ -368,7 +398,8 @@
         "link": "http://hdl.handle.net/1992/44131",
         "autores": [
             "josehernandez",
-            "davidMayorga"]
+            "davidmayorga"
+        ]
     },
     {
         "id": 32,
@@ -379,7 +410,8 @@
         "link": "http://hdl.handle.net/1992/44321",
         "autores": [
             "josehernandez",
-            "miguelFeijoo"]
+            "miguelfeijoo"
+        ]
     },
     {
         "id": 33,
@@ -390,7 +422,8 @@
         "link": "http://hdl.handle.net/1992/8870",
         "autores": [
             "josehernandez",
-            "meiliVanegas"]
+            "meilivanegas"
+        ]
     },
     {
         "id": 34,
@@ -400,9 +433,10 @@
         "fecha": "2023-02-02",
         "link": "http://hdl.handle.net/1992/64588",
         "autores": [
-            "nicolasCalero",
-            "santiagoTangarife",
-            "DanielUseche",
-            "pablofigueroa"]
+            "nicolascalero",
+            "santiagotangarife",
+            "danieluseche",
+            "pablofigueroa"
+        ]
     }
 ]

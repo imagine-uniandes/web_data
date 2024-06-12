@@ -1,6 +1,6 @@
 {
     "josehernandez": {
-        "display_name": "Jos\u00e9 Tiberio Hern\u00e1ndez",
+        "display_name": "José Tiberio Hernández",
         "role": "faculty",
         "webpage": "https://profesores.virtual.uniandes.edu.co/jhernand/en/inicio-en/",
         "image": "foto_JoseHernandez.jpg",
@@ -10,7 +10,7 @@
     "marcelahernandez": {
         "role": "faculty",
         "image": "foto_MarcelaHernandez.jpg",
-        "display_name": "Marcela Hern\u00e1ndez Hoyos",
+        "display_name": "Marcela Hernández Hoyos",
         "webpage": "https://profesores.virtual.uniandes.edu.co/marcher/en/inicio-en/",
         "bio": "Associate Professor",
         "is_active": true
@@ -31,15 +31,15 @@
         "bio": "Associate Professor",
         "is_active": true
     },
-    "vivianGomez": {
-        "display_name": "Vivian G\u00f3mez Cubillos",
+    "viviangomez": {
+        "display_name": "Vivian Gómez Cubillos",
         "role": "faculty",
         "webpage": "https://www.linkedin.com/in/vivian-g%C3%B3mez-cubillos-79499b18a/",
         "image": "foto_VivianGomez.jpg",
         "bio": "Instructor Professor & Colivri Lab Coordinator",
         "is_active": true
     },
-    "abelArismendy": {
+    "abelarismendy": {
         "display_name": "Abel Arismendy",
         "role": "ugrad",
         "image": "foto_abelArismendy.jpg",
@@ -47,9 +47,10 @@
         "linkedin": "https://www.linkedin.com/in/abelarismendy/",
         "github": "abelarismendy",
         "is_active": true,
-        "bio": "Research Monitor"
+        "bio": "Research Monitor",
+        "description": "Abel is a Systems and Computing Engineering student at Universidad de los Andes. He is interested in software development, machine learning, and computer vision. He is currently working on the development of a web application for the Colivri Lab."
     },
-    "juanjoseSierra": {
+    "juanjosesierra": {
         "display_name": "Juan Jose Sierra",
         "role": "ugrad",
         "image": "foto_juanjoseSierra.jpg",
@@ -57,7 +58,7 @@
         "is_active": true,
         "bio": "Research Monitor"
     },
-    "juanestebanRodriguez": {
+    "juanestebanrodriguez": {
         "display_name": "Juan Esteban Rodriguez",
         "role": "ugrad",
         "image": "foto_juanEsteban.jpg",
@@ -65,38 +66,38 @@
         "is_active": true,
         "bio": "Research Monitor"
     },
-    "lauraMonroy": {
+    "lauramonroy": {
         "display_name": "Laura Milena Monroy Torres",
         "role": "ugrad",
         "image": "foto_lauraMonroy.jpg",
         "is_active": true,
         "bio": "Research and Design Monitor"
     },
-    "melissaContreras": {
+    "melissacontreras": {
         "display_name": "Melissa Lizeth Contreras Rojas",
         "role": "ugrad",
         "image": "foto_melissaContreras.jpg",
         "is_active": true
     },
-    "nicolasRueda": {
+    "nicolasrueda": {
         "display_name": "Nicolas Enrique Rueda Rincon",
         "role": "ugrad",
         "image": "foto_nicolasRueda.jpg",
         "is_active": true
     },
-    "nicolasFalla": {
+    "nicolasfalla": {
         "display_name": "Nicolas Falla Bernal",
         "role": "ugrad",
         "is_active": true
     },
-    "juanAlegria": {
-        "display_name": "Juan Sebastian Alegria Zu\u00f1iga",
+    "juanalegria": {
+        "display_name": "Juan Sebastian Alegria Zuñiga",
         "role": "ugrad",
         "image": "foto_juanAlegria.jpg",
         "webpage": "https://www.linkedin.com/in/juanszalegria/",
         "is_active": true
     },
-    "julianMora": {
+    "julianmora": {
         "display_name": "Julian Camilo Mora Valbuena",
         "role": "master",
         "image": "foto_julianMora.jpg",
@@ -104,22 +105,22 @@
         "is_active": true,
         "bio": "Graduate Assistant"
     },
-    "estebanOrtiz": {
+    "estebanortiz": {
         "display_name": "Esteban Emmanuel Ortiz Morales",
         "role": "ugrad",
         "is_active": true
     },
-    "juanRivera": {
+    "juanrivera": {
         "display_name": "Juan Manuel Rivera Lopez",
         "role": "master",
         "is_active": true
     },
-    "davidOviedo": {
+    "davidoviedo": {
         "display_name": "David Alberto Oviedo De La Torre",
         "role": "master",
         "is_active": true
     },
-    "valentinaRozo": {
+    "valentinarozo": {
         "display_name": "Valentina Rozo",
         "role": "master",
         "image": "foto_valentinaRozo.jpg",
@@ -127,22 +128,22 @@
         "is_active": true,
         "bio": "Graduate Assistant"
     },
-    "valentinaUribe": {
+    "valentinauribe": {
         "display_name": "Valentina Uribe",
         "role": "master",
         "image": "foto_valentinaUribe.jpg",
         "is_active": true,
         "bio": "Graduate Assistant"
     },
-    "joseDorado": {
-        "display_name": "Jos\u00e9 Luis Dorado",
+    "josedorado": {
+        "display_name": "José Luis Dorado",
         "role": "postdoc",
         "webpage": "https://www.researchgate.net/profile/Jose_Dorado5",
         "image": "foto_JoseDorado.jpg",
         "is_active": true
     },
-    "pabloArbelaez": {
-        "display_name": "Pablo Arbel\u00e1ez",
+    "pabloarbelaez": {
+        "display_name": "Pablo Arbeláez",
         "role": "collab",
         "is_active": true
     },
@@ -152,20 +153,20 @@
         "role": "collab",
         "is_active": true
     },
-    "dominiqueFouchez": {
+    "dominiquefouchez": {
         "display_name": "Dominique Fouchez",
         "webpage": "https://annuaire.in2p3.fr/agents/Y249Rm91Y2hleiBEb21pbmlxdWUsb3U9cGVvcGxlLGRjPWluMnAzLGRjPWZy/show",
         "role": "collab",
         "image": "foto_dominiqueFouchez.jpg",
         "is_active": true
     },
-    "johnPuentes": {
+    "johnpuentes": {
         "display_name": "John Puentes",
         "webpage": "https://www.telecom-bretagne.eu/studies/msc/professors/puentes/",
         "role": "collab",
         "is_active": true
     },
-    "maciejOrkisz": {
+    "maciejorkisz": {
         "display_name": "Maciej Orkisz",
         "webpage": "https://www.creatis.insa-lyon.fr/site7/en/users/orkisz",
         "role": "collab",
@@ -185,34 +186,34 @@
         "is_active": true
     },
     "oscargonzalez": {
-        "display_name": "Prof Oscar Gonz\u00e1lez",
+        "display_name": "Prof Oscar González",
         "webpage": "https://profesores.virtual.uniandes.edu.co/blog/disc_profesores/o-gonza1/",
         "role": "collab",
         "image": "https://profesores.virtual.uniandes.edu.co/wp-content/uploads/2015/07/o-gonza1.jpg",
         "is_active": true
     },
-    "robTeather": {
+    "robteather": {
         "display_name": "Rob Teather",
         "webpage": "http://www.csit.carleton.ca/~rteather/",
         "role": "collab",
         "image": "http://www.csit.carleton.ca/~rteather/images/rt.jpg",
         "is_active": true
     },
-    "FredericMerienn": {
-        "display_name": "Fr\u00e9d\u00e9ric Merienn",
+    "fredericmerienn": {
+        "display_name": "Frédéric Merienn",
         "webpage": "http://www.linkedin.com/pub/fr%C3%A9d%C3%A9ric-merienne/14/586/451",
         "role": "collab",
         "image": "https://institutchalon.ensam.eu/medias/photo/2021-f-merienne_1623222776355-jpg",
         "is_active": true
     },
-    "johnCMcClelland": {
+    "johncmcclelland": {
         "display_name": "John C McClelland",
         "webpage": "https://cil.csit.carleton.ca/staff-members/john-mcclelland/",
         "role": "collab",
         "image": "foto_johnCMcClelland.jpg",
         "is_active": true
     },
-    "audreyGirouard": {
+    "audreygirouard": {
         "display_name": "Audrey Girouard",
         "webpage": "https://carleton.ca/hci/people/audrey-girouard/",
         "role": "collab",
@@ -220,7 +221,7 @@
         "is_active": true
     },
     "johnguerra": {
-        "display_name": "John Alexis Guerra G\u00f3mez",
+        "display_name": "John Alexis Guerra Gómez",
         "webpage": "http://johnguerra.co",
         "github": "john-guerra",
         "role": "collab",
@@ -228,7 +229,7 @@
         "bio": "Assistant Professor",
         "is_active": true
     },
-    "carolinaHiguera": {
+    "carolinahiguera": {
         "display_name": "Carolina Higuera Arias",
         "role": "collab",
         "webpage": "https://www.researchgate.net/profile/Carolina_Higuera2",
@@ -245,7 +246,7 @@
         "bio": "Instructor Professor",
         "is_active": true
     },
-    "nelsonAndresSanchez": {
+    "nelsonandressanchez": {
         "display_name": "Nelson Andres Sanchez O",
         "role": "collab",
         "webpage": "https://www.researchgate.net/profile/Nelson_Sanchez_Otalora",
@@ -253,127 +254,127 @@
         "bio": "Instructor Professor",
         "is_active": true
     },
-    "markusTatzgen": {
+    "markustatzgen": {
         "display_name": "Markus Tatzgen",
         "role": "collab",
         "image": "foto_markusTatzgen.jpg",
         "is_active": true
     },
-    "leonardoMejia": {
+    "leonardomejia": {
         "display_name": "Leonardo Mejia",
         "role": "ugrad",
         "is_active": false
     },
-    "mariaGarcia": {
+    "mariagarcia": {
         "display_name": "Maria Valentina Garcia Alvarado",
         "role": "ugrad",
         "is_active": false
     },
-    "carlosSilva": {
+    "carlossilva": {
         "display_name": "Carlos Enrique Silva Lascarro",
         "role": "ugrad",
         "is_active": false
     },
-    "juanSantiago": {
-        "display_name": "Juan Andr\u00e9s Santiago Vasques",
+    "juansantiago": {
+        "display_name": "Juan Andrés Santiago Vasques",
         "role": "ugrad",
         "is_active": false
     },
-    "camiloFalla": {
+    "camilofalla": {
         "display_name": "Camilo Falla Moreno",
         "role": "ugrad",
         "is_active": false
     },
-    "gabrielaCagua": {
+    "gabrielacagua": {
         "display_name": "Gabriela Cagua Bolivar",
         "role": "ugrad",
         "is_active": false
     },
-    "juanBautista": {
+    "juanbautista": {
         "display_name": "Juan David Bautista Parra",
         "role": "ugrad",
         "is_active": false
     },
-    "arturoRubio": {
+    "arturorubio": {
         "display_name": "Arturo Rubio",
         "role": "ugrad",
         "is_active": false,
         "image": "foto_arturoRubio.jpg"
     },
-    "marioMedina": {
+    "mariomedina": {
         "display_name": "Mario Felipe Medina Zamudio",
         "role": "ugrad",
         "is_active": false
     },
-    "nicolasCalero": {
-        "display_name": "Nicol\u00e1s Esteban Calero Caycedo",
+    "nicolascalero": {
+        "display_name": "Nicolás Esteban Calero Caycedo",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://www.linkedin.com/in/nicolascalero",
         "image": "foto_nicolasCalero.jpg"
     },
-    "santiagoTangarife": {
-        "display_name": "Santiago Tangarife Rinc\u00f3n",
+    "santiagotangarife": {
+        "display_name": "Santiago Tangarife Rincón",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://www.linkedin.com/in/santiago-t-r-85ua",
         "image": "foto_santiagoTangarife.jpg"
     },
-    "DanielUseche": {
-        "display_name": "Daniel Fernando Useche Rodr\u00edguez",
+    "danieluseche": {
+        "display_name": "Daniel Fernando Useche Rodríguez",
         "role": "ugrad",
         "is_active": false
     },
-    "GabrielaCaballero": {
-        "display_name": "Gabriela Caballero Dur\u00e1n",
+    "gabrielacaballero": {
+        "display_name": "Gabriela Caballero Durán",
         "role": "ugrad",
         "is_active": false,
         "image": "foto_gabrielaCaballero.jpg"
     },
-    "AngelaJimenez": {
-        "display_name": "\u00c1ngela Liliana Jim\u00e9nez Flechas",
+    "angelajimenez": {
+        "display_name": "Ángela Liliana Jiménez Flechas",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://www.linkedin.com/in/angelajimenezf/",
         "image": "foto_angelaJimenez.jpg"
     },
-    "AndresRincon": {
-        "display_name": "Andr\u00e9s Felipe Rinc\u00f3n Pinz\u00f3n",
+    "andresrincon": {
+        "display_name": "Andrés Felipe Rincón Pinzón",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://www.linkedin.com/in/andresrinconp/",
         "image": "foto_andresRincon.jpg"
     },
-    "BrendaBarahona": {
+    "brendabarahona": {
         "display_name": "Brenda Catalina Barahona Pinilla",
         "role": "ugrad",
         "is_active": false,
         "webpage": "linkedin.com/in/brenda-barahona"
     },
-    "lauraForero": {
+    "lauraforero": {
         "display_name": "Laura Isabella Forero Camacho",
         "role": "ugrad",
         "is_active": false
     },
-    "vhanessaCardona": {
-        "display_name": "Vhanessa Cardona Ca\u00f1averal",
+    "vhanessacardona": {
+        "display_name": "Vhanessa Cardona Cañaveral",
         "role": "ugrad",
         "is_active": false
     },
-    "gabrielSerna": {
+    "gabrielserna": {
         "display_name": "Gabriel Santiago Serna",
         "role": "ugrad",
         "is_active": false,
         "image": "foto_gabrielSerna.jpg"
     },
-    "camiloOtalora": {
-        "display_name": "Camilo Ot\u00e1lora",
+    "camilootalora": {
+        "display_name": "Camilo Otálora",
         "role": "ugrad",
         "is_active": false,
         "image": "foto_camiloOtalora.jpg"
     },
     "camiloescobarv": {
-        "display_name": "Camilo Andr\u00e9s Escobar Vel\u00e1squez",
+        "display_name": "Camilo Andrés Escobar Velásquez",
         "role": "ugrad",
         "is_active": false
     },
@@ -383,65 +384,65 @@
         "is_active": false
     },
     "deisydiaz": {
-        "display_name": "Deisy D\u00edaz P\u00e9rez",
+        "display_name": "Deisy Díaz Pérez",
         "role": "ugrad",
         "is_active": false
     },
-    "camiloAlfonso": {
-        "display_name": "Camilo Alejandro Alfonso S\u00e1nchez",
+    "camiloalfonso": {
+        "display_name": "Camilo Alejandro Alfonso Sánchez",
         "role": "ugrad",
         "is_active": false,
         "image": "foto_camiloAlfonso.jpg"
     },
-    "estebanDalel": {
+    "estebandalel": {
         "display_name": "Esteban Dalel Rueda",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://estebandalelr.co/",
         "image": "foto_estebanDalel.jpg"
     },
-    "felipeMartinez": {
+    "felipemartinez": {
         "display_name": "Felipe Martinez Piazuelo",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://piazuelo.com/felipe",
         "image": "foto_felipeMartinez.jpg"
     },
-    "sebastianCardona": {
-        "display_name": "Juan Sebasti\u00e1n Cardona Mu\u00f1oz",
+    "sebastiancardona": {
+        "display_name": "Juan Sebastián Cardona Muñoz",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://jscardona12.github.io/MyWebPage/",
         "image": "foto_sebastianCardona.jpg"
     },
-    "luisMesa": {
+    "luismesa": {
         "display_name": "Luis Mesa",
         "role": "ugrad",
         "is_active": false,
         "webpage": "http://luis-mesa.me",
         "image": "foto_luisMesa.jpg"
     },
-    "nicolarChavez": {
+    "nicolarchavez": {
         "display_name": "Nicolas Chaves",
         "role": "ugrad",
         "is_active": false,
         "image": "foto_nicolarChavez.jpg"
     },
-    "antonioDeLaVega": {
+    "antoniodelavega": {
         "display_name": "Antonio de la Vega",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://adelavegaf.github.io/",
         "image": "foto_antonioDeLaVega.jpg"
     },
-    "davidDelgado": {
+    "daviddelgado": {
         "display_name": "David Mauricio Delgado Ruiz",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://nonameable.github.io",
         "image": "foto_davidDelgado.jpg"
     },
-    "juanGuillermo": {
+    "juanguillermo": {
         "display_name": "Juan Guillermo Murillo Castillo",
         "role": "ugrad",
         "is_active": false,
@@ -454,359 +455,359 @@
         "is_active": false,
         "image": "foto_RogelioGarcia.jpg"
     },
-    "margaritaGomez": {
-        "display_name": "Margarita G\u00f3mez Ball\u00e9n",
+    "margaritagomez": {
+        "display_name": "Margarita Gómez Ballén",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://margaritagomez.github.io/",
         "image": "foto_margaritaGomez.jpg"
     },
-    "camilaGarcia": {
-        "display_name": "Camila Garc\u00eda Hern\u00e1ndez",
+    "camilagarcia": {
+        "display_name": "Camila García Hernández",
         "role": "ugrad",
         "is_active": false,
         "webpage": "http://cgarciahdez.github.io/",
         "image": "foto_camilaGarcia.jpg"
     },
-    "santiagoBeltran": {
+    "santiagobeltran": {
         "display_name": "Santiago Beltran",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://webdevuniandes.github.io./sbeltran10/"
     },
-    "fabioLopez": {
-        "display_name": "Fabio Andr\u00e9s L\u00f3pez Corredor",
+    "fabiolopez": {
+        "display_name": "Fabio Andrés López Corredor",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://falopez10.github.io/",
         "image": "foto_fabioLopez.jpg"
     },
-    "joanTorres": {
-        "display_name": "Joan David Torres Pinz\u00f3n",
+    "joantorres": {
+        "display_name": "Joan David Torres Pinzón",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://github.com/JDTorresP/",
         "image": "foto_joanTorres.jpg"
     },
-    "eduardoCabello": {
-        "display_name": "Eduardo Arturo Cabello Ag\u00fcero",
+    "eduardocabello": {
+        "display_name": "Eduardo Arturo Cabello Agüero",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://eacabello10.github.io/",
         "image": "foto_EduardoCabello10.jpg"
     },
-    "ricardoGonzalez": {
-        "display_name": "Ricardo Enrique Gonzalez Pe\u00f1uela",
+    "ricardogonzalez": {
+        "display_name": "Ricardo Enrique Gonzalez Peñuela",
         "role": "ugrad",
         "is_active": false,
         "image": "Foto_RicardoGonzalez.jpg"
     },
-    "camiloZambrano": {
+    "camilozambrano": {
         "display_name": "Camilo Zambrano Votto",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://cawolfkreo.github.io/",
         "image": "foto_CamiloZambrano.jpg"
     },
-    "zulmaCastaneda": {
-        "display_name": "Zulma Lorena Casta\u00f1eda Hidalgo",
+    "zulmacastaneda": {
+        "display_name": "Zulma Lorena Castañeda Hidalgo",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://zlcastaneda10.github.io/",
         "image": "foto_ZulmaCastanieda.jpg"
     },
-    "juanPalacios": {
+    "juanpalacios": {
         "display_name": "Juan Felipe Palacios Sanchez",
         "role": "master",
         "is_active": false
     },
-    "julianAmezquita": {
+    "julianamezquita": {
         "display_name": "Julian Stiven Amezquita Moreno",
         "role": "ugrad",
         "is_active": false
     },
-    "luisGarcia": {
-        "display_name": "Luis Jose Garc\u00eda Mojica",
+    "luisgarcia": {
+        "display_name": "Luis Jose García Mojica",
         "role": "ugrad",
         "is_active": false
     },
-    "luisaRodriguez": {
+    "luisarodriguez": {
         "display_name": "Luisa Mariana Rodriguez Cifuentes",
         "role": "ugrad",
         "is_active": false
     },
-    "andresDaza": {
+    "andresdaza": {
         "display_name": "Andres Felipe Daza Diaz",
         "role": "ugrad",
         "is_active": false
     },
-    "gabrielMartinez": {
-        "display_name": "Gabriel Mart\u00ednez Zarama",
+    "gabrielmartinez": {
+        "display_name": "Gabriel Martínez Zarama",
         "role": "ugrad",
         "is_active": false
     },
-    "samuelBaquero": {
-        "display_name": "Samuel Baquero Merch\u00e1n",
+    "samuelbaquero": {
+        "display_name": "Samuel Baquero Merchán",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://samuelbaquero.github.io/MyWebsite/"
     },
-    "cristianAmaya": {
+    "cristianamaya": {
         "display_name": "Cristian M. Amaya",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://cm-amaya.github.io/",
         "image": "foto_CristianAmaya.jpg"
     },
-    "nycholBazurto": {
+    "nycholbazurto": {
         "display_name": "Nychol Bazurto",
         "role": "ugrad",
         "is_active": false,
         "webpage": "http://nycholbazurto.me/",
         "image": "foto_nycholBazurto.jpg"
     },
-    "andresSandoval": {
-        "display_name": "Andr\u00e9s Sandoval",
+    "andressandoval": {
+        "display_name": "Andrés Sandoval",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://asandovaluniandes.github.io/portfolio/",
         "image": "foto_andresSandoval.jpg"
     },
-    "danielCagua": {
+    "danielcagua": {
         "display_name": "Daniel Cagua Ennis",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://co.linkedin.com/in/daniel-cagua-ennis-93aaa9154",
         "image": "foto_DanielCagua.jpg"
     },
-    "omarPino": {
+    "omarpino": {
         "display_name": "Omar Leonardo Pino Reyes",
         "role": "ugrad",
         "is_active": false,
         "image": "foto_OmarPino.jpg"
     },
-    "sergioMadera": {
+    "sergiomadera": {
         "display_name": "Sergio Madera",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://co.linkedin.com/in/sergio-madera?challengeId=AQH0B4taKbSh9QAAAXVRRwomRXfN6B3b-_yJyTYTUyZsG8DC7tAPSJvsRAHql2E2G5Ev91BIQhwabOS0a4831IWRaO1hune0ig&submissionId=355ee627-725f-4016-a2ea-c361f906d93b",
         "image": "foto_SergioMadera.jpg"
     },
-    "rafaelForero": {
+    "rafaelforero": {
         "display_name": "RafaelForero",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://github.com/rafafor24"
     },
-    "juanCorrea": {
+    "juancorrea": {
         "display_name": "Juan Diego Correa",
         "image": "foto_JuanCorrea.jpg",
         "role": "ugrad",
         "is_active": false
     },
-    "AndresBejarano": {
-        "display_name": "Andr\u00e9s Bejarano",
+    "andresbejarano": {
+        "display_name": "Andrés Bejarano",
         "image": "foto_AndresBejarano.jpg",
         "role": "ugrad",
         "is_active": false
     },
-    "juanCamacho": {
+    "juancamacho": {
         "display_name": "Juan Pablo Camacho",
         "role": "ugrad",
         "is_active": false,
         "image": "foto_JuanCamacho.jpg"
     },
-    "joseRiano": {
-        "display_name": "Jose Alejandro Ria\u00f1o Ria\u00f1o",
+    "joseriano": {
+        "display_name": "Jose Alejandro Riaño Riaño",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://www.linkedin.com/in/joalri/?originalSubdomain=co",
         "image": "foto_JoseRiano.jpg"
     },
-    "julianMendoza": {
+    "julianmendoza": {
         "display_name": "Julian David Mendoza Ruiz",
         "role": "ugrad",
         "is_active": false
     },
-    "julioMorales": {
+    "juliomorales": {
         "display_name": "Julio Alejandro Morales Buitrago",
         "role": "ugrad",
         "is_active": false
     },
-    "andresGonzalez": {
-        "display_name": "Andr\u00e9s Javier Gonz\u00e1lez Torres",
+    "andresgonzalez": {
+        "display_name": "Andrés Javier González Torres",
         "role": "ugrad",
         "is_active": false
     },
-    "santiagoSerrano": {
-        "display_name": "Santiago de Jes\u00fas Serrano Ayarza",
+    "santiagoserrano": {
+        "display_name": "Santiago de Jesús Serrano Ayarza",
         "role": "ugrad",
         "is_active": false
     },
-    "carlosOrduz": {
-        "display_name": "Carlos Andr\u00e9s Orduz Pinilla",
+    "carlosorduz": {
+        "display_name": "Carlos Andrés Orduz Pinilla",
         "role": "ugrad",
         "is_active": false
     },
-    "jesusCarcamo": {
-        "display_name": "Jes\u00fas Orlando C\u00e1rcamo Posada",
+    "jesuscarcamo": {
+        "display_name": "Jesús Orlando Cárcamo Posada",
         "role": "ugrad",
         "is_active": false
     },
-    "martinAlvarez": {
+    "martinalvarez": {
         "display_name": "Martin Alvarez Gaviria",
         "role": "ugrad",
         "is_active": false
     },
-    "nicolasBejar": {
+    "nicolasbejar": {
         "display_name": "Nicolas Bejar Arambula",
         "role": "ugrad",
         "is_active": false
     },
-    "carlosGonzalez": {
-        "display_name": "Carlos Eduardo Gonz\u00e1lez \u00c1lvarez",
+    "carlosgonzalez": {
+        "display_name": "Carlos Eduardo González Álvarez",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://cegonzalv.github.io",
         "image": "foto_CarlosGonzalez.jpg"
     },
-    "davidLaiton": {
-        "display_name": "Andr\u00e9s David Laiton",
+    "davidlaiton": {
+        "display_name": "Andrés David Laiton",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://daviddlaiton.github.io/",
         "image": "foto_AndresLaiton.jpg"
     },
-    "pabloSuarez": {
-        "display_name": "Pablo Andr\u00e9s Suarez Murillo",
+    "pablosuarez": {
+        "display_name": "Pablo Andrés Suarez Murillo",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://www.linkedin.com/in/pablo-andres-suarez/",
         "image": "foto_pabloSuarez.jpg"
     },
-    "danielPardo": {
-        "display_name": "Daniel Andr\u00e9s Pardo Chaves",
+    "danielpardo": {
+        "display_name": "Daniel Andrés Pardo Chaves",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://danielpardo.website/",
         "image": "foto_danielPardo.jpg"
     },
-    "andresLosada": {
-        "display_name": "Andr\u00e9s Felipe Losada Luna",
+    "andreslosada": {
+        "display_name": "Andrés Felipe Losada Luna",
         "role": "ugrad",
         "is_active": false,
         "webpage": "https://www.linkedin.com/in/andres-felipe-l-4a63a3104/",
         "image": "foto_andresLosada.jpg"
     },
-    "juanSanchez": {
+    "juansanchez": {
         "display_name": "Juan Camilo Sanchez Pardo",
         "role": "ugrad",
         "is_active": false
     },
-    "andresSanchez": {
-        "display_name": "Andr\u00e9s Felipe S\u00e1nchez Rangel",
+    "andressanchez": {
+        "display_name": "Andrés Felipe Sánchez Rangel",
         "role": "ugrad",
         "is_active": false,
         "image": "foto_andresSanchez.jpg"
     },
-    "santiagoGamboa": {
+    "santiagogamboa": {
         "display_name": "Santiago Esteban Gamboa",
         "role": "ugrad",
         "is_active": false,
         "image": "foto_santiagoGamboa.jpg"
     },
-    "nicolasFajardo": {
-        "display_name": "Nicol\u00e1s Fajardo Ramirez",
+    "nicolasfajardo": {
+        "display_name": "Nicolás Fajardo Ramirez",
         "role": "ugrad",
         "is_active": false,
         "image": "foto_nicolasFajardo.jpg"
     },
-    "juanPabloOtalora": {
-        "display_name": "Juan Pablo Ot\u00e1lora Romero",
+    "juanpablootalora": {
+        "display_name": "Juan Pablo Otálora Romero",
         "role": "ugrad",
         "is_active": false
     },
-    "eliasNegrete": {
+    "eliasnegrete": {
         "display_name": "Elias David Negrete Salgado",
         "role": "ugrad",
         "is_active": false
     },
-    "yesidBejarano": {
+    "yesidbejarano": {
         "display_name": "Yesid Alexander Bejarano",
         "role": "ugrad",
         "is_active": false
     },
-    "juanManuelMu\u00f1oz": {
-        "display_name": "Juan Manuel Mu\u00f1oz",
+    "juanmanuelmuñoz": {
+        "display_name": "Juan Manuel Muñoz",
         "role": "ugrad",
         "is_active": false
     },
-    "juanSebastianArciniegas": {
-        "display_name": "Juan Sebasti\u00e1n Arciniegas",
+    "juansebastianarciniegas": {
+        "display_name": "Juan Sebastián Arciniegas",
         "role": "ugrad",
         "is_active": false
     },
-    "sebastianCalvache": {
+    "sebastiancalvache": {
         "display_name": "Sebastian Calvache Mejia",
         "role": "master",
         "is_active": false,
         "webpage": "https://www.linkedin.com/in/sebastian-calvache-mejia/",
         "image": "foto_SebastianCalvache.jpg"
     },
-    "joseLuna": {
-        "display_name": "Jos\u00e9 Luna",
+    "joseluna": {
+        "display_name": "José Luna",
         "role": "master",
         "is_active": false,
         "image": "foto_joseLuna.jpg"
     },
-    "camiloUseche": {
+    "camilouseche": {
         "display_name": "Juan Camilo Useche",
         "role": "master",
         "is_active": false,
         "webpage": "https://juancamilousecherodriguez.github.io/",
         "image": "foto_juanUseche.jpg"
     },
-    "davidMayorga": {
+    "davidmayorga": {
         "display_name": "David Ricardo Mayorga H.",
         "role": "master",
         "is_active": false
     },
-    "johannGonzalez": {
-        "display_name": "Johann Felipe Gonz\u00e1lez",
+    "johanngonzalez": {
+        "display_name": "Johann Felipe González",
         "role": "master",
         "is_active": false,
         "webpage": "https://cil.csit.carleton.ca/staff-members/johann-felipe-gonzalez-avila/",
         "image": "foto_JohannGonzalez.jpg"
     },
-    "meiliVanegas": {
+    "meilivanegas": {
         "display_name": "Meili Vanegas",
         "role": "master",
         "is_active": false,
         "webpage": "https://mvanegas10.github.io/",
         "image": "foto_meiliVanegas.jpg"
     },
-    "fabianPenna": {
-        "display_name": "Fabian Camilo Pe\u00f1a",
+    "fabianpenna": {
+        "display_name": "Fabian Camilo Peña",
         "role": "master",
         "is_active": false,
         "webpage": "https://fabiancpl.github.io/",
         "image": "foto_fabianPenna.jpg"
     },
-    "miguelFeijoo": {
-        "display_name": "Miguel Alfonso Feij\u00f3o G",
+    "miguelfeijoo": {
+        "display_name": "Miguel Alfonso Feijóo G",
         "role": "master",
         "is_active": false,
         "webpage": "https://miguelalfonsofeijoo.wixsite.com/miguelfeijoo",
         "image": "foto_miguelfeijoo.jpg"
     },
-    "juanCamilo": {
-        "display_name": "Juan Camilo Ortiz Rom\u00e1n",
+    "juancamilo": {
+        "display_name": "Juan Camilo Ortiz Román",
         "role": "master",
         "is_active": false,
         "webpage": "http://www.juancortiz.com/",
         "image": "foto_juanCamilo.jpg"
     },
-    "julianaMM": {
+    "julianamm": {
         "display_name": "Juliana Montes Maestre",
         "role": "master",
         "is_active": false,
@@ -814,31 +815,31 @@
         "image": "foto_julianaMM.jpg"
     },
     "fmedina": {
-        "display_name": "Fabi\u00e1n Medina",
+        "display_name": "Fabián Medina",
         "role": "master",
         "is_active": false,
         "webpage": "http://ingfabianmedina.epizy.com",
         "image": "foto_fmedina.jpg"
     },
-    "ricardoMendoza": {
+    "ricardomendoza": {
         "display_name": "Ricardo A. Mendoza Leon",
         "role": "master",
         "is_active": false,
         "webpage": "http://www.ricardoMendoza.com/"
     },
-    "philippFeix": {
+    "philippfeix": {
         "display_name": "Philipp Feix",
         "role": "master",
         "is_active": false,
         "image": "foto_PhilippFeix.jpg"
     },
-    "cynthiaOchoa": {
+    "cynthiaochoa": {
         "display_name": "Cynthia Ochoa",
         "role": "master",
         "is_active": false
     },
-    "EmilioAlvarado": {
-        "display_name": "Emilio Andr\u00e9s Alvarado Santis",
+    "emilioalvarado": {
+        "display_name": "Emilio Andrés Alvarado Santis",
         "role": "master",
         "is_active": false,
         "webpage": "https://github.com/emilioalvarado",
@@ -850,61 +851,61 @@
         "is_active": false
     },
     "jessikabuitrago": {
-        "display_name": "Jessika Johana Buitrago Ram\u00edrez",
+        "display_name": "Jessika Johana Buitrago Ramírez",
         "webpage": "https://github.com/Jessikabui",
         "role": "master",
         "is_active": false,
         "image": "foto_jessikaBuitrago.jpg"
     },
     "leonardobareno": {
-        "display_name": "Leonardo Bare\u00f1o",
+        "display_name": "Leonardo Bareño",
         "role": "master",
         "is_active": false,
         "image": "foto_LeonardoBareno.jpg"
     },
-    "santiagoMunera": {
-        "display_name": "Santiago Felipe Munera D\u00e1vila",
+    "santiagomunera": {
+        "display_name": "Santiago Felipe Munera Dávila",
         "role": "master",
         "is_active": false
     },
-    "franciscoDurango": {
+    "franciscodurango": {
         "display_name": "Francisco Manuel Jose Durango Uribe",
         "role": "master",
         "is_active": false,
         "webpage": "https://github.com/franciscoD1202",
         "image": "foto_FranciscoManuelJoseDurangoUribe.jpg"
     },
-    "camiloMera": {
+    "camilomera": {
         "display_name": "David Camilo Mera David",
         "role": "master",
         "is_active": false,
         "webpage": "https://about.me/cmera",
         "image": "foto_camiloMera.jpg"
     },
-    "davidCubillos": {
+    "davidcubillos": {
         "display_name": "David Fernando Cubillos",
         "role": "master",
         "is_active": false,
         "image": "foto_DavidCubillos.jpg"
     },
-    "kellyPenaranda": {
-        "display_name": "Kelly Katherine Pe\u00f1aranda Rivera",
+    "kellypenaranda": {
+        "display_name": "Kelly Katherine Peñaranda Rivera",
         "role": "master",
         "is_active": false,
         "image": "foto_KellyPenaranda.jpg"
     },
     "diegorodriguez": {
-        "display_name": "Diego Rodr\u00edguez",
+        "display_name": "Diego Rodríguez",
         "role": "phd",
         "is_active": false,
         "image": "foto_DiegoRodriguez.jpg"
     },
-    "juanCamiloIbarra": {
+    "juancamiloibarra": {
         "display_name": "Juan Camilo Ibarra",
         "role": "phd",
         "is_active": false
     },
-    "juanPabloReyes": {
+    "juanpabloreyes": {
         "display_name": "Juan Pablo Reyes Gomez",
         "role": "phd",
         "is_active": false,
@@ -916,66 +917,66 @@
         "is_active": false,
         "image": "foto_PierreRaimbaud.jpg"
     },
-    "carlosAldana": {
+    "carlosaldana": {
         "display_name": "Carlos Aldana",
         "role": "sinfonia",
         "is_active": false
     },
-    "alexandraGuitierrez": {
+    "alexandraguitierrez": {
         "display_name": "Alexandra Gutierrez",
         "role": "sinfonia",
         "is_active": false
     },
-    "luccasRojas": {
+    "luccasrojas": {
         "display_name": "Luccas Rojas Becerra",
         "role": "sinfonia",
         "is_active": false
     },
-    "davidCuevas": {
+    "davidcuevas": {
         "display_name": "David Cuevas Alba",
         "role": "sinfonia",
         "is_active": false
     },
-    "zulayVillabona": {
+    "zulayvillabona": {
         "display_name": "Zulay Villabona Parra",
         "role": "Lab Coordinator",
         "image": "foto_zulayVillabona.PNG",
         "is_active": true,
         "bio": "Electrical Lab Coordinator"
     },
-    "julianaLaserna": {
+    "julianalaserna": {
         "display_name": "Juliana Andrea Laserna Montoya",
         "role": "Lab Coordinator",
         "image": "foto_julianaLaserna.PNG",
         "is_active": true,
         "bio": "Mechanical Lab Coordinator"
     },
-    "gabrielVasco": {
+    "gabrielvasco": {
         "display_name": "Gabriel Vasco",
         "role": "collab",
         "is_active": false
     },
-    "camiloCamargo": {
+    "camilocamargo": {
         "display_name": "Camilo Camargo",
         "role": "collab",
         "is_active": false
     },
-    "mariaNavarro": {
+    "marianavarro": {
         "display_name": "Maria Elisa Navarro",
         "role": "collab",
         "is_active": false
     },
-    "otonielCastaneda": {
+    "otonielcastaneda": {
         "display_name": "Otoniel Castañeda",
         "role": "collab",
         "is_active": false
     },
-    "juanManuelHernandez": {
+    "juanmanuelhernandez": {
         "display_name": "Juan Manuel Hernandez",
         "role": "ugrad",
         "is_active": false
     },
-    "geraldineJimenez": {
+    "geraldinejimenez": {
         "display_name": "Geraldine Jiménez",
         "role": "ugrad",
         "is_active": false

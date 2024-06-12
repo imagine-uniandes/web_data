@@ -5,19 +5,19 @@
         "researchArea": "Mixed Realities",
         "descripcion": "Vivero Virtual es el Programa de Incubadora XR de la Universidad de los Andes que fue beneficiario de la beca Higher Ed XR Innovation Grant de Unity Social Impact y Meta Immersive Learning, gracias a sus propuestas de inclusión, impacto, viabilidad e innovación en la alfabetización desde la académica de este nuevo uso de las tecnologías, para aumentar el acceso a hardware AR/VR, el contenido educativo de alta calidad y otros recursos que ayudarán a los educadores a crear o mejorar programas XR innovadores.",
         "logo": "viveroVirtual.jpg",
-        "fotoGrupo":"viveroTeam.jfif",
+        "fotoGrupo": "viveroTeam.jfif",
         "website": "https://vivero.virtual.uniandes.edu.co/",
         "github": "",
         "integrantes": [
             "pablofigueroa",
-            "vivianGomez",
-            "valentinaRozo",
-            "valentinaUribe",
-            "julianMora",
-            "lauraMonroy",
-            "abelArismendy",
-            "juanestebanRodriguez",
-            "juanjoseSierra"
+            "viviangomez",
+            "valentinarozo",
+            "valentinauribe",
+            "julianmora",
+            "lauramonroy",
+            "abelarismendy",
+            "juanestebanrodriguez",
+            "juanjosesierra"
         ],
         "redes": {
             "correo": "viverovirtual@uniandes.edu.co",
@@ -34,13 +34,13 @@
         "researchArea": "Visual Analytics",
         "descripcion": "IMAGINE is a Visual Computing research group at Los Andes University in the Systems & Computing Engineering department. The group develops research and innovation with knowledge-based image processing, computer graphics, mixed reality, human machine interaction and interactive robotics. Our main application domains are: biomedicine, training and entertainment, visual analytics and sustainable urban systems.",
         "logo": "imagine.png",
-        "fotoGrupo":"",
+        "fotoGrupo": "",
         "website": "https://imagine.uniandes.edu.co/",
         "github": "https://github.com/imagine-uniandes",
         "integrantes": [
             "fernandodelarosa",
             "pablofigueroa",
-            "vivianGomez",
+            "viviangomez",
             "marcelahernandez"
         ],
         "redes": {
@@ -58,14 +58,14 @@
         "researchArea": "Mixed Realities",
         "descripcion": "La Iniciativa Estudiantil Oasis busca fomentar el conocimiento y la exploración de diferentes tecnologías de Realidad Mixta entre los participantes. Nuestro principal objetivo es brindar un espacio de encuentro semanal en el que se presenten diversas categorías de aplicaciones de Realidad Mixta y se promueva el aprendizaje, la interacción y la diversión en torno a estas tecnologías.",
         "logo": "oasis.png",
-        "fotoGrupo":"oasisTeam.jpg",
+        "fotoGrupo": "oasisTeam.jpg",
         "website": "",
         "github": "https://github.com/Oasis-Uniandes",
         "integrantes": [
-            "abelArismendy",
-            "juanjoseSierra",
-            "juanestebanRodriguez",
-            "julianMora"
+            "abelarismendy",
+            "juanjosesierra",
+            "juanestebanrodriguez",
+            "julianmora"
         ],
         "redes": {
             "correo": "oasis@uniandes.edu.co",
@@ -82,14 +82,14 @@
         "researchArea": "Robotics",
         "descripcion": "SinfonIA is a robotics and AI research group at Universidad de Los Andes, about merging technology and human interaction. They currently work in the following subgroups: Perception, Navigation, Manipulation and Speech, each of which refines a piece of the social interaction pie. Likewise, members in Interface and Toolkit ensure that our robots are top-notch, while task members orchestrate the grand symphony of robotic tasks.",
         "logo": "sinfonia.png",
-        "fotoGrupo":"sinfoniaTeam.jpg",
+        "fotoGrupo": "sinfoniaTeam.jpg",
         "website": "https://sinfoniauniandes.github.io/SinfonIA-web/home",
         "github": "",
         "integrantes": [
-            "carlosAldana",
-            "alexandraGuitierrez",
-            "luccasRojas",
-            "davidCuevas"
+            "carlosaldana",
+            "alexandraguitierrez",
+            "luccasrojas",
+            "davidcuevas"
         ],
         "redes": {
             "correo": "sinfonia@uniandes.edu.co",
@@ -106,21 +106,21 @@
         "researchArea": "oasisTeam.jpg",
         "descripcion": "Equipo Colivri es un grupo de profesores y estudiantes de la Universidad de los Andes que busca desarrollar proyectos de investigación y desarrollo en el área de Realidad Virtual y Realidad Aumentada.",
         "logo": "colivri.png",
-        "fotoGrupo":"",
+        "fotoGrupo": "",
         "website": "",
         "github": "",
         "integrantes": [
             "pablofigueroa",
-            "vivianGomez",
-            "zulayVillabona",
-            "julianaLaserna",
-            "valentinaRozo",
-            "valentinaUribe",
-            "julianMora",
-            "juanestebanRodriguez",
-            "lauraMonroy",
-            "abelArismendy",
-            "juanjoseSierra"
+            "viviangomez",
+            "zulayvillabona",
+            "julianalaserna",
+            "valentinarozo",
+            "valentinauribe",
+            "julianmora",
+            "juanestebanrodriguez",
+            "lauramonroy",
+            "abelarismendy",
+            "juanjosesierra"
         ],
         "redes": {
             "correo": "",
