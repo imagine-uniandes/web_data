@@ -48,7 +48,8 @@
         "github": "abelarismendy",
         "is_active": true,
         "bio": "Research Monitor",
-        "description": "Abel is a Systems and Computing Engineering student at Universidad de los Andes. He is interested in software development, machine learning, and computer vision. He is currently working on the development of a web application for the Colivri Lab."
+        "description": "Abel is a Systems and Computing Engineering student at Universidad de los Andes. He is interested in software development, machine learning, and computer vision. He is currently working on the development of a web application for the Colivri Lab.",
+        "email": "a.arismendy@uniandes.edu.co"
     },
     "juanjosesierra": {
         "display_name": "Juan Jose Sierra",
