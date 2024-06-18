@@ -923,7 +923,7 @@
         "grupo": "Imagine",
         "researchArea": "Mixed Realities",
         "descripcion": "El proyecto Gemelo Digital de Colivri se presenta como una vanguardista plataforma de experimentación sobre gemelos digitales, aprovechando el potencial de diversas herramientas de realidad mixta. Este sistema, apoyado por el Departamento, no sólo busca ofrecer funcionalidades innovadoras como un panel de control de gran formato que facilita la monitorización en tiempo real del laboratorio y simulaciones audiovisuales, sino también establecer una infraestructura robusta para el desarrollo de proyectos de grado grupales. Con una visión a largo plazo, GD-Colivri pretende ser una plataforma abierta y extensible, permitiendo la integración de realidad aumentada para visualizar información detallada de los equipos presentes, así como datos históricos y dinámicos de los usuarios y el entorno.",
-        "foto": "GD-COLIVRI.png",
+        "foto": "colivri-dt.jpg",
         "video": "https://www.youtube.com/embed/sKon0Wl4ZEk",
         "link": "",
         "repository": "https://github.com/imagine-uniandes/ColivriDigitalTwin",
