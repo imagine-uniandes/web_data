@@ -21,6 +21,8 @@
         "role": "faculty",
         "image": "foto_pabloFigueroa.jpg",
         "bio": "Associate Professor",
+        "phone": "+57 1 3394949 ext 2864",
+        "description": "Llevo más de 20 años haciendo investigación en Realidad Virtual, la cual comprender el conjunto de aplicaciones diseñadas para crear experiencias inmersivas, que parezcan reales para los sentidos, especialmente el visual. La mayoría de las tesis que he dirigido y los proyectos que he desarrollado se encuentran relacionados a este tema.",
         "is_active": true
     },
     "fernandodelarosa": {
