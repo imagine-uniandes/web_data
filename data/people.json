@@ -192,21 +192,21 @@
         "display_name": "Prof Oscar González",
         "webpage": "https://profesores.virtual.uniandes.edu.co/blog/disc_profesores/o-gonza1/",
         "role": "collab",
-        "image": "https://profesores.virtual.uniandes.edu.co/wp-content/uploads/2015/07/o-gonza1.jpg",
+        "image": "foto_oscargonzales.jpg",
         "is_active": true
     },
     "robteather": {
         "display_name": "Rob Teather",
         "webpage": "http://www.csit.carleton.ca/~rteather/",
         "role": "collab",
-        "image": "http://www.csit.carleton.ca/~rteather/images/rt.jpg",
+        "image": "foto_robteather.jpg",
         "is_active": true
     },
     "fredericmerienn": {
         "display_name": "Frédéric Merienn",
         "webpage": "http://www.linkedin.com/pub/fr%C3%A9d%C3%A9ric-merienne/14/586/451",
         "role": "collab",
-        "image": "https://institutchalon.ensam.eu/medias/photo/2021-f-merienne_1623222776355-jpg",
+        "image": "foto_fredericmerienn.jpg",
         "is_active": true
     },
     "johncmcclelland": {
