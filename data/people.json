@@ -984,13 +984,13 @@
     "role": "ugrad",
     "is_active": false
   },
-  "prueba": {
-    "user": "prueba",
-    "display_name": "con imagen",
-    "role": "master",
+  "prueba2": {
+    "user": "prueba2",
+    "display_name": "xddd",
+    "role": "faculty",
     "is_active": true,
     "webpage": "",
-    "image": "https://raw.githubusercontent.com/imagine-uniandes/web_data/main/img/people/foto_prueba.jpeg",
+    "image": "https://raw.githubusercontent.com/imagine-uniandes/web_data/main/img/people/foto_prueba2.jpeg",
     "bio": "",
     "github": "",
     "linkedin": "",
