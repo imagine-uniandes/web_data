@@ -983,19 +983,5 @@
     "display_name": "Geraldine Jiménez",
     "role": "ugrad",
     "is_active": false
-  },
-  "abelarismendy2": {
-    "user": "abelarismendy2",
-    "display_name": "Don abel",
-    "role": "ugrad",
-    "is_active": true,
-    "webpage": "",
-    "image": "",
-    "bio": "",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "description": "",
-    "email": ""
   }
 }
