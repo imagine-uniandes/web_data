@@ -1011,5 +1011,19 @@
     "phone": "",
     "description": "",
     "email": ""
+  },
+  "pruebaimagen": {
+    "user": "pruebaimagen",
+    "display_name": "xddd",
+    "role": "faculty",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_pruebaimagen.webp",
+    "bio": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "description": "",
+    "email": ""
   }
 }
