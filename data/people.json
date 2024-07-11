@@ -997,19 +997,5 @@
     "phone": "",
     "description": "",
     "email": ""
-  },
-  "prueba123": {
-    "user": "prueba123",
-    "display_name": "xddd",
-    "role": "faculty",
-    "is_active": true,
-    "webpage": "",
-    "image": "foto_prueba123.jpeg",
-    "bio": "",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "description": "",
-    "email": ""
   }
 }
