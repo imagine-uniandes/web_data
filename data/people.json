@@ -998,13 +998,13 @@
     "description": "",
     "email": ""
   },
-  "prueba23": {
-    "user": "prueba23",
+  "prueba123": {
+    "user": "prueba123",
     "display_name": "xddd",
     "role": "faculty",
     "is_active": true,
     "webpage": "",
-    "image": "https://raw.githubusercontent.com/imagine-uniandes/web_data/main/img/people/foto_prueba23.jpeg",
+    "image": "foto_prueba123.jpeg",
     "bio": "",
     "github": "",
     "linkedin": "",
