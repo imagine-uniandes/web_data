@@ -1039,19 +1039,5 @@
     "phone": "",
     "description": "Soy abel 3 de prueba con png",
     "email": "abel@arismendy.co"
-  },
-  "lasttry": {
-    "user": "lasttry",
-    "display_name": "prueba",
-    "role": "collab",
-    "is_active": true,
-    "webpage": "",
-    "image": "",
-    "bio": "",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "description": "",
-    "email": ""
   }
 }
