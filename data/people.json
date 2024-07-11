@@ -1025,19 +1025,5 @@
     "phone": "",
     "description": "Soy abel 2 de prueba",
     "email": "abel@arismendy.co"
-  },
-  "abel3": {
-    "user": "abel3",
-    "display_name": "Soy Abel 3",
-    "role": "faculty",
-    "is_active": true,
-    "webpage": "https://about.meta.com/",
-    "image": "foto_abel3.png",
-    "bio": "Soy abel 3",
-    "github": "abel3",
-    "linkedin": "https://www.linkedin.com/in/abelarismendy/",
-    "phone": "",
-    "description": "Soy abel 3 de prueba con png",
-    "email": "abel@arismendy.co"
   }
 }
