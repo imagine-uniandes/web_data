@@ -1067,19 +1067,5 @@
     "phone": "",
     "description": "",
     "email": ""
-  },
-  "github2": {
-    "user": "github2",
-    "display_name": "prueba con git",
-    "role": "faculty",
-    "is_active": true,
-    "webpage": "",
-    "image": "foto_github2.png",
-    "bio": "",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "description": "",
-    "email": ""
   }
 }
