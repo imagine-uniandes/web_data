@@ -1081,19 +1081,5 @@
     "phone": "",
     "description": "",
     "email": ""
-  },
-  "github3": {
-    "user": "github3",
-    "display_name": "prueba con git3",
-    "role": "faculty",
-    "is_active": true,
-    "webpage": "",
-    "image": "foto_github3.png",
-    "bio": "",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "description": "",
-    "email": ""
   }
 }
