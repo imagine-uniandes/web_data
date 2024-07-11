@@ -983,19 +983,5 @@
     "display_name": "Geraldine Jiménez",
     "role": "ugrad",
     "is_active": false
-  },
-  "laprueba": {
-    "user": "laprueba",
-    "display_name": "final",
-    "role": "master",
-    "is_active": false,
-    "webpage": "",
-    "image": "foto_laprueba.png",
-    "bio": "",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "description": "",
-    "email": ""
   }
 }
