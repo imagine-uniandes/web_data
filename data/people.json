@@ -1012,18 +1012,18 @@
     "description": "",
     "email": ""
   },
-  "pruebaimagen": {
-    "user": "pruebaimagen",
-    "display_name": "xddd",
-    "role": "faculty",
+  "abel2": {
+    "user": "abel2",
+    "display_name": "Soy Abel 2",
+    "role": "ugrad",
     "is_active": true,
-    "webpage": "",
-    "image": "foto_pruebaimagen.webp",
-    "bio": "",
-    "github": "",
-    "linkedin": "",
+    "webpage": "https://about.meta.com/",
+    "image": "foto_abel2.webp",
+    "bio": "Soy abel 2",
+    "github": "abel2",
+    "linkedin": "https://www.linkedin.com/in/abelarismendy/",
     "phone": "",
-    "description": "",
-    "email": ""
+    "description": "Soy abel 2 de prueba",
+    "email": "abel@arismendy.co"
   }
 }
