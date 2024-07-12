@@ -983,5 +983,19 @@
     "display_name": "Geraldine Jiménez",
     "role": "ugrad",
     "is_active": false
+  },
+  "pruebahome": {
+    "user": "pruebahome",
+    "display_name": "Prueba desde casa",
+    "role": "master",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "bio": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "description": "",
+    "email": ""
   }
 }
