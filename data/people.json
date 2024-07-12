@@ -983,19 +983,5 @@
     "display_name": "Geraldine Jiménez",
     "role": "ugrad",
     "is_active": false
-  },
-  "doctorprueba": {
-    "user": "doctorprueba",
-    "display_name": "Voy a ser phd",
-    "role": "phd",
-    "is_active": true,
-    "webpage": "https://abel.arismendy.co",
-    "image": "foto_doctorprueba.png",
-    "bio": "Viva el SENA mi perro!",
-    "github": "abelarismendy",
-    "linkedin": "https://www.linkedin.com/in/abelarismendy/",
-    "phone": "",
-    "description": "Hola soy una prueba",
-    "email": "phd@uniandes.edu.co"
   }
 }
