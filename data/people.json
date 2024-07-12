@@ -983,19 +983,5 @@
     "display_name": "Geraldine Jiménez",
     "role": "ugrad",
     "is_active": false
-  },
-  "nuevaprueba": {
-    "user": "nuevaprueba",
-    "display_name": "Prueba con Imagen",
-    "role": "master",
-    "is_active": true,
-    "webpage": "https://abel.arismendy.co",
-    "image": "foto_nuevaprueba.png",
-    "bio": "Viva el SENA mi perro!",
-    "github": "sena",
-    "linkedin": "",
-    "phone": "",
-    "description": "Mano tengo fe",
-    "email": ""
   }
 }
