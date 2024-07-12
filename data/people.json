@@ -983,19 +983,5 @@
     "display_name": "Geraldine Jiménez",
     "role": "ugrad",
     "is_active": false
-  },
-  "abel2": {
-    "user": "abel2",
-    "display_name": "prueba",
-    "role": "ugrad",
-    "is_active": true,
-    "webpage": "",
-    "image": "",
-    "bio": "",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "description": "",
-    "email": ""
   }
 }
