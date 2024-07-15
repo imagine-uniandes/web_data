@@ -983,19 +983,5 @@
     "display_name": "Geraldine Jiménez",
     "role": "ugrad",
     "is_active": false
-  },
-  "a.arismendy": {
-    "user": "a.arismendy",
-    "display_name": "Abel 2",
-    "role": "ugrad",
-    "is_active": true,
-    "webpage": "https://abel.arismendy.co",
-    "image": "foto_a.arismendy.png",
-    "bio": "prueba",
-    "github": "abel",
-    "linkedin": "",
-    "phone": "",
-    "description": "descripcion",
-    "email": "abel@arismendy.co"
   }
 }
