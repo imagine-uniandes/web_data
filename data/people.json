@@ -997,5 +997,19 @@
     "phone": "",
     "description": "",
     "email": ""
+  },
+  "asd": {
+    "user": "asd",
+    "display_name": "asd",
+    "role": "faculty",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "bio": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "description": "",
+    "email": ""
   }
 }
