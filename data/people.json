@@ -983,5 +983,19 @@
     "display_name": "Geraldine Jiménez",
     "role": "ugrad",
     "is_active": false
+  },
+  "abelarismendyprueba": {
+    "user": "abelarismendyprueba",
+    "display_name": "as",
+    "role": "faculty",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "bio": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "description": "",
+    "email": ""
   }
 }
