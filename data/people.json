@@ -1011,5 +1011,19 @@
     "phone": "",
     "description": "",
     "email": ""
+  },
+  "abelprueba": {
+    "user": "abelprueba",
+    "display_name": "angel",
+    "role": "faculty",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "bio": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "description": "",
+    "email": ""
   }
 }
