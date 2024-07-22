@@ -983,19 +983,5 @@
     "display_name": "Geraldine Jiménez",
     "role": "ugrad",
     "is_active": false
-  },
-  "a.arismendy2": {
-    "user": "a.arismendy2",
-    "display_name": "Abel de prueba 2",
-    "role": "faculty",
-    "is_active": true,
-    "webpage": "",
-    "image": "",
-    "bio": "",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "description": "",
-    "email": ""
   }
 }
