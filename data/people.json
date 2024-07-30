@@ -983,19 +983,5 @@
     "display_name": "Geraldine Jiménez",
     "role": "ugrad",
     "is_active": false
-  },
-  "prueba.commit": {
-    "user": "prueba.commit",
-    "display_name": "xasdsadsad",
-    "role": "faculty",
-    "is_active": true,
-    "webpage": "",
-    "image": "",
-    "bio": "",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "description": "",
-    "email": ""
   }
 }
