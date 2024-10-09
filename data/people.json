@@ -983,19 +983,5 @@
     "display_name": "Geraldine Jiménez",
     "role": "ugrad",
     "is_active": false
-  },
-  "g.guevarab": {
-    "user": "g.guevarab",
-    "display_name": "Gabriel Guevara",
-    "role": "ugrad",
-    "is_active": true,
-    "webpage": "",
-    "image": "foto_g.guevarab.png",
-    "bio": "Research Monitor",
-    "github": "gguevarab",
-    "linkedin": "",
-    "phone": "3196792126",
-    "description": "Research Monitor",
-    "email": "g.guevarab@uniandes.edu.co"
   }
 }
