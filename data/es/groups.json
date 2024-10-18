@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "nombre": "Vivero Virtual",
+        "researchArea": "Mixed Realities",
+        "descripcion": "Vivero Virtual es el Programa de Incubadora XR de la Universidad de los Andes que fue beneficiario de la beca Higher Ed XR Innovation Grant de Unity Social Impact y Meta Immersive Learning, gracias a sus propuestas de inclusión, impacto, viabilidad e innovación en la alfabetización desde la académica de este nuevo uso de las tecnologías, para aumentar el acceso a hardware AR/VR, el contenido educativo de alta calidad y otros recursos que ayudarán a los educadores a crear o mejorar programas XR innovadores.",
+        "logo": "viveroVirtual.jpg",
+        "fotoGrupo": "viveroTeam.jfif",
+        "website": "https://vivero.virtual.uniandes.edu.co/",
+        "github": "",
+        "integrantes": [
+            "pablofigueroa",
+            "viviangomez",
+            "valentinarozo",
+            "valentinauribe",
+            "julianmora",
+            "lauramonroy",
+            "abelarismendy",
+            "juanestebanrodriguez",
+            "juanjosesierra"
+        ],
+        "redes": {
+            "correo": "viverovirtual@uniandes.edu.co",
+            "instagram": "https://www.instagram.com/viverovirtual_uniandes",
+            "tiktok": "",
+            "youtube": "https://www.youtube.com/channel/UCkJnkKHOWqj5tk9Jf5vgMSw",
+            "facebook": "https://www.facebook.com/p/Vivero-Virtual-Uniandes-100086579619980/?locale=es_LA",
+            "whatsapp": ""
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "IMAGINE",
+        "researchArea": "Visual Analytics",
+        "descripcion": "IMAGINE es un grupo de investigación en Computación Visual de la Universidad de Los Andes, en el Departamento de Ingeniería de Sistemas y Computación. El grupo desarrolla investigación e innovación en procesamiento de imágenes basado en conocimiento, gráficos por computadora, realidad mixta, interacción hombre-máquina y robótica interactiva. Nuestros principales dominios de aplicación son: biomedicina, entrenamiento y entretenimiento, analítica visual y sistemas urbanos sustentables.",
+        "logo": "imagine.png",
+        "fotoGrupo": "",
+        "website": "https://imagine.uniandes.edu.co/",
+        "github": "https://github.com/imagine-uniandes",
+        "integrantes": [
+            "fernandodelarosa",
+            "pablofigueroa",
+            "viviangomez",
+            "marcelahernandez"
+        ],
+        "redes": {
+            "correo": "imagine@uniandes.edu.co",
+            "instagram": "",
+            "tiktok": "",
+            "youtube": "https://www.youtube.com/@imagineuniandes",
+            "facebook": "",
+            "whatsapp": ""
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Oasis",
+        "researchArea": "Mixed Realities",
+        "descripcion": "La Iniciativa Estudiantil Oasis busca fomentar el conocimiento y la exploración de diferentes tecnologías de Realidad Mixta entre los participantes. Nuestro principal objetivo es brindar un espacio de encuentro semanal en el que se presenten diversas categorías de aplicaciones de Realidad Mixta y se promueva el aprendizaje, la interacción y la diversión en torno a estas tecnologías.",
+        "logo": "oasis.png",
+        "fotoGrupo": "oasisTeam.jpg",
+        "website": "",
+        "github": "https://github.com/Oasis-Uniandes",
+        "integrantes": [
+            "abelarismendy",
+            "juanjosesierra",
+            "juanestebanrodriguez",
+            "julianmora"
+        ],
+        "redes": {
+            "correo": "oasis@uniandes.edu.co",
+            "instagram": "https://www.instagram.com/oasis.uniandes",
+            "tiktok": "https://www.tiktok.com/@oasis.uniandes",
+            "youtube": "",
+            "facebook": "",
+            "whatsapp": "https://chat.whatsapp.com/HmQ6w0yRtOk5sCgtILmsWY"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "SinfonIA",
+        "researchArea": "Robotics",
+        "descripcion": "SinfonIA es un grupo de investigación en robótica e inteligencia artificial de la Universidad de Los Andes que se dedica a fusionar la tecnología con la interacción humana. Actualmente trabajan en los siguientes subgrupos: Percepción, Navegación, Manipulación y Habla, cada uno de los cuales refina una parte del pastel de la interacción social. Asimismo, los miembros de Interface y Toolkit se aseguran de que nuestros robots sean de primera categoría, mientras que los miembros de Task organizan la gran sinfonía de las tareas robóticas.",
+        "logo": "sinfonia.png",
+        "fotoGrupo": "sinfoniaTeam.jpg",
+        "website": "https://sinfoniauniandes.github.io/SinfonIA-web/home",
+        "github": "",
+        "integrantes": [
+            "carlosaldana",
+            "alexandraguitierrez",
+            "luccasrojas",
+            "davidcuevas"
+        ],
+        "redes": {
+            "correo": "sinfonia@uniandes.edu.co",
+            "instagram": "https://www.instagram.com/sinfonia_uniandes/",
+            "tiktok": "",
+            "youtube": "",
+            "facebook": "https://www.facebook.com/SinfoniaUniandes/?locale=es_LA",
+            "whatsapp": ""
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Equipo Colivri",
+        "researchArea": "oasisTeam.jpg",
+        "descripcion": "Equipo Colivri es un grupo de profesores y estudiantes de la Universidad de los Andes que busca desarrollar proyectos de investigación y desarrollo en el área de Realidad Virtual y Realidad Aumentada.",
+        "logo": "colivri.png",
+        "fotoGrupo": "",
+        "website": "",
+        "github": "",
+        "integrantes": [
+            "pablofigueroa",
+            "viviangomez",
+            "zulayvillabona",
+            "julianalaserna",
+            "valentinarozo",
+            "valentinauribe",
+            "julianmora",
+            "juanestebanrodriguez",
+            "lauramonroy",
+            "abelarismendy",
+            "juanjosesierra"
+        ],
+        "redes": {
+            "correo": "",
+            "instagram": "",
+            "tiktok": "",
+            "youtube": "",
+            "facebook": "",
+            "whatsapp": ""
+        }
+    }
+]
