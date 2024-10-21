@@ -996,5 +996,19 @@
     "phone": "",
     "description": "Research Monitor",
     "email": "g.guevarab@uniandes.edu.co"
+  },
+  "karolsoler": {
+    "user": "karolsoler",
+    "display_name": "Karol Dayan Soler",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "bio": "Integrante SinfonIA",
+    "github": "karoldayansolerorozco",
+    "linkedin": "https://www.linkedin.com/in/karol-dayan-soler-orozco-39898a213/",
+    "phone": "3213936463",
+    "description": "Soy una Biomedical Engineering Researcher apasionada por la IA, el análisis de datos, la investigación e innovación, y la física médica. Me considero una persona muy creativa y llena de energía para aprender cosas nuevas, siempre en búsqueda de herramientas y enfoques innovadores para transformar los desafíos en oportunidades.",
+    "email": "k.soler@uniandes.edu.co"
   }
 }
