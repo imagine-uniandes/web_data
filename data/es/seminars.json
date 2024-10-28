@@ -1,0 +1,2644 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "TlRwnwnCPF3P1srQ4hULKGvC53w",
+    "nextPageToken": "EAAajQFQVDpDRElpRURBeE56SXdPRVpCUVRnMU1qTXpSamtvQVVqWHlLRDV3OE9HQTFBQldrUWlRMmxLVVZSRmJIUlhSa1p4WlVVNWRHVkhSalZOUjNST1lsZEdSVlpZWkhKWlZ6bHVZMjA0TkdGdFRYUmlNblJRUldkelNUQmlibDl6WjFsUk1rcFFZMlpuSWc",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IK5caMSciKKHEXaVG9IGTQPscj4",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2023-10-31T21:46:30Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario IMAGINE - Conoce los temas de investigación de IMAGINE",
+                "description": "Seminario IMAGINE del 6 de febrero del 2023\n\nPresentación:\n- Vivían Gomez\n- Marcela Hernandez\n- Fernando de la Rosa\n- Tiberio Hernandez\n- Pablo Figueroa",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uzICMYW_evw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uzICMYW_evw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uzICMYW_evw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uzICMYW_evw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uzICMYW_evw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uzICMYW_evw"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "uzICMYW_evw",
+                "videoPublishedAt": "2023-11-02T18:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "toFfqBvSdCoGDQCI1FIUSq2NfAk",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2023-10-31T21:43:16Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario IMAGINE - Desarrollo Humano para Valientes: Apoyando la generación de empatía",
+                "description": "Seminario IMAGINE del 20 de febrero del 2023\n\nPresentación:\nJuan Camilo Useche\nEgresado MISIS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EIHxh-zl1yY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EIHxh-zl1yY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EIHxh-zl1yY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EIHxh-zl1yY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EIHxh-zl1yY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EIHxh-zl1yY"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "EIHxh-zl1yY",
+                "videoPublishedAt": "2023-11-01T18:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "TtxW_IgeG8nnn3vN4EqNSSUYR6Y",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2023-10-30T19:53:43Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario IMAGINE - Diseño Interactivo en Imagine",
+                "description": "Seminario IMAGINE del 20 de febrero del 2023\n\nPresentación:\nCamilo Nemocón\nAnalista de datos,\nSecretaria de Movilidad",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FLqopveMX0k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FLqopveMX0k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FLqopveMX0k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FLqopveMX0k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FLqopveMX0k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FLqopveMX0k"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "FLqopveMX0k",
+                "videoPublishedAt": "2023-10-31T18:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "y8WB87wTvTHEC-YTrW3_BTVzSm8",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5ENjI1QUI0MDI5NEQzODFE",
+            "snippet": {
+                "publishedAt": "2023-10-23T19:54:54Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario IMAGINE - Desarrollo de un Mariposario en realidad virtual",
+                "description": "Seminario IMAGINE del 27 de febrero del 2023\n\nPresentación:\n\nJaime Carvajal\nEgresado MISIS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9T94rmtrGYI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9T94rmtrGYI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9T94rmtrGYI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9T94rmtrGYI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9T94rmtrGYI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9T94rmtrGYI"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "9T94rmtrGYI",
+                "videoPublishedAt": "2023-10-25T18:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mLoEHNhtX4CLzPL2gS1Tmkh4_Fc",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy41RTNBREYwMkI5QzU3RkY2",
+            "snippet": {
+                "publishedAt": "2023-10-23T19:48:14Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario IMAGINE - Quest accepted: El camino de game dev",
+                "description": "Seminario IMAGINE del 27 de febrero del 2023\n\nPresentación:\nSebastían Baracaldo\nGame Designer,\nTeravision Games",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l4MpJkuvSwI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l4MpJkuvSwI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l4MpJkuvSwI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/l4MpJkuvSwI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/l4MpJkuvSwI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "l4MpJkuvSwI"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "l4MpJkuvSwI",
+                "videoPublishedAt": "2023-10-24T18:00:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Vbcf5XZurabwKgG4-iJAl17UIKY",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy40QzRDOEU0QUYwNUIxN0M1",
+            "snippet": {
+                "publishedAt": "2023-10-17T21:54:11Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario IMAGINE - Automatización de Tareas de Inspección en Estructuras Físicas con un dron",
+                "description": "Seminario IMAGINE del 06 de marzo del 2023\n\nPresentación:\nDavid Alberto Oviedo\nEstudiante MISIS",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1iJofn96RnE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1iJofn96RnE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1iJofn96RnE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1iJofn96RnE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1iJofn96RnE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1iJofn96RnE"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "1iJofn96RnE",
+                "videoPublishedAt": "2023-10-19T18:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8jLjuAaKqd_WuZFB4L00D_b9ATA",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4yQUJFNUVCMzVDNjcxRTlF",
+            "snippet": {
+                "publishedAt": "2023-10-17T20:50:06Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario IMAGINE - Kelly: Mi camino hacia el GameDev, Isaac: Introducción a Ray Tracing",
+                "description": "Seminario del grupo Imagine del 17 de abril de 2023.\nPresentaciones:\n Kelly: Mi camino hacia el GameDev\n- Kelly Peñaranda\n\nIntroducción a Ray Tracing:\n- Isaac Bermúdez",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uA3MHF9ojWM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uA3MHF9ojWM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uA3MHF9ojWM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uA3MHF9ojWM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uA3MHF9ojWM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uA3MHF9ojWM"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "uA3MHF9ojWM",
+                "videoPublishedAt": "2023-10-17T20:51:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RnPbkUtIQx6MdGoyGkp_TuBw8Ao",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4yQjZFRkExQjFGODk3RUFD",
+            "snippet": {
+                "publishedAt": "2023-10-10T20:18:44Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminarion IMAGINE - Producción virtual para Cine y TV, Influencers virtuales",
+                "description": "Seminario del grupo Imagine del 24 de abril de 2023.\nPresentaciones:\nProducción virtual para Cine y TV\n- Jose Luis Dorado\n\nInfluercers Virtuales\n- Valentina Rozo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BuehpNOghVM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BuehpNOghVM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BuehpNOghVM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BuehpNOghVM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BuehpNOghVM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BuehpNOghVM"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "BuehpNOghVM",
+                "videoPublishedAt": "2023-10-12T18:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DIBd3POKI8TjQi73kw3c4V6H6LM",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2023-10-09T20:09:39Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario IMAGINE - VISUAL ANALYTICS FOR GROWTH MONITORING IN NEONATOLOGY",
+                "description": "Seminario del grupo Imagine del 8 de mayo de 2023.\nPresentaciones:\nVISUAL ANALYTICS FOR GROWTH MONITORING IN NEONATOLOGY\n- Iván Velasco González",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/efmE2IfIVck/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/efmE2IfIVck/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/efmE2IfIVck/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/efmE2IfIVck/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/efmE2IfIVck/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "efmE2IfIVck"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "efmE2IfIVck",
+                "videoPublishedAt": "2023-10-11T18:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cHTWI4fLcgvGLgMxLXdhhtQv4j0",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2023-09-29T21:44:56Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario IMAGINE - Patrones de vuelo con drones & colaboratorio Colivri",
+                "description": "Seminario del grupo Imagine del 15 de mayo de 2023.\nPresentaciones:\nPatrones de vuelo manuales y automáticos con Dron\n- Juan David Bautista\n- Juan Andrés Santiago\n\nColaboratorio Colivri:\n- Juan Esteban Rodríguez\n- Angel Abel Arismendy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aFLANcXpA6M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aFLANcXpA6M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aFLANcXpA6M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aFLANcXpA6M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aFLANcXpA6M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aFLANcXpA6M"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "aFLANcXpA6M",
+                "videoPublishedAt": "2023-10-10T16:27:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "G0yoYLnpATZDxlzrfPk__JAVS0E",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2023-03-09T19:43:49Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "SEMINARIO IMAGINE - 6 DE MARZO DE 2023",
+                "description": "* David Alberto Oviedo - Estudiante MISIS - \"Automatización de Tareas de Inspección en Estructuras Físicas con un dron\"\n* Omer Medina - Manager of Solution Support Team, DHL IT Services -\"Computer Vision and the future of the Logistics Industry\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wHSBqltAWck/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wHSBqltAWck/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wHSBqltAWck/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wHSBqltAWck/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wHSBqltAWck/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wHSBqltAWck"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "wHSBqltAWck",
+                "videoPublishedAt": "2023-03-09T19:47:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "npuszhyj5nwys6CiQWw1O9H3VPU",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2023-03-09T19:18:49Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "SEMINARIO IMAGINE - 27 DE FEBRERO DE 2023",
+                "description": "Nicolas Abondado -  \"Desarrollo de un Mariposario en Realidad Virtual\"\nSebastianBaracaldo - \"Quest accepred: El camino de game dev\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DtyLi0K4-SQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DtyLi0K4-SQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DtyLi0K4-SQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DtyLi0K4-SQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DtyLi0K4-SQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DtyLi0K4-SQ"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "DtyLi0K4-SQ",
+                "videoPublishedAt": "2023-03-09T19:24:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "W9WApdTlIg_3diHjZ9vUyhnNQR4",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2023-03-09T16:21:26Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "SEMINARIO IMAGINE 20 DE FEBRERO DE 2023 - JUAN NEMOCÓN Y JUAN USECHE",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c759FudUIjU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c759FudUIjU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c759FudUIjU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c759FudUIjU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "c759FudUIjU"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "c759FudUIjU",
+                "videoPublishedAt": "2023-03-09T16:21:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SMpsaEnkawIZU7Y0s0vSxYMPgl0",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2023-03-09T14:25:03Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "SEMINARIO IMAGINE - PROFESORES Y LINEAS DE INVESTIGACIÓN 2023-1 (PARTE 1)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wUpVooVT6GI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wUpVooVT6GI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wUpVooVT6GI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wUpVooVT6GI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wUpVooVT6GI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wUpVooVT6GI"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "wUpVooVT6GI",
+                "videoPublishedAt": "2023-03-09T14:31:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "elS0R3ThIp0nsLVC3Al0-rY48ZY",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2023-03-09T14:18:42Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "SEMINARIO IMAGINE - PROFESORES Y LINEAS DE INVESTIGACIÓN 2023-1 (PARTE 2)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-t2aYudGioI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-t2aYudGioI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-t2aYudGioI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-t2aYudGioI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-t2aYudGioI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-t2aYudGioI"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "-t2aYudGioI",
+                "videoPublishedAt": "2023-03-09T14:20:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Cu81DqksRIktExr40Si4YgBFaaA",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2023-02-17T12:40:03Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - Videogames that work - Dov Jacobson",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qn61ayOZRMc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qn61ayOZRMc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qn61ayOZRMc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Qn61ayOZRMc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Qn61ayOZRMc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Qn61ayOZRMc"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "Qn61ayOZRMc",
+                "videoPublishedAt": "2023-02-16T16:45:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wnm35xSQVD9YlEPazp_IaNC6hEk",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2022-05-04T15:04:42Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "SEMINARIO IMAGINE 2 de Mayo de 2022",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vj-grsWfWMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vj-grsWfWMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vj-grsWfWMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Vj-grsWfWMU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Vj-grsWfWMU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Vj-grsWfWMU"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "Vj-grsWfWMU",
+                "videoPublishedAt": "2022-05-04T15:14:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "92r73oXJ2Qk6gaus2uUnpZC53X4",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2022-03-22T15:52:40Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "SEMINARIO IMAGINE 14 de marzo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NnAm-d0J4oI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NnAm-d0J4oI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NnAm-d0J4oI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NnAm-d0J4oI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NnAm-d0J4oI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NnAm-d0J4oI"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "NnAm-d0J4oI",
+                "videoPublishedAt": "2022-03-22T15:38:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ishs1vcY08xBTQrZizs-wl_M3BM",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2022-03-13T17:34:53Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "SEMINARIO IMAGINE 07 de Marzo",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_DwmogWnen4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_DwmogWnen4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_DwmogWnen4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_DwmogWnen4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_DwmogWnen4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_DwmogWnen4"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "_DwmogWnen4",
+                "videoPublishedAt": "2022-03-08T01:34:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0PQxA9rIxoB6G9STA9MtkFWDfoA",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2022-03-01T16:41:30Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "SEMINARIO IMAGINE 28 de Febrero",
+                "description": "* Carlos Rivera - \"El Desarrollo del simulador GoMi-VR 👨\u200d⚕️\"\n* José Tamara, Juan Romero y Juan Rueda - \"Desarrollo grupal en Video-juegos: Ejemplo 2 🎮\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tOxlgL9azXo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tOxlgL9azXo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tOxlgL9azXo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tOxlgL9azXo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tOxlgL9azXo"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "tOxlgL9azXo",
+                "videoPublishedAt": "2022-03-01T16:48:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8TfebBaPGkCshVbg4UEREF0_yys",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2022-03-01T15:54:08Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "SEMINARIO IMAGINE 21 de Febrero de 2022",
+                "description": "* Sebastián Lopez- \"A Path to Big Game Industry Programmer 👩\u200d💻\"\n* Juan Gonzáles y Nicolás Urrego - \"Desarrollo grupal en Video-juegos: Ejemplo 3 🎮\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Iujq7MdnMIQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Iujq7MdnMIQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Iujq7MdnMIQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Iujq7MdnMIQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Iujq7MdnMIQ"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "Iujq7MdnMIQ",
+                "videoPublishedAt": "2022-02-28T12:43:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "elgcOg1OthShq1YvTHEIi8G5z6E",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2022-03-01T15:44:04Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "SEMINARIO IMAGINE 14 de Febrero de 2022",
+                "description": "Sebastián Gil - \"Realidad aumentada y educación 👩\u200d💻\"\nSantiago Munera - \"Definición y seguimiento de rutas tridimensionales de vuelo para drones\"",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hEZpkqOhUZc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hEZpkqOhUZc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hEZpkqOhUZc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hEZpkqOhUZc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hEZpkqOhUZc"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "hEZpkqOhUZc",
+                "videoPublishedAt": "2022-02-17T16:15:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZSc8NEowkslO2QDa3NQc9FjOxJM",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2022-02-01T20:39:54Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine   31 de Enero de 2022",
+                "description": "Camilo García - \" Qué hace el Lead Gameplay de The Sims? 🎮\"\nVivian Gómez - \"Metodología para la creación de simuladores en realidad virtual👩\u200d💻",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NggLC6XnqgM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NggLC6XnqgM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NggLC6XnqgM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NggLC6XnqgM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NggLC6XnqgM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NggLC6XnqgM"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "NggLC6XnqgM",
+                "videoPublishedAt": "2022-02-01T20:39:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QfBqcwhetfdizTaFgWPyT_3U5TI",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2021-10-29T17:04:01Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 25 de Octubre de 2021",
+                "description": "Seminario del grupo Imagine del 25 de Octubre de 2021.\n\nPresentaciones:\n\n- Leonardo Merchan\n- Juan Pablo Correa\n\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tgEnQeiMNvI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tgEnQeiMNvI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tgEnQeiMNvI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tgEnQeiMNvI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tgEnQeiMNvI"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "tgEnQeiMNvI",
+                "videoPublishedAt": "2021-10-29T17:28:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dTQ7ELhTILroXbWG1rhr09j59AQ",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2021-10-27T16:42:28Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 11 Octubre 2021",
+                "description": "Seminario del grupo Imagine del 11 de Octubre de 2021.\n\nPresentaciones:\n\n- Carlos Torres\n- Andres Forero\n\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2msGTqkPnwk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2msGTqkPnwk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2msGTqkPnwk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2msGTqkPnwk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2msGTqkPnwk"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "2msGTqkPnwk",
+                "videoPublishedAt": "2021-10-27T16:45:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "goRhNDL79kJcv_G9mgYruCrMLGw",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2021-06-02T21:50:43Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 24 de Mayo de 2021",
+                "description": "Seminario del grupo Imagine del 25 de Febrero de 2019.\n\nPresentaciones:\n- Andres Daza\n- Luis Garcia\n- Luisa Rodiguez\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jKKNp3O86NE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jKKNp3O86NE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jKKNp3O86NE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jKKNp3O86NE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jKKNp3O86NE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jKKNp3O86NE"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "jKKNp3O86NE",
+                "videoPublishedAt": "2021-06-02T21:51:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9FbvHrFf4jmRzYKrfIEGelX0V44",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2021-05-18T22:56:33Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 3 de Mayo de 2021",
+                "description": "Seminario del grupo Imagine del 3 de Mayo de 2021.\n\nPresentaciones:\n- Laura Forero\n- Andrés Daza\n- Luis García\n- Luisa Rodríguez\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pcwmgIkXXq4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pcwmgIkXXq4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pcwmgIkXXq4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pcwmgIkXXq4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pcwmgIkXXq4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pcwmgIkXXq4"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "pcwmgIkXXq4",
+                "videoPublishedAt": "2021-05-18T22:57:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JU0usqiW-ZBYgehx7C9iVcu_hXw",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2021-04-12T15:58:53Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 5 de Abril de 2021",
+                "description": "Seminario del grupo Imagine del 5 de Abril de 2021.\n\nPresentaciones:\n- Sebastían Calvache\n- Fabio Parra\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6UQEKcYM5c4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6UQEKcYM5c4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6UQEKcYM5c4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6UQEKcYM5c4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6UQEKcYM5c4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6UQEKcYM5c4"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "6UQEKcYM5c4",
+                "videoPublishedAt": "2021-04-12T16:11:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1oSEPexkbXXhIC3EnMZwKH9bPg0",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2021-03-03T17:31:10Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 1 de marzo de 2021",
+                "description": "Seminario del grupo Imagine del 1 de Marzo de 2021.\n\nPresentaciones:\n- Vivian Gonzales\n- Kelly Peñaranda\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/roRD1naBzvU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/roRD1naBzvU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/roRD1naBzvU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/roRD1naBzvU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/roRD1naBzvU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "roRD1naBzvU"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "roRD1naBzvU",
+                "videoPublishedAt": "2021-03-03T18:18:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QdJRo_pj5DtOS9qEMwGrVpz6Bcs",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2020-11-10T19:25:02Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 19 de Octubre de 2020",
+                "description": "Seminario del grupo Imagine del 19 de Octubre de 2020.\n\nPresentaciones:\n- Duván Gómez\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RvB_viBV0Z4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RvB_viBV0Z4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RvB_viBV0Z4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RvB_viBV0Z4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RvB_viBV0Z4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RvB_viBV0Z4"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "RvB_viBV0Z4",
+                "videoPublishedAt": "2020-11-10T19:52:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FPg-Kv-wYm6aG5FYiBN3X0W8EPQ",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2020-09-16T16:52:22Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 14 de Septiembre de 2020",
+                "description": "Seminario del grupo Imagine del 14 de Septiembre de 2020.\n\nPresentaciones:\n- John Alexis Guerra\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a6ubQ9rLuiM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a6ubQ9rLuiM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a6ubQ9rLuiM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a6ubQ9rLuiM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/a6ubQ9rLuiM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "a6ubQ9rLuiM"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "a6ubQ9rLuiM",
+                "videoPublishedAt": "2020-09-16T17:08:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HPrYm-jKQ32zyacFAGFBlqp_qhU",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2020-09-02T18:32:19Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 31 de Agosto de 2020",
+                "description": "Seminario del grupo Imagine del 31 de Agosto de 2020.\n\nPresentaciones:\n- Duvan Gómez\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IE-wI405Tj0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IE-wI405Tj0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IE-wI405Tj0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IE-wI405Tj0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IE-wI405Tj0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IE-wI405Tj0"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "IE-wI405Tj0",
+                "videoPublishedAt": "2020-09-02T18:31:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "R9sYR0ZCwJcAPKEUzaR_1k8Qtr8",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2020-08-25T20:30:14Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 24 de Agosto de 2020",
+                "description": "Seminario del grupo Imagine del 24 de Agosto de 2020.\n\nPresentaciones:\n- Jose Luis Dorado\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/myFMUT43rUo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/myFMUT43rUo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/myFMUT43rUo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/myFMUT43rUo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/myFMUT43rUo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "myFMUT43rUo"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "myFMUT43rUo",
+                "videoPublishedAt": "2020-08-25T20:46:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BZ73qqjZy0OFXGKFe1TLdXr5eW0",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2020-05-18T20:56:24Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 11 de mayo de 2020",
+                "description": "Seminario del grupo Imagine del 20 de Abril de 2020.\n\nPresentaciones:\n- Juan Diego Correa\n- Andrés Felipe Bejarano\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oBDnF9AdEnM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oBDnF9AdEnM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oBDnF9AdEnM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oBDnF9AdEnM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oBDnF9AdEnM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oBDnF9AdEnM"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "oBDnF9AdEnM",
+                "videoPublishedAt": "2020-05-18T20:57:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "z2J9HeA3nHFumiVWEsyQG82IKZI",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2020-05-06T21:17:11Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 27 de Abril de 2020",
+                "description": "Seminario del grupo Imagine del 20 de Abril de 2020.\n\nPresentaciones:\n- David Bautista\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FRez5X4e8FI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FRez5X4e8FI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FRez5X4e8FI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FRez5X4e8FI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FRez5X4e8FI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FRez5X4e8FI"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "FRez5X4e8FI",
+                "videoPublishedAt": "2020-05-06T21:19:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sqz1VHg69ixsw4Zm6dkqLhdZV2A",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2020-04-30T18:15:27Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine  - 13 de Abril de 2020",
+                "description": "Seminario del grupo Imagine del 13 de Abril de 2020.\n\nPresentaciones:\n- Nicolás Moreno\n- Juan Pablo Rocha\n- Andrea Beltrán\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HQpqYwoX9us/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HQpqYwoX9us/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HQpqYwoX9us/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HQpqYwoX9us/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HQpqYwoX9us/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HQpqYwoX9us"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "HQpqYwoX9us",
+                "videoPublishedAt": "2020-04-30T18:44:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tD6nTS7uM0MXmePiA8PxGMm2-EM",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2020-04-29T18:31:53Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 20 de Abril de 2020",
+                "description": "Seminario del grupo Imagine del 20 de Abril de 2020.\n\nPresentaciones:\n- Camilo Gonzalez\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H_FBCUHvN9I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H_FBCUHvN9I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H_FBCUHvN9I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H_FBCUHvN9I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H_FBCUHvN9I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "H_FBCUHvN9I"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "H_FBCUHvN9I",
+                "videoPublishedAt": "2020-04-29T18:38:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gIbnUWLRRKMmIdTFxHQaKiCPi-s",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2020-02-13T15:44:02Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 11 de Febrero de 2020",
+                "description": "Seminario del grupo Imagine del 11 de Febrero de 2020.\n\nPresentaciones:\n- Alfredo Morales\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iXkY3HGGln4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iXkY3HGGln4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iXkY3HGGln4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iXkY3HGGln4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iXkY3HGGln4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iXkY3HGGln4"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "iXkY3HGGln4",
+                "videoPublishedAt": "2020-02-14T15:03:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8LAhioJDBkBhYOBPocjrz5l0uJk",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2020-02-13T14:20:04Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 3 de Febrero de 2020",
+                "description": "Seminario del grupo Imagine del 3 de Febrero de 2020.\n\nPresentaciones:\n\n- Johann Gonzalez\n- Jose Luis Rodriguez\n\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/palDZ40Q0Ec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/palDZ40Q0Ec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/palDZ40Q0Ec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "palDZ40Q0Ec"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "palDZ40Q0Ec",
+                "videoPublishedAt": "2020-02-13T14:38:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "F2VNk2-kJbzAMR_rHA-SNOsiZKo",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2020-02-03T21:05:58Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 28 de Enero de 2020",
+                "description": "Seminario del grupo Imagine del 28 de Enero de 2020.\n\nPresentaciones:\nAvances y estado actual del proyecto Sinfonía\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kl2fQk0Lz9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kl2fQk0Lz9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kl2fQk0Lz9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kl2fQk0Lz9w"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "kl2fQk0Lz9w",
+                "videoPublishedAt": "2020-02-03T21:05:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "slL3uoNmi51GxngNXkgpiHmGHiA",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-10-16T15:08:30Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Realidad Mixta",
+                "description": "Las aplicaciones de la Realidad Mixta son finalmente disponibles en nuestro medio, gracias a las economías de escala que crearon inversiones de grandes empresas como Facebook, Google y Valve. Pero, ¿qué es la Realidad Mixta, y cómo la podemos aprovechar?",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2cCEvvHeD1Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2cCEvvHeD1Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2cCEvvHeD1Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2cCEvvHeD1Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2cCEvvHeD1Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2cCEvvHeD1Y"
+                },
+                "videoOwnerChannelTitle": "Universidad de los Andes",
+                "videoOwnerChannelId": "UC0B5XoeTd110gUIyRpguWvg"
+            },
+            "contentDetails": {
+                "videoId": "2cCEvvHeD1Y",
+                "videoPublishedAt": "2019-10-10T18:15:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2TC2ry0gNpDnmcYaXW_LCetAJms",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2019-10-10T12:23:37Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 23 de Septiembre de 2019",
+                "description": "Seminario Imagine del 16 de Septiembre de 2019\n\nPresentaciónes:\nJean Marc Chomaz\nRicardo Gonzalez\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E2j846uCkfQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E2j846uCkfQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E2j846uCkfQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E2j846uCkfQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E2j846uCkfQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "E2j846uCkfQ"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "E2j846uCkfQ",
+                "videoPublishedAt": "2019-10-09T23:01:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-beFEMDr87iPdw999QZPmPwoi1A",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2019-10-09T21:06:50Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 16 de Septiembre de 2019",
+                "description": "Seminario Imagine del 16 de Septiembre de 2019\n\nPresentación:\nCristian Amaya\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YvIt15o5iYg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YvIt15o5iYg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YvIt15o5iYg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YvIt15o5iYg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YvIt15o5iYg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YvIt15o5iYg"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "YvIt15o5iYg",
+                "videoPublishedAt": "2019-10-09T21:04:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WFSm3tvgVRyKiwznl55VCnZwefQ",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2019-09-12T19:41:33Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 9 de Septiembre de 2019",
+                "description": "Seminario Imagine del 9 de Septiembre de 2019\n\nPresentación:\nJuan Pablo Reyes\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NMbXFnCCOOc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NMbXFnCCOOc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NMbXFnCCOOc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NMbXFnCCOOc"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "NMbXFnCCOOc",
+                "videoPublishedAt": "2019-09-12T19:40:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fCikoq7YeZRsOv7TDjvuIfvU-y8",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-08-27T20:49:11Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 26 de Agosto de 2019",
+                "description": "Seminario del grupo Imagine del 26 de Agosto de 2019.\n\nPresentaciones:\n- Johann Gonzalez\n- Ruth Martinez\n- Camila Barajas\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r3ulDJg8NDg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r3ulDJg8NDg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r3ulDJg8NDg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r3ulDJg8NDg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "r3ulDJg8NDg"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "r3ulDJg8NDg",
+                "videoPublishedAt": "2019-08-27T20:47:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "V1CqJIQXVzd3FHmltZfnMxRDhxY",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-08-27T19:10:39Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 12 de Agosto de 2019",
+                "description": "Seminario del grupo Imagine del 12 de Agosto de 2019.\n\nPresentaciones:\n- Carolina Higuera\n- Sergio Madera\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dWDZUKZLbCc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dWDZUKZLbCc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dWDZUKZLbCc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dWDZUKZLbCc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dWDZUKZLbCc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dWDZUKZLbCc"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "dWDZUKZLbCc",
+                "videoPublishedAt": "2019-08-27T19:01:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mlhOrK7BLuVUGDEe2g1_NAT3cLw",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-05-22T22:09:19Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 20 de Mayo de 2019",
+                "description": "Ultima Seminario Imagine de 2019 - 1\n\nPresentaciones:\n\nEmilio Alvarado - Computación Visual\nProyectos de grado",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FOZcMzVeuGE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FOZcMzVeuGE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FOZcMzVeuGE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FOZcMzVeuGE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FOZcMzVeuGE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FOZcMzVeuGE"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "FOZcMzVeuGE",
+                "videoPublishedAt": "2019-05-22T22:10:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Vc63nPEcHTOknIEtHzRwjJZv_ZQ",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-05-06T20:47:35Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 8 de Abril de 2019",
+                "description": "Presentaciones:\n\nFrancisco Durango - Construcción de un sistema guía autónomo\nJuan Camilo Pinilla - Busqueda e Identificación de Personas usando ML\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dpIMQUp1UH0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dpIMQUp1UH0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dpIMQUp1UH0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dpIMQUp1UH0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dpIMQUp1UH0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dpIMQUp1UH0"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "dpIMQUp1UH0",
+                "videoPublishedAt": "2019-05-06T20:47:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bL-cIlf5tsRrhN6O--UpJh7q0Q8",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-05-06T20:27:48Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 29 de Abril de 2019",
+                "description": "Presentaciones:\n\nMiguel Feijóo - Análisis de datos Espacio - Temporales\n\nSantiago Múnera - Asistencia en creación de rutas para drones\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DnDwo-xflTk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DnDwo-xflTk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DnDwo-xflTk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DnDwo-xflTk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DnDwo-xflTk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DnDwo-xflTk"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "DnDwo-xflTk",
+                "videoPublishedAt": "2019-05-06T20:25:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "g6pT_evRBzDr0-VBiBFO2UC5PEo",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2019-04-03T19:46:19Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 1 Abril de 2019",
+                "description": "Workshop con el profesor John Alexis Guerra sobre herramientas para la visualización de datos",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tyof0WgDXcc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tyof0WgDXcc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tyof0WgDXcc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tyof0WgDXcc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tyof0WgDXcc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tyof0WgDXcc"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "tyof0WgDXcc",
+                "videoPublishedAt": "2019-04-03T19:48:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4S0Al2-qGbnjfkPp82EnRVN9umc",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-03-18T22:02:23Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 18 de Marzo de 2019",
+                "description": "Seminario del Grupo Imagine del 18 de Marzo de 2019\n\nPresentaciones:\n- Juan Carlos Prieto\n- Jose Luis Dorado\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Li3OAgKoiYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Li3OAgKoiYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Li3OAgKoiYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Li3OAgKoiYo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Li3OAgKoiYo"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "Li3OAgKoiYo",
+                "videoPublishedAt": "2019-03-18T22:02:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5TmUV7nFceH9PO0OHapup9BULIo",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-03-13T13:40:11Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 11 de Marzo de 2019",
+                "description": "Seminario del grupo Imagine del 11 de Marzo de 2019.\n\nPresentaciones:\n- Pierre Raimbaud\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hpUoDlNBJ-Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hpUoDlNBJ-Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hpUoDlNBJ-Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hpUoDlNBJ-Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hpUoDlNBJ-Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hpUoDlNBJ-Y"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "hpUoDlNBJ-Y",
+                "videoPublishedAt": "2019-03-13T13:36:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HjwboBIr3ZYRo21kHcaI1UK3Y4k",
+            "id": "UExJbVhRanhPbXhheTBrTW1hRFV3a2FvZ3JvOGpjLW9rTy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-02-28T19:47:40Z",
+                "channelId": "UCVFbKXkAp52OxAiIj1N8xuQ",
+                "title": "Seminario Imagine - 25 de Febrero de 2019",
+                "description": "Seminario del grupo Imagine del 25 de Febrero de 2019.\n\nPresentaciones:\n- Johann Gonzalez (videoconferencia)\n- Pierre Raimbaud\n\nMúsica de fondo:\nFreeBackgroundMusic\nKynemon - Happy \nhttps://youtu.be/nSDovG5vQQA",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ylj6r18_2sI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ylj6r18_2sI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ylj6r18_2sI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ylj6r18_2sI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ylj6r18_2sI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Imagine Uniandes",
+                "playlistId": "PLImXQjxOmxay0kMmaDUwkaogro8jc-okO",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ylj6r18_2sI"
+                },
+                "videoOwnerChannelTitle": "Imagine Uniandes",
+                "videoOwnerChannelId": "UCVFbKXkAp52OxAiIj1N8xuQ"
+            },
+            "contentDetails": {
+                "videoId": "Ylj6r18_2sI",
+                "videoPublishedAt": "2019-02-27T19:11:47Z"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 53,
+        "resultsPerPage": 50
+    }
+}

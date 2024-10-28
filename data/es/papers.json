@@ -63,8 +63,8 @@
     },
     {
         "id": 6,
-        "nombre": "Path planning and following through genetic algorithms for solving Multi-Travel Salesman Problem in Dynamic Scenarios",
-        "descripcion": "This paper presents an implementation of a technique to solve the problem of Multi-Travel Salesman Problem (MTSP) applied on mobile robots in dynamic scenarios. Because MTSP is a NP-Complete problem, we use genetic algorithms in order to resolve it efficiently. Once we got a theoretical solution for MTSP, we required to apply this on simulated and experimental scenarios. That is why we implement path planning algorithms to generate the path for each of the robots. Finally, we implement evasion algorithms for manage dynamic scenarios. With those main challenges clear, we test these implementations on simulation and laboratory in order to measure the quality indicators of the proposed solution.",
+        "nombre": "Planificación y seguimiento de rutas mediante algoritmos genéticos para la solución del problema del viajante múltiple en escenarios dinámicos",
+        "descripcion": "En este artículo se presenta la implementación de una técnica para resolver el problema del Multi-Travel Salesman Problem (MTSP) aplicado a robots móviles en escenarios dinámicos. Debido a que MTSP es un problema NP-Completo, utilizamos algoritmos genéticos para resolverlo de manera eficiente. Una vez que obtuvimos una solución teórica para MTSP, requerimos aplicarla en escenarios simulados y experimentales. Es por eso que implementamos algoritmos de planificación de rutas para generar la ruta para cada uno de los robots. Finalmente, implementamos algoritmos de evasión para gestionar escenarios dinámicos. Con esos desafíos principales claros, probamos estas implementaciones en simulación y laboratorio para medir los indicadores de calidad de la solución propuesta.",
         "researchArea": "Robotics",
         "fecha": "2017-07-10",
         "link": "https://ieeexplore.ieee.org/document/8023519",
@@ -87,8 +87,8 @@
     },
     {
         "id": 8,
-        "nombre": "Tadava : visual analytics architecture for large table-based datasets",
-        "descripcion": "Visual Analytics provide the user with tools to process data in a very intuitive way. One of the challenges Visual Analytics faces nowadays is the need to represent big amounts of information in a way that the user can explore. This large amount of data can not be managed by conventional machines and must be partitioned or underrepresented. Usually, visual analytics applications or widgets work with one single machine due to the requirements of low latency and quick interactions. This article presents Tadava, a visual analytics architecture based on representative sampling for large table-based datasets. Datasets samples are generated using systematics sampling and random sampling in order to obtain a collection of data from the original dataset. Experiments are made to determine the best sampling method to be used in datasets of different sizes, varying the step expected between samples. Tadava is built as a backend architecture for Navio, an interactive visualization widget for summarizing, exploring and navigating large datasets, and provides the widget with the capacity to manage table-based datasets between 400MB and 4GB.",
+        "nombre": "Tadava: arquitectura de análisis visual para grandes conjuntos de datos basados en tablas",
+        "descripcion": "Visual Analytics proporciona al usuario herramientas para procesar datos de una manera muy intuitiva. Uno de los desafíos que enfrenta Visual Analytics en la actualidad es la necesidad de representar grandes cantidades de información de una manera que el usuario pueda explorar. Esta gran cantidad de datos no puede ser administrada por máquinas convencionales y debe ser particionada o subrepresentada. Por lo general, las aplicaciones o widgets de analítica visual funcionan con una sola máquina debido a los requisitos de baja latencia e interacciones rápidas. Este artículo presenta Tadava, una arquitectura de analítica visual basada en muestreo representativo para grandes conjuntos de datos basados ​​en tablas. Las muestras de conjuntos de datos se generan utilizando muestreo sistemático y muestreo aleatorio para obtener una colección de datos del conjunto de datos original. Se realizan experimentos para determinar el mejor método de muestreo a utilizar en conjuntos de datos de diferentes tamaños, variando el paso esperado entre muestras. Tadava está construido como una arquitectura de backend para Navio, un widget de visualización interactiva para resumir, explorar y navegar por grandes conjuntos de datos, y proporciona al widget la capacidad de administrar conjuntos de datos basados en tablas de entre 400 MB y 4 GB.",
         "researchArea": "Visual Analytics",
         "fecha": "2019-12-9",
         "link": "http://hdl.handle.net/1992/34912",
@@ -99,8 +99,8 @@
     },
     {
         "id": 9,
-        "nombre": "Visualizing Taxonomic Reports from Biological Sequence Alignments",
-        "descripcion": "Biological sequence comparison is a crucial step towards the process of identifying and cataloging new sequences. To achieve this, computational biologists must compare a new sequence to the permanently-growing biological databases. This comparison produces a myriad of results, from where extracting useful information is highly cost-intensive given the lack of tools providing an overview of the results. Moreover, itis possible to mistakenlycatalognewsequencesduetopoorcomparison analysis. This project is the outcome of a close collaboration with domain experts and a thorough study of the state of the art. As a result, six analysis tasks commonly performed by bioinformaticians were identified. Each task consists either in summarizing (for single sequence results) or comparing (for multiple sequence results): regionsofinterest(AT1), taxonomic reports(AT2),and sequences descriptions (AT3).",
+        "nombre": "Visualización de informes taxonómicos a partir de alineaciones de secuencias biológicas",
+        "descripcion": "La comparación de secuencias biológicas es un paso crucial en el proceso de identificación y catalogación de nuevas secuencias. Para lograrlo, los biólogos computacionales deben comparar una nueva secuencia con las bases de datos biológicas en constante crecimiento. Esta comparación produce una gran cantidad de resultados, de los cuales extraer información útil es muy costoso debido a la falta de herramientas que proporcionen una visión general de los resultados. Además, es posible catalogar erróneamente nuevas secuencias debido a un análisis de comparación deficiente. Este proyecto es el resultado de una estrecha colaboración con expertos en el campo y un estudio exhaustivo del estado del arte. Como resultado, se identificaron seis tareas de análisis que realizan comúnmente los bioinformáticos. Cada tarea consiste en resumir (para resultados de secuencia única) o comparar (para resultados de secuencia múltiple): regiones de interés (AT1), informes taxonómicos (AT2) y descripciones de secuencias (AT3).",
         "researchArea": "Visual Analytics",
         "fecha": "2018-05-25",
         "link": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/6077cedd-9826-4789-8499-94f63a599993/content",
@@ -111,8 +111,8 @@
     },
     {
         "id": 10,
-        "nombre": "Exploring treemaps for summarizing and navigating image galleries",
-        "descripcion": "Treemaps are a two-dimensional representation of complex traditional tree structures, which show the leaf nodes as rectangular blocks with a size associated to the nodes data, so the numeric value of the data will determinate the size of the block [7]. Since its creation by Ben Shneiderman in 1991, the representation of image collections have followed this alternative in the recent years. It has shown how treemaps are effective in the task of provide to the user a quick overview which show the relevance of their images.",
+        "nombre": "Exploración de mapas de árbol para resumir y navegar por galerías de imágenes",
+        "descripcion": "Los mapas de árbol son una representación bidimensional de estructuras de árbol tradicionales complejas, que muestran los nodos de las hojas como bloques rectangulares con un tamaño asociado a los datos de los nodos, por lo que el valor numérico de los datos determinará el tamaño del bloque [7]. Desde su creación por Ben Shneiderman en 1991, la representación de colecciones de imágenes ha seguido esta alternativa en los últimos años. Se ha demostrado cómo los mapas de árbol son efectivos en la tarea de proporcionar al usuario una visión general rápida que muestre la relevancia de sus imágenes.",
         "researchArea": "Visual Analytics",
         "fecha": "2018",
         "link": "https://repositorio.uniandes.edu.co/server/api/core/bitstreams/289a0a20-c55c-4283-b7c7-7d459d7d3491/content",
@@ -123,8 +123,8 @@
     },
     {
         "id": 11,
-        "nombre": "CAAVAT: Computer Assisted Analysis of Visceral Adipose Tissue on CT Images",
-        "descripcion": "CAAVAT is a fast and reliable tool suitable to be used in clinical practice for CT VAT quantification in the diagnostic of the metabolic syndrome. BACKGROUND Individuals with high accumulation of visceral adipose tissue (VAT) are characterized by a set of alterations known as metabolic syndrome with an increased risk of type 2 diabetes, dyslipidemia, and coronary heart disease.",
+        "nombre": "CAAVAT: Análisis asistido por ordenador del tejido adiposo visceral en imágenes de TC",
+        "descripcion": "CAAVAT es una herramienta rápida y confiable adecuada para ser utilizada en la práctica clínica para la cuantificación del VAT por TC en el diagnóstico del síndrome metabólico. ANTECEDENTES Los individuos con alta acumulación de tejido adiposo visceral (VAT) se caracterizan por un conjunto de alteraciones conocidas como síndrome metabólico con un mayor riesgo de diabetes tipo 2, dislipidemia y enfermedad coronaria.",
         "researchArea": "Image Processing",
         "fecha": "2012-11-26",
         "link": "https://www.researchgate.net/publication/266102401_CAAVAT_Computer_Assisted_Analysis_of_Visceral_Adipose_Tissue_on_CT_Images",
@@ -135,7 +135,7 @@
     },
     {
         "id": 12,
-        "nombre": "Astronomical image processing from large all-sky photometric surveys for the detection and measurement of type Ia supernovae",
+        "nombre": "Procesamiento de imágenes astronómicas a partir de grandes estudios fotométricos de todo el cielo para la detección y medición de supernovas de tipo Ia",
         "descripcion": "La detección de objetos transitorios se ha convertido en un tema importante de investigación en la astronomía de hoy. Para detectar, reportar y estudiar dichos fenómenos, diferentes aproximaciones han sido propuestos, entre ellos, el uso de pipelines de procesamiento de imágenes. Usando el LSST Science Pipelines Stack (o Stack), un framework creado por el equipo de datos del LSST, desarrollamos adiciones a uno de dichos pipelines encargado de la detección de supernovas de tipo IA en las imágenes del telescopio CFHT. Logramos correr un pipeline completo, con tiempos reducidos de procesamiento, logrando una reducción de hasta 80% del número de detección dudosas, reportando 95% curvas de luz candidatas y preservando hasta el 85% de las supernovae Ia con alta señal presente.",
         "researchArea": "Image Processing",
         "fecha": "2019-05-23",
@@ -148,7 +148,7 @@
     {
         "id": 13,
         "nombre": "3RCity",
-        "descripcion": "The project consists in the development of a serious videogame, using the SCRUM methodology. The game teaches the player how recycling is happening in a city.",
+        "descripcion": "El proyecto consiste en el desarrollo de un videojuego serio, utilizando la metodología SCRUM, que enseña al jugador cómo se lleva a cabo el reciclaje en una ciudad.",
         "researchArea": "Video Games",
         "fecha": "2017-05",
         "link": "http://hdl.handle.net/1992/61524",
@@ -162,8 +162,8 @@
     },
     {
         "id": 14,
-        "nombre": "Adaptic: A Shape Changing Prop with Haptic Retargeting",
-        "descripcion": "Adaptic, a novel ”hybrid” active/passive haptic device that can change shape to act as a proxy for a range of virtual objects in VR. We use Adaptic with haptic retargeting to redirect the user’s hand to provide haptic feedback for several virtual objects in arm’s reach using only a single prop. To evaluate the effectiveness of Adaptic with haptic retargeting, we conducted a within-subjects experiment employing a docking task to compare Adaptic to non-matching proxy objects (i.e., Styrofoam balls) and matching shape props. In our study, Adaptic sat on a desk in front of the user and changed shapes between grasps, to provide matching tactile feedback for various virtual objects placed in different virtual locations. Results indicate that the illusion was convincing: users felt they were manipulating several virtual objects in different virtual locations with a single Adaptic device. Docking performance (completion time and accuracy) with Adaptic was comparable to props without haptic retargeting.",
+        "nombre": "Adaptic: un accesorio que cambia de forma con reorientación háptica",
+        "descripcion": "Adaptic, un novedoso dispositivo háptico “híbrido” activo/pasivo que puede cambiar de forma para actuar como un proxy para una variedad de objetos virtuales en VR. Usamos Adaptic con redireccionamiento háptico para redirigir la mano del usuario y proporcionar retroalimentación háptica para varios objetos virtuales al alcance de la mano utilizando solo un único accesorio. Para evaluar la efectividad de Adaptic con redireccionamiento háptico, realizamos un experimento intra-sujetos empleando una tarea de acoplamiento para comparar Adaptic con objetos proxy no coincidentes (es decir, bolas de poliestireno) y accesorios de forma coincidente. En nuestro estudio, Adaptic se colocó sobre un escritorio frente al usuario y cambió de forma entre agarres, para proporcionar retroalimentación táctil coincidente para varios objetos virtuales colocados en diferentes ubicaciones virtuales. Los resultados indican que la ilusión fue convincente: los usuarios sintieron que estaban manipulando varios objetos virtuales en diferentes ubicaciones virtuales con un solo dispositivo Adaptic. El rendimiento del acoplamiento (tiempo de finalización y precisión) con Adaptic fue comparable al de los accesorios sin redireccionamiento háptico.",
         "researchArea": "Mixed Realities",
         "fecha": "2021-11-09",
         "link": "https://dl.acm.org/doi/10.1145/3485279.3485293",
@@ -178,7 +178,7 @@
     {
         "id": 15,
         "nombre": "Balance Universal",
-        "descripcion": "The life of a college student is full of challenges, effort and achievements through this period of their life in which they are searching, studying and preparing for their work life. However, this also comes with high levels of stress, unbalance and unhealthy habits that can have negative effects on the mental health of students in the medium term. Through the development of a serious game in which the engineering process and agile methodologies of development were used, we try to make players experiment and be more conscious of this conundrum that many students go through. This conundrum is not talked about enough outside of the academic field of psychology. This video game was developed and published until reaching a beta version looking for feedback and validation from users inside the age range of the average college student.",
+        "descripcion": "La vida de un estudiante universitario está llena de retos, esfuerzos y logros a lo largo de este periodo de su vida en el que se encuentra en búsqueda, estudio y preparación para su vida laboral. Sin embargo, esto también conlleva altos niveles de estrés, desequilibrio y hábitos poco saludables que pueden tener efectos negativos en la salud mental de los estudiantes a medio plazo. A través del desarrollo de un serious game en el que se utilizó el proceso de ingeniería y metodologías ágiles de desarrollo, se busca que los jugadores experimenten y sean más conscientes de este enigma por el que pasan muchos estudiantes y del que no se habla lo suficiente fuera del ámbito académico de la psicología. Este videojuego fue desarrollado y publicado hasta llegar a una versión beta buscando retroalimentación y validación de usuarios dentro del rango de edad del estudiante universitario promedio.",
         "researchArea": "Video Games",
         "fecha": "2021-09",
         "link": "http://hdl.handle.net/1992/55624",
@@ -192,7 +192,7 @@
     {
         "id": 16,
         "nombre": "Boom Away",
-        "descripcion": "The project began by exploring experimental mechanics relating to the use of explosives as a means of movement in a 2D environment in order to complete levels designed around this characteristic. Nonetheless, throughout the semester we, apart from achieving just that, made the game into a fully fledged out experience. We used principles learned during our years in this major to implement a robust architecture following the S.O.L.I.D. principles in order to make a fully scalable and perfectly usable application. Furthermore, we collected analytics about the way players interacted with our game; we took this data and transformed it into information and later into knowledge so we could understand the problems our players were facing during their playtime. Finally, we used this knowledge to iterate over our design and implementation and make an even better experience.",
+        "descripcion": "El proyecto comenzó explorando mecánicas experimentales relacionadas con el uso de explosivos como medio de movimiento en un entorno 2D para completar niveles diseñados en torno a esta característica. Sin embargo, a lo largo del semestre, además de lograrlo, convertimos el juego en una experiencia completa. Utilizamos principios aprendidos durante nuestros años en esta carrera para implementar una arquitectura robusta siguiendo los principios S.O.L.I.D. para hacer una aplicación totalmente escalable y perfectamente utilizable. Además, recopilamos analíticas sobre la forma en que los jugadores interactuaban con nuestro juego; tomamos estos datos y los transformamos en información y luego en conocimiento para poder entender los problemas que enfrentaban nuestros jugadores durante su tiempo de juego. Finalmente, utilizamos este conocimiento para iterar sobre nuestro diseño e implementación y hacer una experiencia aún mejor.",
         "researchArea": "Video Games",
         "fecha": "2021",
         "link": "http://hdl.handle.net/1992/50760",
@@ -220,7 +220,7 @@
     {
         "id": 18,
         "nombre": "Domicilio Survivor",
-        "descripcion": "Reckless driving, especially of motorcyclists, is one of the most relevant causes of death on Colombian streets and therefore represents one of the most daily occurring problems. However, it is given very little importance by the population, since it has become a habit for drivers to think that traffic regulations are a suggestion rather than an obligation, especially in small towns where motorcycles abound. For this reason, the objective of this project is to make drivers aware of the risks involved in not following the traffic norms. To this end, they are shown a familiar context in which the possible consequences of reckless driving can be represented.",
+        "descripcion": "La conducción temeraria, especialmente de motociclistas, es una de las causas más relevantes de muerte en las calles colombianas y por ende representa uno de los problemas más cotidianos. Sin embargo, se le da muy poca importancia por parte de la población, pues se ha convertido en un hábito de los conductores pensar que las normas de tránsito son una sugerencia más que una obligación, especialmente en pequeñas localidades donde abundan las motocicletas. Por esta razón, el objetivo de este proyecto es concientizar a los conductores sobre los riesgos que implica no seguir las normas de tránsito. Para ello, se les muestra un contexto familiar en el que se pueden representar las posibles consecuencias de la conducción temeraria.",
         "researchArea": "Video Games",
         "fecha": "2021-12",
         "link": "http://hdl.handle.net/1992/55614",
@@ -233,8 +233,8 @@
     },
     {
         "id": 19,
-        "nombre": "Training in seismic safety practices using virtual reality",
-        "descripcion": "The project seeks to support the learning of prevention measures and safety protocols that must be applied to be better protected and prepared for an earthquake. This through the development of an immersive video game in virtual reality that improves the retention of knowledge.",
+        "nombre": "Capacitación en prácticas de seguridad sísmica utilizando realidad virtual",
+        "descripcion": "El proyecto busca apoyar el aprendizaje de medidas de prevención y protocolos de seguridad que se deben aplicar para estar mejor protegidos y preparados ante un sismo. Esto a través del desarrollo de un videojuego inmersivo en realidad virtual que mejore la retención de conocimientos.",
         "researchArea": "Video Games",
         "fecha": "2019",
         "link": "http://hdl.handle.net/1992/45341",
@@ -266,7 +266,7 @@
     {
         "id": 21,
         "nombre": "VR Salsa : aprender a bailar en realidad virtual",
-        "descripcion": "VR Salsa was the development of a VR environment to teach people how to dance salsa. The goal was to design a tool that provided a safe space to learn for people who do not feel comfortable dancing, so they could learn at their own phase. The system was tested with users to determine the effectiveness and qualities, the results were registered.",
+        "descripcion": "VR Salsa fue el desarrollo de un entorno de realidad virtual para enseñar a bailar salsa. El objetivo era diseñar una herramienta que brindara un espacio seguro para aprender a bailar salsa a aquellas personas que no se sienten cómodas, para que pudieran hacerlo a su propio ritmo. El sistema fue probado con usuarios para determinar su efectividad y cualidades, y se registraron los resultados.",
         "researchArea": "Mixed Realities",
         "fecha": "2018",
         "link": "http://hdl.handle.net/1992/34759",
@@ -289,8 +289,8 @@
     },
     {
         "id": 23,
-        "nombre": "Perceived Space and Spatial Performance during Path-Integration Tasks in Consumer-Oriented Virtual Reality Environments",
-        "descripcion": "Studies using virtual reality environments (VE) have shown that sub-jects can perform path integration tasks with acceptable performance.However, in these studies, subjects could walk naturally across largetracking areas, or researchers provided them with large-immersivedisplays. Unfortunately, these conﬁgurations are far from currentconsumer-oriented VEs (COVEs), and little is known about howtheir limitations inﬂuence this task. Using a triangle completionparadigm, we assessed the subjects’ spatial performance when devel-oping path integration tasks in two consumer-oriented displays (anHTC Vive and a GearVR) and two consumer-oriented interactiondevices (a Virtuix Omni Treadmill and a Touchpad Control). Ourresults show that when locomotion is available (treadmill condition),there exist signiﬁcant effects regarding the display and the path. Incontrast, when locomotion is mediated no effect was found. Somefuture research directions are therefore proposed.",
+        "nombre": "Espacio percibido y rendimiento espacial durante tareas de integración de trayectorias en entornos de realidad virtual orientados al consumidor",
+        "descripcion": "Los estudios que utilizan entornos de realidad virtual (VE) han demostrado que los sujetos pueden realizar tareas de integración de trayectorias con un rendimiento aceptable. Sin embargo, en estos estudios, los sujetos podían caminar de forma natural a través de grandes áreas de seguimiento o los investigadores les proporcionaban pantallas grandes e inmersivas. Desafortunadamente, estas configuraciones están lejos de los VE orientados al consumidor (COVE) actuales, y se sabe poco sobre cómo sus limitaciones influyen en esta tarea. Utilizando un paradigma de compleción de triángulos, evaluamos el rendimiento espacial de los sujetos al desarrollar tareas de integración de trayectorias en dos pantallas orientadas al consumidor (un HTC Vive y un GearVR) y dos dispositivos de interacción orientados al consumidor (una cinta de correr Virtuix Omni y un Touchpad Control). Nuestros resultados muestran que cuando la locomoción está disponible (condición de cinta de correr), existen efectos significativos con respecto a la pantalla y la trayectoria. Por el contrario, cuando la locomoción está mediada, no se encontró ningún efecto. Por lo tanto, se proponen algunas direcciones de investigación futuras.",
         "researchArea": "Mixed Realities",
         "fecha": "2019-03",
         "link": "https://doi.org/10.1109/VR.2019.8798344",
@@ -302,7 +302,7 @@
     {
         "id": 24,
         "nombre": "Sensibilización en el proceso de reparación de tierras",
-        "descripcion": "The project aims to raise knowledge of the stages that are carried out during a land repair process, as well as raise conscience and awareness about its difficulty. For this, a simulation video-game is proposed through the use of virtual reality.",
+        "descripcion": "El proyecto pretende dar a conocer las etapas que se llevan a cabo durante un proceso de reparación de terrenos, así como generar conciencia y concientización sobre su dificultad. Para ello, se propone un videojuego de simulación mediante el uso de realidad virtual.",
         "researchArea": "Mixed Realities",
         "fecha": "2019-11-29",
         "link": "http://hdl.handle.net/1992/45101",
@@ -315,8 +315,8 @@
     },
     {
         "id": 25,
-        "nombre": "Escape Room VR : a tool for diagnosis and treatment of ADD",
-        "descripcion": "Attention Deficit Disorder (ADD) is characterized by the lack of a long attention span. Both its diagnosis and treatment can be improved or helped using technology. Since the number of people suffering from it has been increasing for years, this paper intends to create a new alternative to improve the treatment of this disorder using Virtual Reality as a tool to support mental health workers process to treat the disorder.",
+        "nombre": "Escape Room VR: una herramienta para el diagnóstico y tratamiento del TDAH",
+        "descripcion": "El Trastorno por Déficit de Atención (TDA) se caracteriza por la falta de capacidad de atención. Tanto su diagnóstico como su tratamiento pueden mejorarse o facilitarse mediante el uso de la tecnología. Dado que el número de personas que lo padecen ha ido en aumento durante los últimos años, este trabajo pretende crear una nueva alternativa para mejorar el tratamiento de este trastorno utilizando la Realidad Virtual como herramienta de apoyo a los profesionales de la salud mental en el proceso de tratamiento del trastorno.",
         "researchArea": "Mixed Realities",
         "fecha": "2019-11-29",
         "link": "http://hdl.handle.net/1992/60960",
@@ -329,7 +329,7 @@
     {
         "id": 26,
         "nombre": "Shades of my Soul",
-        "descripcion": "In the former document we talk about Shades of My Soul, a videogame in which the player is able to control two main characters at the same time, in order to take on challenges and problems found throughout the entire game. The project was born under the idea of creating new videogame mechanics and innovating through them throughout the development process. The whole development process took us from the conception of main game mechanics, coding, art, sounds and music. The development of the game was planned with the help of lean methodologies based on four main sprints that would tackle different problems in each one of them. Each sprint was composed of micro-sprints which were weekly meetings with our supervisor Pablo Figueroa. He helped us with feedback and improvements to be done throughout development.",
+        "descripcion": "En el documento anterior hablamos de Shades of My Soul, un videojuego en el que el jugador puede controlar a dos personajes principales al mismo tiempo, para ir resolviendo retos y problemas que se van encontrando a lo largo de todo el juego. El proyecto nació bajo la idea de crear nuevas mecánicas de videojuego e innovar a través de ellas durante todo el proceso de desarrollo. Todo el proceso de desarrollo nos llevó desde la concepción de las mecánicas principales del juego, la codificación, el arte, los sonidos y la música. El desarrollo del juego se planificó con la ayuda de metodologías lean basadas en cuatro sprints principales que abordarían diferentes problemas en cada uno de ellos. Cada sprint estaba compuesto por micro-sprints que eran reuniones semanales con nuestro supervisor Pablo Figueroa. Él nos ayudó con el feedback y las mejoras a realizar durante el desarrollo.",
         "researchArea": "Video Games",
         "fecha": "2021",
         "link": "http://hdl.handle.net/1992/50651",
@@ -342,7 +342,7 @@
     {
         "id": 27,
         "nombre": "Simulaciones para Vehículos Autónomos en ambiente CARLA a partir de la extracción de patrones en análisis de vídeos de Bogotá",
-        "descripcion": "This degree project consists of the design and implementation of a system for the generation of autonomous vehicle simulations from video analysis, in the open source software CARLA. Simulations are one of the most important and fundamental parts of automatic driving. However, the creation of realistic simulations, necessary for the proper testing of these vehicles, are often expensive and complex. For this reason, the project will make use of videos to automate the creation of simulations from patterns identified in the video analysis.",
+        "descripcion": "Este proyecto de grado consiste en el diseño e implementación de un sistema para la generación de simulaciones de vehículos autónomos a partir de análisis de vídeo, en el software de código abierto CARLA. Las simulaciones son una de las partes más importantes y fundamentales de la conducción automática. Sin embargo, la creación de simulaciones realistas, necesarias para el correcto testeo de estos vehículos, suelen ser costosas y complejas. Por este motivo, el proyecto hará uso de vídeos para automatizar la creación de simulaciones a partir de patrones identificados en el análisis de vídeo.",
         "researchArea": "Visual Analytics",
         "fecha": "2021",
         "link": "http://hdl.handle.net/1992/53374",
@@ -353,8 +353,8 @@
     },
     {
         "id": 28,
-        "nombre": "A perceptual calibration method to ameliorate the phenomenon of non-size-constancy in hetereogeneous VR displays",
-        "descripcion": "The interception of the action-perception loop in virtual reality [VR] causes that understanding the effects of different display factors in spatial perception becomes a challenge. For example, studies have reported that there is not size-constancy, the perceived size of an object does not remain constant as its distance increases. This phenomenon is closely related to the reports of underestimation of distances in VR, which causes remain unclear. Despite the efforts improving the spatial cues regarding display technology and computer graphics, some interest has started to focus on the human side. In this study, we propose a perceptual calibration method which can ameliorate the effects of non-size-constancy in heterogeneous VR displays. The method was validated in a perceptual matching experiment comparing the performance between an HTC Vive HMD and a four-walls CAVE system. Results show that perceptual calibration based on interpupillary distance increments can solve partially the phenomenon of non-size-constancy in VR.",
+        "nombre": "Un método de calibración perceptiva para mejorar el fenómeno de la falta de constancia del tamaño en pantallas de realidad virtual heterogéneas",
+        "descripcion": "La intercepción del bucle de acción-percepción en la realidad virtual [RV] hace que la comprensión de los efectos de los diferentes factores de visualización en la percepción espacial se convierta en un desafío. Por ejemplo, los estudios han informado que no existe constancia de tamaño, el tamaño percibido de un objeto no permanece constante a medida que aumenta su distancia. Este fenómeno está estrechamente relacionado con los informes de subestimación de distancias en VR, cuyas causas siguen sin estar claras. A pesar de los esfuerzos para mejorar las señales espaciales con respecto a la tecnología de visualización y los gráficos de computadora, se ha comenzado a centrar cierto interés en el lado humano. En este estudio, proponemos un método de calibración perceptual que puede mejorar los efectos de la no constancia de tamaño en pantallas heterogéneas de VR. El método se validó en un experimento de coincidencia perceptual que comparaba el rendimiento entre un HMD HTC Vive y un sistema CAVE de cuatro paredes. Los resultados muestran que la calibración perceptual basada en incrementos de distancia interpupilar puede resolver parcialmente el fenómeno de la no constancia de tamaño en VR.",
         "researchArea": "Mixed Realities",
         "fecha": "2018-06-19",
         "link": "https://doi.org/10.29007/sxjn",
@@ -378,8 +378,8 @@
     },
     {
         "id": 30,
-        "nombre": "BIM-based mixed reality environments to improve AEC task performance",
-        "descripcion": "The Building Information Modelling (BIM) currently contributes to deeply modify the Architecture, Construction and Engineering (AEC) industry by improving data management, task planning, and architecture design etc. Nevertheless, other technologies have also joined this revolution, with the aim of allowing experts to perform better their tasks with them than with only the BIM, particularly mixed reality (MR). However, MR applications can take very diverse forms, because of the multiple design choice possibilities: multiple data sources from the BIM (3D model, worksite monitoring, simulations.. .), multiple possibilities of visualisations in MR (visual effects, 4D.. .) and multiple MR interactions (move, write, say, grasp.. .). Behind MR application design choices, there is a task for which the application has been created. Yet, having BIM-based MR environments that really allow to respond to the original need and that improve task performance is a current difficulty. In this paper, we present our proposal of a methodology for going from BIM to BIM-based mixed reality environments. Our inputs are the AEC tasks which are likely to benefit from being performed in a mixed reality environment, their performance measures (efficiency and effectiveness), and BIM data. Our target is to provide BIM-based mixed reality environments that support specific AEC tasks, and to prove thanks to appropriate indicators that the task performance has improved in MR compared to traditional methods. Thus, we present here the results from our first case studies and their impact on the methodology evolution. Finally, our ongoing and future works are discussed in the last sections",
+        "nombre": "Entornos de realidad mixta basados en BIM para mejorar el rendimiento de las tareas AEC",
+        "descripcion": "El Building Information Modelling (BIM) contribuye actualmente a modificar profundamente la industria de la Arquitectura, Construcción e Ingeniería (AEC) al mejorar la gestión de datos, la planificación de tareas y el diseño arquitectónico, etc. Sin embargo, otras tecnologías también se han sumado a esta revolución, con el objetivo de permitir a los expertos realizar mejor sus tareas con ellas que con solo BIM, en particular la realidad mixta (MR). Sin embargo, las aplicaciones de MR pueden adoptar formas muy diversas, debido a las múltiples posibilidades de elección de diseño: múltiples fuentes de datos del BIM (modelo 3D, seguimiento de la obra, simulaciones...), múltiples posibilidades de visualización en MR (efectos visuales, 4D...) y múltiples interacciones de MR (mover, escribir, decir, agarrar...). Detrás de las decisiones de diseño de la aplicación MR, hay una tarea para la que se ha creado la aplicación. Sin embargo, disponer de entornos de MR basados ​​en BIM que realmente permitan responder a la necesidad original y que mejoren el rendimiento de la tarea es una dificultad actual. En este artículo, presentamos nuestra propuesta de una metodología para pasar de BIM a entornos de realidad mixta basados ​​en BIM. Nuestras aportaciones son las tareas de AEC que probablemente se beneficien de ser realizadas en un entorno de realidad mixta, sus medidas de rendimiento (eficiencia y eficacia) y datos BIM. Nuestro objetivo es proporcionar entornos de realidad mixta basados ​​en BIM que admitan tareas de AEC específicas y demostrar gracias a los indicadores adecuados que el rendimiento de la tarea ha mejorado en MR en comparación con los métodos tradicionales. Por lo tanto, presentamos aquí los resultados de nuestros primeros estudios de caso y su impacto en la evolución de la metodología. Finalmente, nuestros trabajos actuales y futuros se discuten en las últimas secciones.",
         "researchArea": "Mixed Realities",
         "fecha": "2019-10",
         "link": "http://hdl.handle.net/10985/17738",
@@ -392,7 +392,7 @@
     {
         "id": 31,
         "nombre": "Simulador multimodal de entrenamiento en reducción de fracturas como módulo de residencia",
-        "descripcion": "The Halsted's Model for the skills learning on the orthopedical surgical room has showed some weaknesses fot the lower interaction which residents have on the surgical room. This is causing a higher learning curve for motor skills learning. The previous prototype of IMAGINE group deveolped for fractures reduction training was taken to extend it and offerr an integrable tool in the residencial formation for orthopedic surgeons. The result of this research process counts on a haptic and virtual-reality environment where distinct challenges can be propposed. For examples other fractures types including virtual elements which could increase the complexity (e. g. tissues to interact with). On the other hand the evaluation process was parametrized to allow define additional measures. A new measure was added about wrong boardings to neural and vascular tissues. Two fractures cases were added for the validation: middle third on the clavicule and distal radius.",
+        "descripcion": "El modelo de Halsted para el aprendizaje de habilidades en el quirófano de ortopedia ha mostrado algunas debilidades por la menor interacción que tienen los residentes en el quirófano. Esto está provocando una curva de aprendizaje más alta para el aprendizaje de habilidades motoras. El prototipo anterior del grupo IMAGINE desarrollado para el entrenamiento en reducción de fracturas fue tomado para extenderlo y ofrecer una herramienta integrable en la formación residencial para cirujanos ortopedistas. El resultado de este proceso de investigación cuenta con un entorno háptico y de realidad virtual donde se pueden proponer distintos retos. Por ejemplo, otros tipos de fracturas incluyen elementos virtuales que podrían aumentar la complejidad (por ejemplo, tejidos con los que interactuar). Por otro lado, el proceso de evaluación fue parametrizado para permitir definir medidas adicionales. Se agregó una nueva medida sobre abordajes incorrectos a tejidos neurales y vasculares. Se agregaron dos casos de fracturas para la validación: tercio medio en la clavícula y radio distal.",
         "researchArea": "Mixed Realities",
         "fecha": "2018-12",
         "link": "http://hdl.handle.net/1992/44131",
@@ -403,8 +403,8 @@
     },
     {
         "id": 32,
-        "nombre": "SPLOR-T : an interactive urban spatiotemporal data exploration web approach",
-        "descripcion": "The analysis of spatio-temporal urban data has evolved along the last 30 years. Data heterogeneity and segmented analysis is a frequent issue in this context. We present a new proposal to address these challenges by using the visual analytics approach in a web environment using the What-Where-When pyramidal paradigm to drive the analysis. Thanks to the flexibility of new web tools, we arrive to offer with S-PLOR-T a flexible and multi-screen web interface. Furthermore, we provide an architecture to allow to put coordinated visualizations, letting an analyst to have a clear notion of its data through interactions within the three main Wh* dimensions. With S-PLOR-T, the users will result in a customizable analysis in order to support the finding of new insights and support an effortless decision making with them. Additionally, our approach allows the user, not only to visual query any view, but to explore and to analyze multi-scale attributes within the space and the time. In this paper, we present a use case which was built and tested with domain experts in land use and mobility.",
+        "nombre": "SPLOR-T: un enfoque web interactivo de exploración de datos espaciotemporales urbanos",
+        "descripcion": "El análisis de datos urbanos espacio-temporales ha evolucionado a lo largo de los últimos 30 años. La heterogeneidad de los datos y el análisis segmentado son problemas frecuentes en este contexto. Presentamos una nueva propuesta para abordar estos desafíos utilizando el enfoque de análisis visual en un entorno web utilizando el paradigma piramidal Qué-Dónde-Cuándo para impulsar el análisis. Gracias a la flexibilidad de las nuevas herramientas web, llegamos a ofrecer con S-PLOR-T una interfaz web flexible y multipantalla. Además, proporcionamos una arquitectura que permite colocar visualizaciones coordinadas, permitiendo que un analista tenga una noción clara de sus datos a través de interacciones dentro de las tres dimensiones principales de Wh*. Con S-PLOR-T, los usuarios obtendrán un análisis personalizable para respaldar el hallazgo de nuevos conocimientos y respaldar una toma de decisiones sin esfuerzo con ellos. Además, nuestro enfoque permite al usuario, no solo consultar visualmente cualquier vista, sino explorar y analizar atributos multiescala dentro del espacio y el tiempo. En este documento, presentamos un caso de uso que fue construido y probado con expertos en el dominio del uso del suelo y la movilidad.",
         "researchArea": "Visual Analytics",
         "fecha": "2019-05",
         "link": "http://hdl.handle.net/1992/44321",
