@@ -1136,5 +1136,19 @@
     "phone": "3204465448",
     "description": "Estudiante de 5to semestre de Ingeniería de Sistemas y Computación, con gran interés en comprender el funcionamiento de los modelos de Inteligencia Artificial, las tecnologías de la información, y su aplicación y evolución en diversos contextos. También soy apasionado por los deportes y disfruto de escuchar música, encontrando en ambos actividades que complementan mi desarrollo personal y profesional.",
     "email": "e.zea@uniandes.edu.co"
+  },
+  "anahernandez": {
+    "user": "anahernandez",
+    "display_name": "Ana María Hernández Lasso",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_anahernandez.jpeg",
+    "bio": "Estudiante de pregrado en una iniciativa estudiantil",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/ana-mar%C3%ADa-hern%C3%A1ndez-lasso-31889829a/",
+    "phone": "3118857825",
+    "description": "Soy Ana María, estudiante de Ingeniería de Sistemas y Computación. Me apasiona la música y me interesan los proyectos que combinan la programación con creatividad.",
+    "email": "am.hernandezl1@uniandes.edu.co"
   }
 }
