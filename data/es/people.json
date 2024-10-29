@@ -1178,5 +1178,19 @@
     "phone": "3208510682",
     "description": "Cursando ingeniería de sistemas y narrativas digitales. Asistente de investigación del Vivero Virtual Uniandes desde Septiembre de 2024.",
     "email": "g.villalba@uniandes.edu.co"
+  },
+  "nicolasrincon": {
+    "user": "nicolasrincon",
+    "display_name": "Nicolás Rincón Sánchez",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "bio": "Estudiante de pregrado en una iniciativa estudiantil",
+    "github": "nrincon2302",
+    "linkedin": "https://www.linkedin.com/in/nicolas-rincon-sanchez",
+    "phone": "",
+    "description": "Me considero una persona curiosa, proactiva y disciplinada. Siempre me dedico plenamente a lo que hago y me esfuerzo por alcanzar cada meta que me propongo con excelencia y de manera ética y profesional. También me apasiona aprender cosas nuevas, ya sea relacionadas con temas académicos como datos curiosos. Mi mayor aspiración es seguir aprendiendo y creciendo como persona para que mi conocimiento sea útil para ayudar a muchas personas. Desde este semestre formo parte de la herramienta de manipulación de SinfonIA, a través de la cual espero aprender y contribuir al desarollo de la robótica social.",
+    "email": "n.rincon4@uniandes.edu.co"
   }
 }
