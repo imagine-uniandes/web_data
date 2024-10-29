@@ -1010,5 +1010,19 @@
     "phone": "3213936463",
     "description": "Soy una Biomedical Engineering Researcher apasionada por la IA, el análisis de datos, la investigación e innovación, y la física médica. Me considero una persona muy creativa y llena de energía para aprender cosas nuevas, siempre en búsqueda de herramientas y enfoques innovadores para transformar los desafíos en oportunidades.",
     "email": "k.soler@uniandes.edu.co"
+  },
+  "lizethbejarano": {
+    "user": "lizethbejarano",
+    "display_name": "Lizeth Bejarano Murillo",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_lizethbejarano.jpeg",
+    "bio": "Estudiante de pregrado en una iniciativa estudiantil",
+    "github": "lizzz94",
+    "linkedin": "https://www.linkedin.com/in/lizeth-bejarano-murillo-27a4a720b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "phone": "3122408981",
+    "description": "Mi nombre es Lizeth Bejarano y soy estudiante de Ingeniería de Sistemas y Computación de la Universidad de Los Andes. Me interesan mucho los temas de IA, robótica y desarrollo de software y participo en proyectos afines a estos temas.",
+    "email": "l.bejarano1@uniandes.edu.co"
   }
 }
