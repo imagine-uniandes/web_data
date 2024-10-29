@@ -1150,5 +1150,19 @@
     "phone": "3118857825",
     "description": "Soy Ana María, estudiante de Ingeniería de Sistemas y Computación. Me apasiona la música y me interesan los proyectos que combinan la programación con creatividad.",
     "email": "am.hernandezl1@uniandes.edu.co"
+  },
+  "mariabarrios": {
+    "user": "mariabarrios",
+    "display_name": "María Isabella Barrios Torres",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "https://www.behance.net/mariaibarrios",
+    "image": "",
+    "bio": "Monitor de investigación",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/mar%C3%ADa-isabella-barrios-torres-4482b7244",
+    "phone": "3178762180",
+    "description": "Cursando BSc en Arquitectura y Diseño, y opción académica en Historia del Arte. Monitora de Vivero virtual Uniandes.",
+    "email": "m.barrios@uniandes.edu.co"
   }
 }
