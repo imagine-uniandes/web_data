@@ -1122,5 +1122,19 @@
     "phone": "3507778709",
     "description": "Estudiante de ingeniería Electrónica e ingeniería de sistemas, apasionado por la tecnología, la robótica y el desarrollo de software y hardware ",
     "email": "jd.montenegro@uniandes.edu.co"
+  },
+  "emiliozea": {
+    "user": "emiliozea",
+    "display_name": "Emilio Zea",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_emiliozea.jpeg",
+    "bio": "Estudiante de pregrado en una iniciativa estudiantil",
+    "github": "EmilioZea99",
+    "linkedin": "http://linkedin.com/in/emilio-zea-6a6999311",
+    "phone": "3204465448",
+    "description": "Estudiante de 5to semestre de Ingeniería de Sistemas y Computación, con gran interés en comprender el funcionamiento de los modelos de Inteligencia Artificial, las tecnologías de la información, y su aplicación y evolución en diversos contextos. También soy apasionado por los deportes y disfruto de escuchar música, encontrando en ambos actividades que complementan mi desarrollo personal y profesional.",
+    "email": "e.zea@uniandes.edu.co"
   }
 }
