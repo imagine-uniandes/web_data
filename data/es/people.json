@@ -1080,5 +1080,19 @@
     "phone": "3212860273",
     "description": "Soy estudiante de 20 años de Ingeniería de Sistemas y Computación, temporalmente viviendo en México. Me considero una persona curiosa y siempre en busca de explorar nuevos horizontes, especialmente en el ámbito del arte y la tecnología. Como desarrolladora de software, me especializo en implementaciones de Inteligencia Artificial y disfruto aplicando nuevas tecnologías en proyectos que captan mi interés",
     "email": "s.rodriguezm2@uniandes.edu.co"
+  },
+  "dabielfuentes": {
+    "user": "dabielfuentes",
+    "display_name": "Daniel Fuentes Ensuncho",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_dabielfuentes.jpeg",
+    "bio": "Estudiante de pregrado (en tesis o proyecto de grado)",
+    "github": "",
+    "linkedin": "https://co.linkedin.com/in/danielfuentesensuncho",
+    "phone": "3185707059",
+    "description": "Soy Daniel, soy gymrat. También soy ingeniero de sistemas y creo en la prueba y error, fallar es muy importante para poder mejorar. Si no fallas no aprendes.  ",
+    "email": "d.fuentese@uniandes.edu.co"
   }
 }
