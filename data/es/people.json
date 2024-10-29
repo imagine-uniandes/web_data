@@ -1024,5 +1024,19 @@
     "phone": "3122408981",
     "description": "Mi nombre es Lizeth Bejarano y soy estudiante de Ingeniería de Sistemas y Computación de la Universidad de Los Andes. Me interesan mucho los temas de IA, robótica y desarrollo de software y participo en proyectos afines a estos temas.",
     "email": "l.bejarano1@uniandes.edu.co"
+  },
+  "anatrillos": {
+    "user": "anatrillos",
+    "display_name": "Ana Sofia Trillos",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_anatrillos.jpeg",
+    "bio": "Estudiante de pregrado en una iniciativa estudiantil",
+    "github": "atrillosr",
+    "linkedin": "https://www.linkedin.com/in/ana-sofía-trillos-rozo-406869227/",
+    "phone": "3015402120",
+    "description": "Soy estudiante de Arte e Ingeniería Industrial. Me interesa el modelado y la animación 3D en el ámbito tecnológico.",
+    "email": "a.trillosr@uniandes.edu.co"
   }
 }
