@@ -1108,5 +1108,19 @@
     "phone": "3142684150",
     "description": "¡Hola! Soy Paula, estudiante de ingeniería de sistemas con una gran pasión por todo lo relacionado con el arte y la informática. Actualmente, formo parte de iniciativas que me permiten ampliar mis horizontes y desarrollar mi creatividad al máximo ;)",
     "email": "m.estupinanm@uniandes.edu.co"
+  },
+  "juanmontenegro": {
+    "user": "juanmontenegro",
+    "display_name": "Juan Diego Montenegro Carvajal",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_juanmontenegro.jpeg",
+    "bio": "Estudiante de pregrado en una iniciativa estudiantil",
+    "github": "DDaku23",
+    "linkedin": "https://www.linkedin.com/in/juan-diego-montenegro-carvajal-775145308",
+    "phone": "3507778709",
+    "description": "Estudiante de ingeniería Electrónica e ingeniería de sistemas, apasionado por la tecnología, la robótica y el desarrollo de software y hardware ",
+    "email": "jd.montenegro@uniandes.edu.co"
   }
 }
