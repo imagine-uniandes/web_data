@@ -1192,5 +1192,19 @@
     "phone": "",
     "description": "Me considero una persona curiosa, proactiva y disciplinada. Siempre me dedico plenamente a lo que hago y me esfuerzo por alcanzar cada meta que me propongo con excelencia y de manera ética y profesional. También me apasiona aprender cosas nuevas, ya sea relacionadas con temas académicos como datos curiosos. Mi mayor aspiración es seguir aprendiendo y creciendo como persona para que mi conocimiento sea útil para ayudar a muchas personas. Desde este semestre formo parte de la herramienta de manipulación de SinfonIA, a través de la cual espero aprender y contribuir al desarollo de la robótica social.",
     "email": "n.rincon4@uniandes.edu.co"
+  },
+  "claycharry": {
+    "user": "claycharry",
+    "display_name": "Clay Felipe Charry Pinzón",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_claycharry.jpeg",
+    "bio": "Estudiante de pregrado en una iniciativa estudiantil",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/clay-felipe-charry-pinzon",
+    "phone": "3122749129",
+    "description": "Clay es un estudiante de Ingeniería de Sistemas y Computación en Uniandes. Desde que era un niño, ha estado muy interesado en el funcionamiento del cerebro y el comportamiento humano. En base a ello y al ver el potencial de la tecnología para mejorar el mundo con apuestas innovadoras, se interesó profundamente en la inteligencia artificial.\n\nEn el pasado, Clay ha sido parte de iniciativas como:\n- Consejo estudiantil de Ingeniería de Sistemas y Computación (Uniandes)\n- Proyecto Polaris (Arex Costa Rica)\n- AMBROSPACE (Emprendimiento conjunto)\n\nAhora, tras un breve recorrido en la industria aeroespacial y su experiencia como fundador, ha decidido retomar su interés por la IA. En el segundo semestre de 2024 ingresó a SinfonIA como miembro del equipo 'Perception' en el que contribuirá en el área de computación visual principalmente.",
+    "email": "c.charryp@uniandes.edu.co"
   }
 }
