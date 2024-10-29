@@ -1066,5 +1066,19 @@
     "phone": "",
     "description": "Hola, soy estudiante de Ingeniería Electrónica. Soy parte de la iniciativa estudiantil del SinfonIA, donde me enfoco en el área de Speech. Me apasiona la tecnología, especialmente la robótica y los sistemas de control, y disfruto colaborando con mis compañeros en proyectos emocionantes.",
     "email": "je.sandovals1@uniandes.edu.co"
+  },
+  "santiagorodriguez": {
+    "user": "santiagorodriguez",
+    "display_name": "Santiago Rodriguez Mora",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_santiagorodriguez.jpeg",
+    "bio": "Estudiante de pregrado en una iniciativa estudiantil",
+    "github": "SaroM0",
+    "linkedin": "https://www.linkedin.com/in/santiago-rodriguez-mora-5b2a17267/",
+    "phone": "3212860273",
+    "description": "Soy estudiante de 20 años de Ingeniería de Sistemas y Computación, temporalmente viviendo en México. Me considero una persona curiosa y siempre en busca de explorar nuevos horizontes, especialmente en el ámbito del arte y la tecnología. Como desarrolladora de software, me especializo en implementaciones de Inteligencia Artificial y disfruto aplicando nuevas tecnologías en proyectos que captan mi interés",
+    "email": "s.rodriguezm2@uniandes.edu.co"
   }
 }
