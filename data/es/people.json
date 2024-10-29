@@ -1164,5 +1164,19 @@
     "phone": "3178762180",
     "description": "Cursando BSc en Arquitectura y Diseño, y opción académica en Historia del Arte. Monitora de Vivero virtual Uniandes.",
     "email": "m.barrios@uniandes.edu.co"
+  },
+  "guillermovillalba": {
+    "user": "guillermovillalba",
+    "display_name": "Guillermo Antonio Villalba Escamilla",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_guillermovillalba.jpeg",
+    "bio": "Monitor de investigación",
+    "github": "GAntonioVillalbaE",
+    "linkedin": "https://www.linkedin.com/in/guillermo-antonio-villalba-escamilla-824622262/",
+    "phone": "3208510682",
+    "description": "Cursando ingeniería de sistemas y narrativas digitales. Asistente de investigación del Vivero Virtual Uniandes desde Septiembre de 2024.",
+    "email": "g.villalba@uniandes.edu.co"
   }
 }
