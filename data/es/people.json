@@ -1094,5 +1094,19 @@
     "phone": "3185707059",
     "description": "Soy Daniel, soy gymrat. También soy ingeniero de sistemas y creo en la prueba y error, fallar es muy importante para poder mejorar. Si no fallas no aprendes.  ",
     "email": "d.fuentese@uniandes.edu.co"
+  },
+  "mariaestupinan": {
+    "user": "mariaestupinan",
+    "display_name": "María Paula Estupiñan Martinez",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_mariaestupinan.jpeg",
+    "bio": "Estudiante de pregrado en una iniciativa estudiantil",
+    "github": "mestupinanm",
+    "linkedin": "https://www.linkedin.com/in/maria-paula-estupinan/",
+    "phone": "3142684150",
+    "description": "¡Hola! Soy Paula, estudiante de ingeniería de sistemas con una gran pasión por todo lo relacionado con el arte y la informática. Actualmente, formo parte de iniciativas que me permiten ampliar mis horizontes y desarrollar mi creatividad al máximo ;)",
+    "email": "m.estupinanm@uniandes.edu.co"
   }
 }
