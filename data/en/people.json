@@ -934,11 +934,6 @@
     "role": "sinfonia",
     "is_active": false
   },
-  "davidcuevas": {
-    "display_name": "David Cuevas Alba",
-    "role": "sinfonia",
-    "is_active": false
-  },
   "zulayvillabona": {
     "display_name": "Zulay Villabona Parra",
     "role": "Lab Coordinator",
@@ -1003,7 +998,7 @@
     "role": "ugrad",
     "is_active": true,
     "webpage": "",
-    "image": "",
+    "image": "foto_karolSoler.jpg",
     "bio": "Undergraduate Student - SinfonIA",
     "github": "karoldayansolerorozco",
     "linkedin": "https://www.linkedin.com/in/karol-dayan-soler-orozco-39898a213/",
@@ -1017,7 +1012,7 @@
     "role": "ugrad",
     "is_active": true,
     "webpage": "",
-    "image": "",
+    "image": "foto_lizethBejarano.jpeg",
     "bio": "Undergraduate Student - SinfonIA",
     "github": "lizzz94",
     "linkedin": "https://www.linkedin.com/in/lizeth-bejarano-murillo-27a4a720b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
@@ -1157,7 +1152,7 @@
     "role": "ugrad",
     "is_active": true,
     "webpage": "https://www.behance.net/mariaibarrios",
-    "image": "",
+    "image": "foto_mariaBarrios.jpg",
     "bio": "Research Monitor",
     "github": "",
     "linkedin": "https://www.linkedin.com/in/mar%C3%ADa-isabella-barrios-torres-4482b7244",
