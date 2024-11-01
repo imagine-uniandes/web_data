@@ -1069,7 +1069,7 @@
     "is_active": true,
     "webpage": "",
     "image": "foto_santiagorodriguez.jpeg",
-    "bio": "Undergraduate Student - SinfonIA, OASIS",
+    "bio": "Undergraduate Student - SinfonIA",
     "github": "SaroM0",
     "linkedin": "https://www.linkedin.com/in/santiago-rodriguez-mora-5b2a17267/",
     "phone": "3212860273",
@@ -1097,7 +1097,7 @@
     "is_active": true,
     "webpage": "",
     "image": "foto_mariaestupinan.jpeg",
-    "bio": "Undergraduate Student - SinfonIA",
+    "bio": "Undergraduate Student - SinfonIA, OASIS",
     "github": "mestupinanm",
     "linkedin": "https://www.linkedin.com/in/maria-paula-estupinan/",
     "phone": "3142684150",
@@ -1201,20 +1201,6 @@
     "phone": "3122749129",
     "description": "Clay is a Computer and Systems Engineering student at Uniandes. Since he was a child, he has been very interested in the functioning of the brain and human behavior. Based on this and seeing the potential of technology to improve the world with innovative bets, he became deeply interested in artificial intelligence. \n\nIn the past, Clay has been part of initiatives such as:- Student Council of Systems and Computer Engineering (Uniandes)\n- Polaris Project (Arex Costa Rica)\n- AMBROSPACE (Joint Venture)\n\n- Now, after a brief journey in the aerospace industry and his experience as a founder, he has decided to resume his interest in AI. In the second half of 2024 he joined SinfonIA as a member of the 'Perception' team where he will contribute mainly in the area of visual computing.",
     "email": "c.charryp@uniandes.edu.co"
-  },
-  "translationtest": {
-    "user": "translationtest",
-    "display_name": "Translation test",
-    "role": "ugrad",
-    "is_active": true,
-    "webpage": "",
-    "image": "",
-    "github": "translationtest",
-    "linkedin": "",
-    "phone": "",
-    "email": "faiber@uniandes.edu.co",
-    "bio": "This is a bio in english",
-    "description": "This is a description in english"
   },
   "davidcuevas": {
     "user": "davidcuevas",
