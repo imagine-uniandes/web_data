@@ -1201,19 +1201,5 @@
     "phone": "3122749129",
     "description": "Clay es un estudiante de Ingeniería de Sistemas y Computación en Uniandes. Desde que era un niño, ha estado muy interesado en el funcionamiento del cerebro y el comportamiento humano. En base a ello y al ver el potencial de la tecnología para mejorar el mundo con apuestas innovadoras, se interesó profundamente en la inteligencia artificial.\n\nEn el pasado, Clay ha sido parte de iniciativas como:\n- Consejo estudiantil de Ingeniería de Sistemas y Computación (Uniandes)\n- Proyecto Polaris (Arex Costa Rica)\n- AMBROSPACE (Emprendimiento conjunto)\n\nAhora, tras un breve recorrido en la industria aeroespacial y su experiencia como fundador, ha decidido retomar su interés por la IA. En el segundo semestre de 2024 ingresó a SinfonIA como miembro del equipo 'Perception' en el que contribuirá en el área de computación visual principalmente.",
     "email": "c.charryp@uniandes.edu.co"
-  },
-  "translationtest": {
-    "user": "translationtest",
-    "display_name": "Translation test",
-    "role": "ugrad",
-    "is_active": true,
-    "webpage": "",
-    "image": "",
-    "github": "translationtest",
-    "linkedin": "",
-    "phone": "",
-    "email": "faiber@uniandes.edu.co",
-    "bio": "Esta es una bio en español",
-    "description": "Esta es una descripción en español"
   }
 }
