@@ -1201,5 +1201,19 @@
     "phone": "3122749129",
     "description": "Clay es un estudiante de Ingeniería de Sistemas y Computación en Uniandes. Desde que era un niño, ha estado muy interesado en el funcionamiento del cerebro y el comportamiento humano. En base a ello y al ver el potencial de la tecnología para mejorar el mundo con apuestas innovadoras, se interesó profundamente en la inteligencia artificial.\n\nEn el pasado, Clay ha sido parte de iniciativas como:\n- Consejo estudiantil de Ingeniería de Sistemas y Computación (Uniandes)\n- Proyecto Polaris (Arex Costa Rica)\n- AMBROSPACE (Emprendimiento conjunto)\n\nAhora, tras un breve recorrido en la industria aeroespacial y su experiencia como fundador, ha decidido retomar su interés por la IA. En el segundo semestre de 2024 ingresó a SinfonIA como miembro del equipo 'Perception' en el que contribuirá en el área de computación visual principalmente.",
     "email": "c.charryp@uniandes.edu.co"
+  },
+  "davidcuevas": {
+    "user": "davidcuevas",
+    "display_name": "David Cuevas Alba",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_davidcuevas.jpeg",
+    "github": "dcuevasa",
+    "linkedin": "https://co.linkedin.com/in/david-cuevas-alba-903315215",
+    "phone": "3003835553",
+    "email": "d.cuevas@uniandes.edu.co",
+    "bio": "Estudiante de pregrado - SinfonIA",
+    "description": "Soy estudiante de Ingeniería de Sistemas y desde 2022-2 y actualmente lideró SinfonIA Uniandes. Trabajo con ROS y Python, creando tareas complejas y mejorando el procesamiento de lenguaje natural para el robot Pepper. También desarrollo interfaces gráficas que facilitan la interacción entre el robot y los usuarios."
   }
 }
