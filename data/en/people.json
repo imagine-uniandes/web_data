@@ -1215,5 +1215,19 @@
     "email": "faiber@uniandes.edu.co",
     "bio": "This is a bio in english",
     "description": "This is a description in english"
+  },
+  "davidcuevas": {
+    "user": "davidcuevas",
+    "display_name": "David Cuevas Alba",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_davidcuevas.jpeg",
+    "github": "dcuevasa",
+    "linkedin": "https://co.linkedin.com/in/david-cuevas-alba-903315215",
+    "phone": "3003835553",
+    "email": "d.cuevas@uniandes.edu.co",
+    "bio": "Undergraduate Student - SinfonIA",
+    "description": "I am a Systems Engineering student and since 2022-2 and currently led SinfonIA Uniandes. I work with ROS and Python, creating complex tasks and improving natural language processing for the Pepper robot. I also develop graphical interfaces that facilitate the interaction between the robot and the users."
   }
 }
