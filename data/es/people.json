@@ -1229,5 +1229,19 @@
     "email": "",
     "bio": "",
     "description": ""
+  },
+  "nicolasabondano": {
+    "user": "nicolasabondano",
+    "display_name": "Nicolás Francisco Abondano Velasco",
+    "role": "faculty",
+    "is_active": false,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
   }
 }
