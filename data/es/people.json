@@ -1215,5 +1215,19 @@
     "email": "d.cuevas@uniandes.edu.co",
     "bio": "Estudiante de pregrado - SinfonIA",
     "description": "Soy estudiante de Ingeniería de Sistemas y desde 2022-2 y actualmente lideró SinfonIA Uniandes. Trabajo con ROS y Python, creando tareas complejas y mejorando el procesamiento de lenguaje natural para el robot Pepper. También desarrollo interfaces gráficas que facilitan la interacción entre el robot y los usuarios."
+  },
+  "jaimecarvajal": {
+    "user": "jaimecarvajal",
+    "display_name": "Jaime Andrés Carvajal Meléndez",
+    "role": "ugrad",
+    "is_active": false,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
   }
 }
