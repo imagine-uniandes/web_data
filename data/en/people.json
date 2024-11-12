@@ -1257,5 +1257,19 @@
     "email": "",
     "bio": "",
     "description": ""
+  },
+  "alonsohernandez": {
+    "user": "alonsohernandez",
+    "display_name": "Faiber Alonso Hernandez",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_alonsohernandez.png",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "f.hernandezt@uniandes.edu.co",
+    "bio": "Degree Project Student - NAO",
+    "description": ""
   }
 }
