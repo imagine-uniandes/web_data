@@ -1243,5 +1243,19 @@
     "email": "",
     "bio": "",
     "description": ""
+  },
+  "nicolasmelendez": {
+    "user": "nicolasmelendez",
+    "display_name": "Nicolás Guillermo Meléndez Nova",
+    "role": "faculty",
+    "is_active": false,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
   }
 }
