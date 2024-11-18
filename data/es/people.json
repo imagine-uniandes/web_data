@@ -1272,5 +1272,19 @@
     "email": "f.hernandezt@uniandes.edu.co",
     "bio": "Estudiante Proyecto de Grado - NAO",
     "description": ""
+  },
+  "sampleuser": {
+    "user": "sampleuser",
+    "display_name": "Sample User",
+    "role": "faculty",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
   }
 }
