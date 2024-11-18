@@ -1780,21 +1780,5 @@
     ],
     "papers": []
   },
-  {
-    "id": 84,
-    "area": "Video Games",
-    "url": "",
-    "group": "",
-    "image": "",
-    "video": "",
-    "link": "",
-    "repository": "",
-    "last_update": "",
-    "is_legacy": false,
-    "execution_years": "2024",
-    "members": [],
-    "papers": [],
-    "title": "Leon",
-    "description": "Un leon muy cool"
-  }
+  null
 ]
