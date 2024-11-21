@@ -1781,7 +1781,7 @@
     "papers": []
   },
   {
-    "id": 84,
+    "id": "84",
     "area": "Robotics",
     "url": "",
     "group": "",
@@ -1795,6 +1795,6 @@
     "members": [],
     "papers": [],
     "title": "Lion",
-    "description": "A very cool lion"
+    "description": "A very cool lion, over the top cool"
   }
 ]
