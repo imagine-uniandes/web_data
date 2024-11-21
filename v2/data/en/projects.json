@@ -1796,5 +1796,22 @@
     "papers": [],
     "title": "Lion",
     "description": "A very cool lion"
+  },
+  {
+    "id": 85,
+    "area": "Robotics",
+    "url": "",
+    "group": "",
+    "image": "foto_84.jpeg",
+    "video": "",
+    "link": "",
+    "repository": "",
+    "last_update": "",
+    "is_legacy": true,
+    "execution_years": "2024",
+    "members": [],
+    "papers": [],
+    "title": "Lion",
+    "description": "A very cool lion, over the top cool"
   }
 ]
