@@ -1796,22 +1796,5 @@
     "papers": [],
     "title": "Leon",
     "description": "Un león muy cool"
-  },
-  {
-    "id": 85,
-    "area": "Robotics",
-    "url": "",
-    "group": "",
-    "image": "foto_84.jpeg",
-    "video": "",
-    "link": "",
-    "repository": "",
-    "last_update": "",
-    "is_legacy": true,
-    "execution_years": "2024",
-    "members": [],
-    "papers": [],
-    "title": "Leon",
-    "description": "Un león muy cool, demasiado cool"
   }
 ]
