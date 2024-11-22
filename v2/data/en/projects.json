@@ -1796,5 +1796,22 @@
     "papers": [],
     "title": "Lion",
     "description": "A very cool lion, over the top cool"
+  },
+  {
+    "id": 85,
+    "area": "Mixed Realities",
+    "url": "",
+    "group": "",
+    "image": "foto_85.jpeg",
+    "video": "",
+    "link": "",
+    "repository": "",
+    "last_update": "",
+    "is_legacy": false,
+    "execution_years": "2020",
+    "members": [],
+    "papers": [],
+    "title": "Hi",
+    "description": "aaaaaaaaaaaaaaaaaaaaaaaaaA"
   }
 ]
