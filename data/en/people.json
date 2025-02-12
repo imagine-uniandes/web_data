@@ -58,7 +58,8 @@
     "role": "ugrad",
     "image": "foto_juanjoseSierra.jpg",
     "webpage": "https://www.linkedin.com/in/sierra-juan-jose/",
-    "is_active": true,
+    "is_active": false,
+    "user": "juanjosesierra",
     "bio": "Research Monitor"
   },
   "juanestebanrodriguez": {
