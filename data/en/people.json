@@ -985,7 +985,7 @@
     "user": "gabrielguevara",
     "display_name": "Gabriel Guevara",
     "role": "ugrad",
-    "is_active": true,
+    "is_active": false,
     "webpage": "",
     "image": "foto_gabrielguevara.jpg",
     "github": "g.guevarab",
