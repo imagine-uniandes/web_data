@@ -75,7 +75,8 @@
     "display_name": "Laura Milena Monroy Torres",
     "role": "ugrad",
     "image": "foto_lauraMonroy.jpg",
-    "is_active": true,
+    "is_active": false,
+    "user": "lauramonroy",
     "bio": "Research and Design Monitor"
   },
   "melissacontreras": {
