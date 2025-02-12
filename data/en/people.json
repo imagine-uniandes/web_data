@@ -1278,5 +1278,19 @@
     "email": "f.hernandezt@uniandes.edu.co",
     "bio": "Degree Project Student - NAO",
     "description": ""
+  },
+  "juanortega": {
+    "user": "juanortega",
+    "display_name": "Juan Diego Ortega Medina",
+    "role": "faculty",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_juanortega.jpeg",
+    "github": "Juanchix",
+    "linkedin": "https://www.linkedin.com/in/juan-diego-ortega-medina/",
+    "phone": "3027453378",
+    "email": "j.ortegam@uniandes.edu.co",
+    "bio": "COLIVRI Research monitor | Student ambassador",
+    "description": "I am a Systems and Computing Engineering student in my last semester. I have been working with Universidad de los Andes and the Department of Systems and Computing Engineering since 2022, in Scouting and Promotion. I am interested in Artificial Intelligence and Cybersecurity. I am doing my degree project using AI technologies with the Colombian Aerospace Force. I like dogs and electronic music. 🎵🤖"
   }
 }
