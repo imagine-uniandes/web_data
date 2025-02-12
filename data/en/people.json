@@ -89,7 +89,8 @@
     "display_name": "Nicolas Enrique Rueda Rincon",
     "role": "ugrad",
     "image": "foto_nicolasRueda.jpg",
-    "is_active": true
+    "is_active": false,
+    "user": "nicolasrueda"
   },
   "nicolasfalla": {
     "display_name": "Nicolas Falla Bernal",
