@@ -103,7 +103,8 @@
     "role": "ugrad",
     "image": "foto_juanAlegria.jpg",
     "webpage": "https://www.linkedin.com/in/juanszalegria/",
-    "is_active": true
+    "is_active": false,
+    "user": "juanalegria"
   },
   "julianmora": {
     "display_name": "Julian Camilo Mora Valbuena",
