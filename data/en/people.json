@@ -1293,5 +1293,19 @@
     "email": "j.ortegam@uniandes.edu.co",
     "bio": "COLIVRI Research monitor | Student ambassador",
     "description": "I am a Systems and Computing Engineering student in my last semester. I have been working with Universidad de los Andes and the Department of Systems and Computing Engineering since 2022, in Scouting and Promotion. I am interested in Artificial Intelligence and Cybersecurity. I am doing my degree project using AI technologies with the Colombian Aerospace Force. I like dogs and electronic music. 🎵🤖"
+  },
+  "juanguevara": {
+    "user": "juanguevara",
+    "display_name": "Juan David Guevara Arevalo",
+    "role": "faculty",
+    "is_active": true,
+    "webpage": "https://jguevara.dev",
+    "image": "foto_juanguevara.jpeg",
+    "github": "JuanDGA",
+    "linkedin": "https://www.linkedin.com/in/jguevaradev/",
+    "phone": "",
+    "email": "jd.guevaraa1@uniandes.edu.co",
+    "bio": "Undergraduate Student - SinfonIA",
+    "description": "I am a System and Computer Engineering student at Los Andes University in Bogotá, Colombia, with a strong foundation in graph theory, linear algebra, vector calculus, programming, and artificial intelligence. Currently, I serve as the Perception Leader at SinfonIA Uniandes, where I excel in team leadership and enjoy tackling complex challenges. My main interests lie in graph theory and AI, and I am driven by a passion for discovering innovative solutions to improve modern technology. Outside of academics, I engage in competitive programming and enjoy cycling as a personal pursuit."
   }
 }
