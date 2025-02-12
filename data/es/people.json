@@ -1307,5 +1307,19 @@
     "email": "jd.guevaraa1@uniandes.edu.co",
     "bio": "Estudiante de pregrado - SinfonIA",
     "description": "Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad de los Andes en Bogotá, Colombia, con una sólida base en teoría de grafos, álgebra lineal, cálculo vectorial, programación e inteligencia artificial. Actualmente me desempeño como Líder de Percepción en SinfonIA Uniandes, donde me destaco en el liderazgo de equipos y disfruto enfrentando retos complejos. Mis principales intereses se centran en la teoría de grafos y la IA, y me mueve la pasión por descubrir soluciones innovadoras para mejorar la tecnología moderna. Fuera del ámbito académico, me dedico a la programación competitiva y al ciclismo como actividad personal."
+  },
+  "alexandragutierrez": {
+    "user": "alexandragutierrez",
+    "display_name": "Alexandra Gutierrez Ballen",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_alexandragutierrez.jpeg",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/alexandra-gutierrez-ballen-146a85292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "phone": "3212708933",
+    "email": "a.gutierrezb23@uniandes.edu.co",
+    "bio": "Estudiante de pregrado - SinfonIA",
+    "description": "Soy Alexandra y estudio Derecho, estoy cursando séptimo semestre. Creo que es importante tener diferentes perspectivas de las cosas, ya que esto te permite entender mejor la situación que quieres resolver."
   }
 }
