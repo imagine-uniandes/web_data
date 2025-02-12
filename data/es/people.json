@@ -150,7 +150,8 @@
     "role": "postdoc",
     "webpage": "https://www.researchgate.net/profile/Jose_Dorado5",
     "image": "foto_JoseDorado.jpg",
-    "is_active": true
+    "is_active": false,
+    "user": "josedorado"
   },
   "pabloarbelaez": {
     "display_name": "Pablo Arbeláez",
