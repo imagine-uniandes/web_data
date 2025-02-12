@@ -95,7 +95,8 @@
   "nicolasfalla": {
     "display_name": "Nicolas Falla Bernal",
     "role": "ugrad",
-    "is_active": true
+    "is_active": false,
+    "user": "nicolasfalla"
   },
   "juanalegria": {
     "display_name": "Juan Sebastian Alegria Zuñiga",
