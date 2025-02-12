@@ -1293,5 +1293,19 @@
     "email": "j.ortegam@uniandes.edu.co",
     "bio": "Monitor de Investigación COLIVRI | Embajador estudiantil",
     "description": "Soy estudiante de Ingeniería de Sistemas y Computación del último semestre. He trabajado con la Universidad de los Andes y el Departamento de Ingeniería de Sistemas y Computación desde el 2022, en labores de Scouting y Promoción. Me interesa la Inteligencia Artificial y la Ciberseguridad. Mi proyecto de grado lo realizo usando tecnologías de IA junto a la Fuerza Aeroespacial Colombiana. Me gustan los perros y la música electrónica. 🎵🤖"
+  },
+  "juanguevara": {
+    "user": "juanguevara",
+    "display_name": "Juan David Guevara Arevalo",
+    "role": "faculty",
+    "is_active": true,
+    "webpage": "https://jguevara.dev",
+    "image": "foto_juanguevara.jpeg",
+    "github": "JuanDGA",
+    "linkedin": "https://www.linkedin.com/in/jguevaradev/",
+    "phone": "",
+    "email": "jd.guevaraa1@uniandes.edu.co",
+    "bio": "Estudiante de pregrado - SinfonIA",
+    "description": "Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad de los Andes en Bogotá, Colombia, con una sólida base en teoría de grafos, álgebra lineal, cálculo vectorial, programación e inteligencia artificial. Actualmente me desempeño como Líder de Percepción en SinfonIA Uniandes, donde me destaco en el liderazgo de equipos y disfruto enfrentando retos complejos. Mis principales intereses se centran en la teoría de grafos y la IA, y me mueve la pasión por descubrir soluciones innovadoras para mejorar la tecnología moderna. Fuera del ámbito académico, me dedico a la programación competitiva y al ciclismo como actividad personal."
   }
 }
