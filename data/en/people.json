@@ -116,7 +116,8 @@
   "estebanortiz": {
     "display_name": "Esteban Emmanuel Ortiz Morales",
     "role": "ugrad",
-    "is_active": true
+    "is_active": false,
+    "user": "estebanortiz"
   },
   "juanrivera": {
     "display_name": "Juan Manuel Rivera Lopez",
