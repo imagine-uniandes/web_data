@@ -1059,15 +1059,15 @@
     "user": "jesussantana",
     "display_name": "Jesus Sandoval Santana",
     "role": "ugrad",
-    "is_active": true,
+    "is_active": false,
     "webpage": "",
     "image": "foto_jesussantana.jpeg",
-    "bio": "Undergraduate Student - SinfonIA",
     "github": "JesuSandoval1",
     "linkedin": "https://co.linkedin.com/in/jesus-sandoval-santana-33801a2b7",
     "phone": "",
-    "description": "Hi, I'm an Electronics Engineering student. I am part of the SinfonIA student initiative, where I focus on the Speech area. I am passionate about technology, especially robotics and control systems, and enjoy collaborating with my peers on exciting projects.",
-    "email": "je.sandovals1@uniandes.edu.co"
+    "email": "je.sandovals1@uniandes.edu.co",
+    "bio": "Undergraduate Student - SinfonIA",
+    "description": "Hi, I'm an Electronics Engineering student. I am part of the SinfonIA student initiative, where I focus on the Speech area. I am passionate about technology, especially robotics and control systems, and enjoy collaborating with my peers on exciting projects."
   },
   "santiagorodriguez": {
     "user": "santiagorodriguez",
