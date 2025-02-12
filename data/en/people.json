@@ -1170,15 +1170,15 @@
     "user": "guillermovillalba",
     "display_name": "Guillermo Antonio Villalba Escamilla",
     "role": "ugrad",
-    "is_active": true,
+    "is_active": false,
     "webpage": "",
     "image": "foto_guillermovillalba.jpeg",
-    "bio": "Research Monitor",
     "github": "GAntonioVillalbaE",
     "linkedin": "https://www.linkedin.com/in/guillermo-antonio-villalba-escamilla-824622262/",
     "phone": "3208510682",
-    "description": "Studying systems engineering and digital narratives. Research assistant at Vivero Virtual Uniandes since September 2024.",
-    "email": "g.villalba@uniandes.edu.co"
+    "email": "g.villalba@uniandes.edu.co",
+    "bio": "Research Monitor",
+    "description": "Studying systems engineering and digital narratives. Research assistant at Vivero Virtual Uniandes since September 2024."
   },
   "nicolasrincon": {
     "user": "nicolasrincon",
