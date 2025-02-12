@@ -1307,5 +1307,19 @@
     "email": "jd.guevaraa1@uniandes.edu.co",
     "bio": "Undergraduate Student - SinfonIA",
     "description": "I am a System and Computer Engineering student at Los Andes University in Bogotá, Colombia, with a strong foundation in graph theory, linear algebra, vector calculus, programming, and artificial intelligence. Currently, I serve as the Perception Leader at SinfonIA Uniandes, where I excel in team leadership and enjoy tackling complex challenges. My main interests lie in graph theory and AI, and I am driven by a passion for discovering innovative solutions to improve modern technology. Outside of academics, I engage in competitive programming and enjoy cycling as a personal pursuit."
+  },
+  "alexandragutierrez": {
+    "user": "alexandragutierrez",
+    "display_name": "Alexandra Gutierrez Ballen",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_alexandragutierrez.jpeg",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/alexandra-gutierrez-ballen-146a85292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "phone": "3212708933",
+    "email": "a.gutierrezb23@uniandes.edu.co",
+    "bio": "Undergraduate Student - SinfonIA",
+    "description": "I am Alexandra and I study Law in the seventh semester. I believe it is important to have different perspectives on things, as this allows you to better understand the situation you want to resolve."
   }
 }
