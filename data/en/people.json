@@ -1269,7 +1269,7 @@
     "user": "alonsohernandez",
     "display_name": "Faiber Alonso Hernandez",
     "role": "ugrad",
-    "is_active": true,
+    "is_active": false,
     "webpage": "",
     "image": "foto_alonsohernandez.png",
     "github": "",
