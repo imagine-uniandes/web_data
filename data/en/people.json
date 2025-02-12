@@ -82,7 +82,8 @@
     "display_name": "Melissa Lizeth Contreras Rojas",
     "role": "ugrad",
     "image": "foto_melissaContreras.jpg",
-    "is_active": true
+    "is_active": false,
+    "user": "melissacontreras"
   },
   "nicolasrueda": {
     "display_name": "Nicolas Enrique Rueda Rincon",
