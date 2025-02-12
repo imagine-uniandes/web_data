@@ -1156,15 +1156,15 @@
     "user": "mariabarrios",
     "display_name": "María Isabella Barrios Torres",
     "role": "ugrad",
-    "is_active": true,
+    "is_active": false,
     "webpage": "https://www.behance.net/mariaibarrios",
     "image": "foto_mariaBarrios.jpg",
-    "bio": "Research Monitor",
     "github": "",
     "linkedin": "https://www.linkedin.com/in/mar%C3%ADa-isabella-barrios-torres-4482b7244",
     "phone": "3178762180",
-    "description": "Studying BSc in Architecture and Design, and academic option in Art History. Vivero Virtual assistant at Uniandes.",
-    "email": "m.barrios@uniandes.edu.co"
+    "email": "m.barrios@uniandes.edu.co",
+    "bio": "Research Monitor",
+    "description": "Studying BSc in Architecture and Design, and academic option in Art History. Vivero Virtual assistant at Uniandes."
   },
   "guillermovillalba": {
     "user": "guillermovillalba",
