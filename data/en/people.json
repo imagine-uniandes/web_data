@@ -1050,12 +1050,12 @@
     "is_active": true,
     "webpage": "https://industrial.uniandes.edu.co/nuestro-equipo/decano-y-profesores/david-alvarez",
     "image": "foto_davidalvarez.jpeg",
-    "bio": "Profesor Asociado",
     "github": "",
     "linkedin": "https://co.linkedin.com/in/david-%C3%A1lvarez-mart%C3%ADnez-03a230121",
     "phone": "3117346940",
-    "description": "David Alvarez's main area of scientific activity is Operations Research and Computer Science. Within Operations Research he focuses on the modeling, solution and application of problems related to supply chain management, manufacturing and production, logistics and transportation, as well as problems of material cutting, personnel hiring, goods packaging, vehicle routing, among others. From a technical point of view, David's research focuses on the development of specialized software, combining exact and approximate optimization methods and the application of artificial intelligence techniques, for the control of physical mechanisms to solve real industrial problems.",
-    "email": "d.alvarezm@uniandes.edu.co"
+    "email": "d.alvarezm@uniandes.edu.co",
+    "bio": "Associate Profesor",
+    "description": "David Alvarez's main area of scientific activity is Operations Research and Computer Science. Within Operations Research he focuses on the modeling, solution and application of problems related to supply chain management, manufacturing and production, logistics and transportation, as well as problems of material cutting, personnel hiring, goods packaging, vehicle routing, among others. From a technical point of view, David's research focuses on the development of specialized software, combining exact and approximate optimization methods and the application of artificial intelligence techniques, for the control of physical mechanisms to solve real industrial problems."
   },
   "jesussantana": {
     "user": "jesussantana",
