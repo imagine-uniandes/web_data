@@ -1322,5 +1322,19 @@
     "email": "a.gutierrezb23@uniandes.edu.co",
     "bio": "Undergraduate Student - SinfonIA",
     "description": "I am Alexandra and I study Law in the seventh semester. I believe it is important to have different perspectives on things, as this allows you to better understand the situation you want to resolve."
+  },
+  "luisballesteros": {
+    "user": "luisballesteros",
+    "display_name": "Luis Guillermo Ballesteros Puerto",
+    "role": "collab",
+    "is_active": true,
+    "webpage": "https://luballe.com",
+    "image": "foto_luisballesteros.jpeg",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/luis-ballesteros-63b31814/",
+    "phone": "",
+    "email": "luballe@luballe.com",
+    "bio": "",
+    "description": ""
   }
 }
