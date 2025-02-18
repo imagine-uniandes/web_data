@@ -1101,12 +1101,12 @@
     "is_active": true,
     "webpage": "",
     "image": "foto_mariaestupinan.jpeg",
-    "bio": "Estudiante de pregrado - SinfonIA, OASIS",
     "github": "mestupinanm",
     "linkedin": "https://www.linkedin.com/in/maria-paula-estupinan/",
     "phone": "3142684150",
-    "description": "¡Hola! Soy Paula, estudiante de ingeniería de sistemas con una gran pasión por todo lo relacionado con el arte y la informática. Actualmente, formo parte de iniciativas que me permiten ampliar mis horizontes y desarrollar mi creatividad al máximo ;)",
-    "email": "m.estupinanm@uniandes.edu.co"
+    "email": "m.estupinanm@uniandes.edu.co",
+    "bio": "Estudiante de pregrado - SinfonIA",
+    "description": "¡Hola! Soy Paula, estudiante de ingeniería de sistemas con una gran pasión por todo lo relacionado con el arte y la informática. Actualmente, formo parte de iniciativas que me permiten ampliar mis horizontes y desarrollar mi creatividad al máximo ;)"
   },
   "juanmontenegro": {
     "user": "juanmontenegro",
