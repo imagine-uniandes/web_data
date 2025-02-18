@@ -1087,12 +1087,12 @@
     "is_active": true,
     "webpage": "",
     "image": "foto_dabielfuentes.jpeg",
-    "bio": "Estudiante de pregrado - SinfonIA, OASIS",
     "github": "",
     "linkedin": "https://co.linkedin.com/in/danielfuentesensuncho",
     "phone": "3185707059",
-    "description": "Soy Daniel, soy gymrat. También soy ingeniero de sistemas y creo en la prueba y error, fallar es muy importante para poder mejorar. Si no fallas no aprendes.  ",
-    "email": "d.fuentese@uniandes.edu.co"
+    "email": "d.fuentese@uniandes.edu.co",
+    "bio": "Estudiante de pregrado - SinfonIA",
+    "description": "Soy Daniel, soy gymrat. También soy ingeniero de sistemas y creo en la prueba y error, fallar es muy importante para poder mejorar. Si no fallas no aprendes.  "
   },
   "mariaestupinan": {
     "user": "mariaestupinan",
