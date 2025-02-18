@@ -1101,12 +1101,12 @@
     "is_active": true,
     "webpage": "",
     "image": "foto_mariaestupinan.jpeg",
-    "bio": "Undergraduate Student - SinfonIA, OASIS",
     "github": "mestupinanm",
     "linkedin": "https://www.linkedin.com/in/maria-paula-estupinan/",
     "phone": "3142684150",
-    "description": "Hi! I'm Paula, a systems engineering student with a great passion for everything related to art and computer science. Currently, I'm part of initiatives that allow me to expand my horizons and develop my creativity to the fullest ;)",
-    "email": "m.estupinanm@uniandes.edu.co"
+    "email": "m.estupinanm@uniandes.edu.co",
+    "bio": "Undergraduate Student - SinfonIA",
+    "description": "Hi! I'm Paula, a systems engineering student with a great passion for everything related to art and computer science. Currently, I'm part of initiatives that allow me to expand my horizons and develop my creativity to the fullest ;)"
   },
   "juanmontenegro": {
     "user": "juanmontenegro",
