@@ -930,8 +930,10 @@
   },
   "luccasrojas": {
     "display_name": "Luccas Rojas Becerra",
-    "role": "sinfonia",
-    "is_active": false
+    "role": "ugrad",
+    "is_active": false,
+    "user": "luccasrojas",
+    "bio": "Undergraduate Student - SinfonIA"
   },
   "zulayvillabona": {
     "display_name": "Zulay Villabona Parra",
