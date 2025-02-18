@@ -1087,12 +1087,12 @@
     "is_active": true,
     "webpage": "",
     "image": "foto_dabielfuentes.jpeg",
-    "bio": "Undergraduate Student - SinfonIA, OASIS",
     "github": "",
     "linkedin": "https://co.linkedin.com/in/danielfuentesensuncho",
     "phone": "3185707059",
-    "description": "I'm Daniel, I'm a gymrat. I'm also a systems engineer and I believe in trial and error, failure is very important to improve. If you don't fail you don't learn.  ",
-    "email": "d.fuentese@uniandes.edu.co"
+    "email": "d.fuentese@uniandes.edu.co",
+    "bio": "Undergraduate Student - SinfonIA",
+    "description": "I'm Daniel, I'm a gymrat. I'm also a systems engineer and I believe in trial and error, failure is very important to improve. If you don't fail you don't learn.  "
   },
   "mariaestupinan": {
     "user": "mariaestupinan",
