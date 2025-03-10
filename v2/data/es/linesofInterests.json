@@ -1,0 +1,24 @@
+{
+    "lineasDeInteres": [
+    {
+      "titulo": "Salud Mental",
+      "responsables": ["Pablo Figueroa"]
+    },
+    {
+      "titulo": "Robótica",
+      "responsables": ["Fernando de la Rosa", "SinfonIA"]
+    },
+    {
+      "titulo": "Gemelos digitales inmersivos",
+      "responsables": ["Pablo Figueroa", "Vivian Gómez"]
+    },
+    {
+      "titulo": "Entrenamiento VR",
+      "responsables": ["Vivian Gómez"]
+    },
+    {
+      "titulo": "ProtoColVR: Metodología y herramientas para desarrollo de entrenadores en realidad virtual",
+      "responsables": ["Vivian Gómez", "Pablo Figueroa"]
+    }
+  ]
+}
