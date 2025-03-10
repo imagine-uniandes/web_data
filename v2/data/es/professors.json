@@ -2,7 +2,7 @@
     "profesores": [
       {
         "nombre": "Marcela Hernandez",
-        "rol": "Profesor",
+        "rol": "Profesora",
         "foto": "url-de-la-foto"
       },
       {
@@ -12,7 +12,7 @@
       },
       {
         "nombre": "Vivian Gómez",
-        "rol": "Profesor",
+        "rol": "Profesora",
         "foto": "url-de-la-foto"
       },
       {
