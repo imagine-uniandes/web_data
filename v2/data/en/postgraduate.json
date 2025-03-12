@@ -1,0 +1,10 @@
+{
+    "postgraduate": [
+    {
+      "name": "Julian Mora",
+      "advisor": ["Pablo Figueroa"],
+      "thesis": "Line of Interest: Mental Health",
+      "photo": "url-de-la-foto"
+    }
+  ]
+}

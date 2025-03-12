@@ -1,0 +1,22 @@
+[
+    {
+      "estudiante": "Johan Alexis Bautista Quinayas",
+      "asesores": ["Juan Pablo Reyes", "Marcela Hernandez"],
+      "tesis": "Tesis en ..."
+    },
+    {
+      "estudiante": "Juan Esteban Serrano",
+      "asesor": "Vivian Gómez",
+      "tesis": "herramientas de apoyo al desarrollo de simuladores VR"
+    },
+      {
+      "estudiante": "Abel Arismendy",
+      "asesor": "Vivian Gómez",
+      "tesis": ""
+    },
+    {
+      "estudiante": "Juan Jose Sierra",
+      "asesor": "Vivian Gómez",
+      "tesis": "Gemelo Digital del Lab de Redes"
+    }
+  ]

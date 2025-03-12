@@ -1,0 +1,34 @@
+{
+    "proffesors": [
+      {
+        "name": "Marcela Hernandez",
+        "role": "Proffesor",
+        "photo": "url-de-la-foto"
+      },
+      {
+        "name": "Fernando de la Rosa",
+        "role": "Proffesor",
+        "photo": "url-de-la-foto"
+      },
+      {
+        "name": "Vivian Gómez",
+        "role": "Proffesor",
+        "photo": "url-de-la-foto"
+      },
+      {
+        "name": "Pablo Figueroa",
+        "role": "Proffesor",
+        "photo": "url-de-la-foto"
+      },
+      {
+        "name": "Juan Pablo Reyes",
+        "role": "Proffesor",
+        "photo": "url-de-la-foto"
+      },
+      {
+        "name": "David Alvarez",
+        "role": "Proffesor",
+        "photo": "url-de-la-foto"
+      }
+    ]
+}

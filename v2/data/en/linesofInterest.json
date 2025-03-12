@@ -1,0 +1,23 @@
+[
+    {
+      "line": "Mental Health",
+      "teacher": "Pablo Figueroa"
+    },
+    {
+      "line": "Robotics",
+      "teacher": "Fernando de la Rosa",
+      "group":"SinfonIA"
+    },
+      {
+      "line": "Immersive digital twins",
+      "teachers": ["Pablo Figueroa", "Vivian Gómez"]
+    },
+      {
+      "line": "VR Training",
+      "teacher": "Vivian Gómez"
+    },
+      {
+      "line": "ProtoColVR: Methodology and tools for the development of virtual reality trainers",
+      "teachers": ["Vivian Gómez", "Pablo Figueroa"]
+    }
+  ]

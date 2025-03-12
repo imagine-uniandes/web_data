@@ -1,0 +1,34 @@
+{
+    "profesores": [
+      {
+        "nombre": "Marcela Hernandez",
+        "rol": "Profesora",
+        "foto": "url-de-la-foto"
+      },
+      {
+        "nombre": "Fernando de la Rosa",
+        "rol": "Profesor",
+        "foto": "url-de-la-foto"
+      },
+      {
+        "nombre": "Vivian Gómez",
+        "rol": "Profesora",
+        "foto": "url-de-la-foto"
+      },
+      {
+        "nombre": "Pablo Figueroa",
+        "rol": "Profesor",
+        "foto": "url-de-la-foto"
+      },
+      {
+        "nombre": "Juan Pablo Reyes",
+        "rol": "Profesor",
+        "foto": "url-de-la-foto"
+      },
+      {
+        "nombre": "David Alvarez",
+        "rol": "Profesor",
+        "foto": "url-de-la-foto"
+      }
+    ]
+}

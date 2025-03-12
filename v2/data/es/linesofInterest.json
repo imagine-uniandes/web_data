@@ -1,0 +1,23 @@
+[
+    {
+      "linea": "Salud Mental",
+      "profesor": "Pablo Figueroa"
+    },
+    {
+      "linea": "Robótica",
+      "profesor": "Fernando de la Rosa",
+      "grupo":"SinfonIA"
+    },
+      {
+      "linea": "Gemelos digitales inmersivos",
+      "profesores": ["Pablo Figueroa", "Vivian Gómez"]
+    },
+      {
+      "linea": "Entrenamiento VR",
+      "profesor": "Vivian Gómez"
+    },
+      {
+      "linea": "ProtoColVR: Metodologia y herramientas para desarrollo de entrenadores en realidad virtual",
+      "profesores": ["Vivian Gómez", "Pablo Figueroa"]
+    }
+  ]

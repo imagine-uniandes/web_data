@@ -1,0 +1,24 @@
+{
+    "linesofInterests": [
+    {
+      "title": "Mental Health",
+      "responsabilities": ["Pablo Figueroa"]
+    },
+    {
+      "title": "Robotics",
+      "responsabilities": ["Fernando de la Rosa", "SinfonIA"]
+    },
+    {
+      "title": "Immersive digital twinss",
+      "responsabilities": ["Pablo Figueroa", "Vivian Gómez"]
+    },
+    {
+      "title": "VR Training",
+      "responsabilities": ["Vivian Gómez"]
+    },
+    {
+      "title": "ProtoColVR: Methodology and tools for developing virtual reality trainers",
+      "responsabilities": ["Vivian Gómez", "Pablo Figueroa"]
+    }
+  ]
+}

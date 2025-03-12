@@ -1,0 +1,10 @@
+{
+    "posgrado": [
+    {
+      "nombre": "Julian Mora",
+      "asesores": ["Pablo Figueroa"],
+      "tesis": "Línea de interés: Salud Mental",
+      "foto": "url-de-la-foto"
+    }
+  ]
+}

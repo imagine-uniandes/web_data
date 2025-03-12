@@ -1,0 +1,28 @@
+{
+    "undergraduate": [
+    {
+      "name": "Johan Alexis Bautista Quinayas",
+      "advisors": ["Juan Pablo Reyes", "Marcela Hernandez"],
+      "thesis": "Thesis with ...",
+      "photo": "url-de-la-foto"
+    },
+    {
+      "name": "Juan Esteban Serrano",
+      "advisors": ["Vivian Gómez"],
+      "thesis": "Tools to support the development of VR simulators",
+      "photo": "url-de-la-foto"
+    },
+    {
+      "name": "Abel Arismendy",
+      "advisors": ["Vivian Gómez"],
+      "thesis": "Thesis with ...",
+      "photo": "url-de-la-foto"
+    },
+    {
+      "name": "Juan Jose Sierra",
+      "advisors": ["Vivian Gómez"],
+      "thesis": "Digital Twin of the Network Lab",
+      "photo": "url-de-la-foto"
+    }
+  ]
+}
