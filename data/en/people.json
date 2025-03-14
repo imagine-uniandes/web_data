@@ -136,7 +136,8 @@
     "role": "master",
     "image": "foto_valentinaRozo.jpg",
     "webpage": "https://www.linkedin.com/in/valentina-rozo-bernal-5964721b5/",
-    "is_active": true,
+    "is_active": false,
+    "user": "valentinarozo",
     "bio": "Graduate Assistant"
   },
   "valentinauribe": {
