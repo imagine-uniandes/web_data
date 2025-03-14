@@ -144,7 +144,8 @@
     "display_name": "Valentina Uribe",
     "role": "master",
     "image": "foto_valentinaUribe.jpg",
-    "is_active": true,
+    "is_active": false,
+    "user": "valentinauribe",
     "bio": "Graduate Assistant"
   },
   "josedorado": {
