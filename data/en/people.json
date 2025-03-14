@@ -130,7 +130,8 @@
   "davidoviedo": {
     "display_name": "David Alberto Oviedo De La Torre",
     "role": "master",
-    "is_active": true
+    "is_active": false,
+    "user": "davidoviedo"
   },
   "valentinarozo": {
     "display_name": "Valentina Rozo",
