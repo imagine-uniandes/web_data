@@ -1,10 +1,13 @@
 {
-    "posgrado": [
+  "postgraduate": [
     {
-      "nombre": "Julian Mora",
-      "asesores": ["Pablo Figueroa"],
-      "tesis": "Línea de interés: Salud Mental",
-      "foto": "url-de-la-foto"
+      "id": "1",
+      "name": "Julian Mora",
+      "role": "Graduate Assistant",
+      "advisor": ["Pablo Figueroa"],
+      "thesis": "Line of Interest: Mental Health",
+      "webpage": "https://co.linkedin.com/in/juli%C3%A1n-27-mora",
+      "image": "foto_julianMora.jpg"
     }
   ]
 }
