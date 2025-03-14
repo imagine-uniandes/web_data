@@ -124,7 +124,8 @@
   "juanrivera": {
     "display_name": "Juan Manuel Rivera Lopez",
     "role": "master",
-    "is_active": true
+    "is_active": false,
+    "user": "juanrivera"
   },
   "davidoviedo": {
     "display_name": "David Alberto Oviedo De La Torre",
