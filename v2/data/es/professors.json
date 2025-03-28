@@ -1,34 +1,46 @@
 {
-    "profesores": [
-      {
-        "nombre": "Marcela Hernandez",
-        "rol": "Profesora",
-        "foto": "url-de-la-foto"
-      },
-      {
-        "nombre": "Fernando de la Rosa",
-        "rol": "Profesor",
-        "foto": "url-de-la-foto"
-      },
-      {
-        "nombre": "Vivian Gómez",
-        "rol": "Profesora",
-        "foto": "url-de-la-foto"
-      },
-      {
-        "nombre": "Pablo Figueroa",
-        "rol": "Profesor",
-        "foto": "url-de-la-foto"
-      },
-      {
-        "nombre": "Juan Pablo Reyes",
-        "rol": "Profesor",
-        "foto": "url-de-la-foto"
-      },
-      {
-        "nombre": "David Alvarez",
-        "rol": "Profesor",
-        "foto": "url-de-la-foto"
-      }
-    ]
+  "professors": [
+    {
+      "id": "1",
+      "name": "Marcela Hernandez",
+      "role": "Professor",
+      "image": "foto_MarcelaHernandez.jpg",
+      "webpage": "https://profesores.virtual.uniandes.edu.co/marcher/en/inicio-en/"
+    },
+    {
+      "id": "2",
+      "name": "Fernando de la Rosa",
+      "role": "Professor",
+      "image": "foto_FernandodelaRosa.jpg",
+      "webpage": "https://profesores.virtual.uniandes.edu.co/fde/en/inicio-en/"
+    },
+    {
+      "id": "3",
+      "name": "Vivian Gómez",
+      "role": "Professor",
+      "image": "foto_VivianGomez.jpg",
+      "webpage": "https://www.linkedin.com/in/vivian-g%C3%B3mez-cubillos-79499b18a/"
+    },
+    {
+      "id": "4",
+      "name": "Pablo Figueroa",
+      "role": "Professor",
+      "image": "foto_pabloFigueroa.jpg",
+      "webpage": "https://profesores.virtual.uniandes.edu.co/pfiguero/en/inicio-en/"
+    },
+    {
+      "id": "5",
+      "name": "Juan Pablo Reyes",
+      "role": "Professor",
+      "image": "foto_JuanPabloReyes.jpg",
+      "webpage": "https://profesores.virtual.uniandes.edu.co/jpreyes/en/inicio-en/"
+    },
+    {
+      "id": "6",
+      "name": "David Alvarez",
+      "role": "Professor",
+      "webpage": "https://profesores.virtual.uniandes.edu.co/dalvarez/en/inicio-en/",
+      "image": "foto_DavidAlvarez.jpg"
+    }
+  ]
 }
