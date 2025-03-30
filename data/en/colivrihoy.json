@@ -1,58 +1,81 @@
 {
   "profesores": [
-    "Marcela Hernandez",
-    "Fernando de la Rosa",
-    "Vivian Gómez",
-    "Pablo Figueroa",
-    "Juan Pablo Reyes",
-    "David Alvarez"
+    {
+      "nombre": "Marcela Hernandez",
+      "imagen": "https://raw.githubusercontent.com/imagine-uniandes/web_data/blob/main/img/people/foto_MarcelaHernandez.jpg"
+    },
+    {
+      "nombre": "Fernando de la Rosa",
+      "imagen": "https://raw.githubusercontent.com/imagine-uniandes/web_data/blob/main/img/people/foto_FernandodelaRosa.jpg"
+    },
+    {
+      "nombre": "Vivian Gómez",
+      "imagen": "https://raw.githubusercontent.com/imagine-uniandes/web_data/blob/main/img/people/foto_VivianGomez.jpg"
+    },
+    {
+      "nombre": "Pablo Figueroa",
+      "imagen": "https://raw.githubusercontent.com/imagine-uniandes/web_data/blob/main/img/people/foto_pabloFigueroa.jpg"
+    },
+    {
+      "nombre": "Juan Pablo Reyes",
+      "imagen": "https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/img/juan_pablo_reyes.jpg"
+    },
+    {
+      "nombre": "David Alvarez",
+      "imagen": "https://raw.githubusercontent.com/imagine-uniandes/web_data/blob/main/img/people/foto_davidalvarez.jpeg"
+    }
   ],
   "pregrado": [
     {
       "nombre": "Johan Alexis Bautista Quinayas",
       "asesores": ["Juan Pablo Reyes", "Marcela Hernandez"],
-      "tesis": "Thesis in ..."
+      "tesis": "Tesis en ...",
+      "imagen": "https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/img/johan_alexis.jpg"
     },
     {
       "nombre": "Juan Esteban Serrano",
       "asesores": ["Vivian Gómez"],
-      "tesis": "Tools to support the development of VR simulators"
+      "tesis": "Herramientas de apoyo al desarrollo de simuladores de RV",
+      "imagen": "https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/img/juan_esteban.jpg"
     },
     {
       "nombre": "Abel Arismendy",
-      "asesores": ["Vivian Gómez"]
+      "asesores": ["Vivian Gómez"],
+      "imagen": "https://raw.githubusercontent.com/imagine-uniandes/web_data/blob/main/img/people/foto_abelArismendy.jpg"
     },
     {
       "nombre": "Juan Jose Sierra",
       "asesores": ["Vivian Gómez"],
-      "tesis": "Digital Twin of the Network Lab"
+      "tesis": "Gemelo digital del Laboratorio de Redes",
+      "imagen": "https://raw.githubusercontent.com/imagine-uniandes/web_data/blob/main/img/people/foto_juanjoseSierra.jpg"
     }
   ],
   "posgrado": [
     {
       "nombre": "Julian Mora",
-      "asesores": ["Pablo Figueroa"]
+      "asesores": ["Pablo Figueroa"],
+      "imagen": "https://raw.githubusercontent.com/imagine-uniandes/web_data/blob/main/img/people/foto_julianMora.jpg"
     }
   ],
   "lineasInteres": [
     {
-      "tema": "Mental Health",
+      "tema": "Salud Mental",
       "responsables": ["Pablo Figueroa"]
     },
     {
-      "tema": "Robotics",
+      "tema": "Robótica",
       "responsables": ["Fernando de la Rosa", "SinfonIA"]
     },
     {
-      "tema": "Immersive digital twins",
+      "tema": "Gemelos digitales inmersivos",
       "responsables": ["Pablo Figueroa", "Vivian Gómez"]
     },
     {
-      "tema": "VR Training",
+      "tema": "Formación en RV",
       "responsables": ["Vivian Gómez"]
     },
     {
-      "tema": "ProtoColVR: Methodology and tools for developing virtual reality trainers",
+      "tema": "ProtoColVR: Metodología y herramientas para desarrollar entrenadores de realidad virtual",
       "responsables": ["Vivian Gómez", "Pablo Figueroa"]
     }
   ]
