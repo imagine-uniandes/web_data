@@ -49,9 +49,10 @@
     "linkedin": "https://www.linkedin.com/in/abelarismendy/",
     "github": "abelarismendy",
     "is_active": true,
+    "email": "a.arismendy@uniandes.edu.co",
+    "user": "abelarismendy",
     "bio": "Monitor de Investigación",
-    "description": "Soy un joven desarrollador de software colombo-venezolano apasionado por la tecnología. Actualmente curso Ingeniería de Sistemas y Computación en la Universidad de los Andes. Me especializo en desarrollo web frontend. He participado en diversas iniciativas estudiantiles, incluyendo el liderazgo de Oasis, un proyecto enfocado en el aprendizaje con realidad mixta. Mi curiosidad insaciable me impulsa a buscar constantemente nuevos proyectos y oportunidades de aprendizaje en el campo de la tecnología y la investigación.",
-    "email": "a.arismendy@uniandes.edu.co"
+    "description": "Estudiante de último semestre de Sistemas y Computación en la Universidad de los Andes. Con experiencia en React, React Native, TypeScript, Next.js, NestJS, y Flutter."
   },
   "juanjosesierra": {
     "display_name": "Juan Jose Sierra",
