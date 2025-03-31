@@ -49,9 +49,10 @@
     "linkedin": "https://www.linkedin.com/in/abelarismendy/",
     "github": "abelarismendy",
     "is_active": true,
+    "email": "a.arismendy@uniandes.edu.co",
+    "user": "abelarismendy",
     "bio": "Research Monitor",
-    "description": "I am a young Colombian-Venezuelan software developer passionate about technology. I am currently studying Systems and Computer Engineering at the Universidad de los Andes. I specialize in frontend web development. I have participated in various student initiatives, including the leadership of Oasis, a project focused on mixed reality learning. My insatiable curiosity drives me to constantly seek new projects and learning opportunities in the field of technology and research.",
-    "email": "a.arismendy@uniandes.edu.co"
+    "description": "Last-semester Computer and Systems Engineering student at Universidad de los Andes. Experience with React & React Native, TS, NextJS, and NestJS. Background in graphic design."
   },
   "juanjosesierra": {
     "display_name": "Juan Jose Sierra",
