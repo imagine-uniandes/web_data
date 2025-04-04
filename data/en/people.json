@@ -1333,5 +1333,19 @@
     "email": "luballe@luballe.com",
     "bio": "",
     "description": ""
+  },
+  "test": {
+    "user": "test",
+    "display_name": "test",
+    "role": "collab",
+    "is_active": false,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
   }
 }
