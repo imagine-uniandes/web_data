@@ -1333,5 +1333,19 @@
     "email": "luballe@luballe.com",
     "bio": "",
     "description": ""
+  },
+  "simoncalderon": {
+    "user": "simoncalderon",
+    "display_name": "Simón Calderón López",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "https://www.simoncl20.tech/",
+    "image": "foto_simoncalderon.jpeg",
+    "github": "Simoncl20",
+    "linkedin": "https://www.linkedin.com/in/simoncl20/",
+    "phone": "",
+    "email": "s.calderonl@uniandes.edu.co",
+    "bio": "Undergraduate Student - SinfonIA",
+    "description": "My name is Simón Calderón, a Systems and Computing Engineering student at Universidad de los Andes and leader of the Speech area in *SinfonIA*, our university’s social robotics research group. I started programming at 15 with Python and pandas, and now guide research and development efforts focused on speech technologies. I’ve led projects integrating speech recognition and synthesis in human-robot interaction, aiming to make communication with robots more natural and accessible. Notable achievements include second place at the Devsavant Hackathon, being a finalist at CodeFest AD Astra 2024, and earning a full scholarship at Colombia’s top university."
   }
 }
