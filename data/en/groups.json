@@ -156,7 +156,9 @@
     "fotoGrupo": "",
     "website": "https://www.google.com/?hl=es",
     "github": "https://www.google.com/?hl=es",
-    "integrantes": [],
+    "integrantes": [
+      "davidcuevas"
+    ],
     "redes": {
       "correo": "a@g.c",
       "instagram": "https://www.google.com/?hl=es",
