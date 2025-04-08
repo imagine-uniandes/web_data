@@ -166,25 +166,5 @@
       "whatsapp": "https://www.google.com/?hl=es"
     },
     "descripcion": "prueba en español"
-  },
-  null,
-  {
-    "id": 7,
-    "nombre": "test",
-    "researchArea": "test",
-    "logo": "",
-    "fotoGrupo": "",
-    "website": "https://www.google.com/?hl=es",
-    "github": "https://www.google.com/?hl=es",
-    "integrantes": [],
-    "redes": {
-      "correo": "a@g.c",
-      "instagram": "https://www.google.com/?hl=es",
-      "tiktok": "https://www.google.com/?hl=es",
-      "youtube": "https://www.google.com/?hl=es",
-      "facebook": "https://www.google.com/?hl=es",
-      "whatsapp": "https://www.google.com/?hl=es"
-    },
-    "descripcion": "test2"
   }
 ]
