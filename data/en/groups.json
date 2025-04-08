@@ -149,9 +149,10 @@
     }
   },
   {
+    "nombre": "test2",
+    "researchArea": "test2",
+    "descripcion": "prueba en español",
     "id": 6,
-    "nombre": "test",
-    "researchArea": "test",
     "logo": "",
     "fotoGrupo": "",
     "website": "https://www.google.com/?hl=es",
@@ -164,7 +165,6 @@
       "youtube": "https://www.google.com/?hl=es",
       "facebook": "https://www.google.com/?hl=es",
       "whatsapp": "https://www.google.com/?hl=es"
-    },
-    "descripcion": "test in english"
+    }
   }
 ]
