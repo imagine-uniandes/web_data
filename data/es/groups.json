@@ -87,7 +87,9 @@
     "fotoGrupo": "sinfoniaTeam.jpg",
     "website": "https://sinfoniauniandes.github.io/SinfonIA-web/home",
     "github": "",
-    "integrantes": [],
+    "integrantes": [
+      "davidcuevas"
+    ],
     "redes": {
       "correo": "sinfonia@uniandes.edu.co",
       "instagram": "https://www.instagram.com/sinfonia_uniandes/",
