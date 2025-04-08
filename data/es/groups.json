@@ -79,10 +79,10 @@
     }
   },
   {
-    "id": 4,
     "nombre": "SinfonIA",
     "researchArea": "Robotics",
     "descripcion": "SinfonIA es un grupo de investigación en robótica e inteligencia artificial de la Universidad de Los Andes que se dedica a fusionar la tecnología con la interacción humana. Actualmente trabajan en los siguientes subgrupos: Percepción, Navegación, Manipulación y Habla, cada uno de los cuales refina una parte del pastel de la interacción social. Asimismo, los miembros de Interface y Toolkit se aseguran de que nuestros robots sean de primera categoría, mientras que los miembros de Task organizan la gran sinfonía de las tareas robóticas.",
+    "id": 4,
     "logo": "sinfonia.png",
     "fotoGrupo": "sinfoniaTeam.jpg",
     "website": "https://sinfoniauniandes.github.io/SinfonIA-web/home",
@@ -90,7 +90,6 @@
     "integrantes": [
       "carlosaldana",
       "alexandraguitierrez",
-      "luccasrojas",
       "davidcuevas",
       "karolsoler",
       "lizethbejarano",
