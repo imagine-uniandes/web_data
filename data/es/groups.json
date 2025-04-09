@@ -147,9 +147,9 @@
     }
   },
   {
-    "nombre": "test2",
-    "researchArea": "test2",
-    "descripcion": "prueba en español21",
+    "nombre": "test",
+    "researchArea": "test",
+    "descripcion": "prueba en español",
     "id": 6,
     "logo": "",
     "fotoGrupo": "",
