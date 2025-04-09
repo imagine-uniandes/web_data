@@ -147,9 +147,9 @@
     }
   },
   {
-    "nombre": "test2",
-    "researchArea": "test2",
-    "descripcion": "test in english",
+    "nombre": "test",
+    "researchArea": "test",
+    "descripcion": "test in english2",
     "id": 6,
     "logo": "",
     "fotoGrupo": "",
