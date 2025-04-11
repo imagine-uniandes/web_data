@@ -1389,5 +1389,19 @@
     "email": "p.paffen@uniandes.edu.co",
     "bio": "Estudiante de pregrado - Oasis",
     "description": "Estoy actualmente en sexto semestres de ingeniería de sistemas, desde pequeño siempre me intereso todos los temas de Xr, lo que me motivo a unirme a osasis para poder también desarrollar en este campo, actualmente estoy desempeñando un rol de desarrallodor Xr ayudando ya sea en programar alguna mecánica del proyecto o modelando algún objecto."
+  },
+  "leffertrochez": {
+    "user": "leffertrochez",
+    "display_name": "Leffer Andrés Trochez Chate",
+    "role": "master",
+    "is_active": false,
+    "webpage": "",
+    "image": "foto_leffertrochez.jpeg",
+    "github": "https://github.com/LefferTrochez",
+    "linkedin": "https://www.linkedin.com/in/leffer-trochez-194078348/",
+    "phone": "3148079127",
+    "email": "l.trochez@uniandes.edu.co",
+    "bio": "Graduate Assistant - GIAP",
+    "description": "I am Leffer Trochez, a Master's student in Electronic and Computer Engineering at the Universidad de los Andes. Since I had my first approach with robotics, I knew this was my path. I am passionate about hardware design, programming and the development of intelligent systems that can interact with the world autonomously.\n\nDuring my undergrad, I created DuqueXII, a static robot designed to help mitigate domestic accidents in early childhood through sensorics and image analysis. Today I am still working on its evolution towards a mobile version, with the goal of taking its functionality even further. Being part of the Colivri lab has been and will be an incredible experience. Here I have the opportunity to work with the Unitree G1 EDU humanoid robot, exploring the world of spatial control and navigation. My master thesis will focus on the analysis of different control algorithms to improve its mobility and autonomy. Through my research and development, I aspire to contribute valuable knowledge to the university and the scientific community, promoting new solutions that bring robotics to more people and solve real problems."
   }
 }
