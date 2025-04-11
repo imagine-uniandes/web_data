@@ -1397,11 +1397,11 @@
     "is_active": false,
     "webpage": "",
     "image": "foto_leffertrochez.jpeg",
-    "github": "https://github.com/LefferTrochez",
+    "github": "LefferTrochez",
     "linkedin": "https://www.linkedin.com/in/leffer-trochez-194078348/",
     "phone": "3148079127",
     "email": "l.trochez@uniandes.edu.co",
-    "bio": "Graduate Assistant - GIAP",
-    "description": "I am Leffer Trochez, a Master's student in Electronic and Computer Engineering at the Universidad de los Andes. Since I had my first approach with robotics, I knew this was my path. I am passionate about hardware design, programming and the development of intelligent systems that can interact with the world autonomously.\n\nDuring my undergrad, I created DuqueXII, a static robot designed to help mitigate domestic accidents in early childhood through sensorics and image analysis. Today I am still working on its evolution towards a mobile version, with the goal of taking its functionality even further. Being part of the Colivri lab has been and will be an incredible experience. Here I have the opportunity to work with the Unitree G1 EDU humanoid robot, exploring the world of spatial control and navigation. My master thesis will focus on the analysis of different control algorithms to improve its mobility and autonomy. Through my research and development, I aspire to contribute valuable knowledge to the university and the scientific community, promoting new solutions that bring robotics to more people and solve real problems."
+    "bio": "Estudiante de maestria - GIAP",
+    "description": "Soy Leffer Trochez, estudiante de Maestría en Ingeniería Electrónica y de Computadores en la Universidad de los Andes. Desde que tuve mi primer acercamiento con la robótica, supe que este era mi camino. Me apasiona el diseño de hardware, la programación y el desarrollo de sistemas inteligentes que puedan interactuar con el mundo de manera autónoma.\n\nDurante mi pregrado, creé a DuqueXII, un robot estático diseñado para ayudar a mitigar los accidentes domésticos en la primera infancia mediante sensórica y análisis de imágenes. Hoy sigo trabajando en su evolución hacia una versión móvil, con el objetivo de llevar su funcionalidad aún más lejos. Ser parte del laboratorio Colivri ha sido y será una experiencia increíble. Aquí tengo la oportunidad de trabajar con el robot humanoide Unitree G1 EDU, explorando el mundo del control y la navegación espacial. Mi tesis de maestría se enfocará en el análisis de distintos algoritmos de control para mejorar su movilidad y autonomía. A través de mi investigación y desarrollo, aspiro a contribuir con conocimiento valioso a la universidad y a la comunidad científica, impulsando nuevas soluciones que acerquen la robótica a más personas y resuelvan problemas reales."
   }
 }
