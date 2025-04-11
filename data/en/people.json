@@ -1347,5 +1347,19 @@
     "email": "s.calderonl@uniandes.edu.co",
     "bio": "Undergraduate Student - SinfonIA",
     "description": "My name is Simón Calderón, a Systems and Computing Engineering student at Universidad de los Andes and leader of the Speech area in *SinfonIA*, our university’s social robotics research group. I started programming at 15 with Python and pandas, and now guide research and development efforts focused on speech technologies. I’ve led projects integrating speech recognition and synthesis in human-robot interaction, aiming to make communication with robots more natural and accessible. Notable achievements include second place at the Devsavant Hackathon, being a finalist at CodeFest AD Astra 2024, and earning a full scholarship at Colombia’s top university."
+  },
+  "leffertrochez": {
+    "user": "leffertrochez",
+    "display_name": "Leffer Andrés Trochez Chate",
+    "role": "master",
+    "is_active": false,
+    "webpage": "",
+    "image": "foto_leffertrochez.jpeg",
+    "github": "https://github.com/LefferTrochez",
+    "linkedin": "https://www.linkedin.com/in/leffer-trochez-194078348/",
+    "phone": "3148079127",
+    "email": "l.trochez@uniandes.edu.co",
+    "bio": "Graduate Assistant - GIAP",
+    "description": "I am Leffer Trochez, a Master's student in Electronic and Computer Engineering at the Universidad de los Andes. Since I had my first approach with robotics, I knew this was my path. I am passionate about hardware design, programming and the development of intelligent systems that can interact with the world autonomously.\n\nDuring my undergrad, I created DuqueXII, a static robot designed to help mitigate domestic accidents in early childhood through sensorics and image analysis. Today I am still working on its evolution towards a mobile version, with the goal of taking its functionality even further. Being part of the Colivri lab has been and will be an incredible experience. Here I have the opportunity to work with the Unitree G1 EDU humanoid robot, exploring the world of spatial control and navigation. My master thesis will focus on the analysis of different control algorithms to improve its mobility and autonomy. Through my research and development, I aspire to contribute valuable knowledge to the university and the scientific community, promoting new solutions that bring robotics to more people and solve real problems."
   }
 }
