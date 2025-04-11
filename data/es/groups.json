@@ -145,26 +145,5 @@
       "facebook": "",
       "whatsapp": ""
     }
-  },
-  {
-    "nombre": "test2",
-    "researchArea": "test2",
-    "descripcion": "prueba en español2",
-    "id": 6,
-    "logo": "",
-    "fotoGrupo": "",
-    "website": "https://www.google.com/?hl=es2",
-    "github": "https://www.google.com/?hl=es2",
-    "integrantes": [
-      "davidcuevas"
-    ],
-    "redes": {
-      "correo": "a@g.c2",
-      "instagram": "https://www.google.com/?hl=es2",
-      "tiktok": "https://www.google.com/?hl=es2",
-      "youtube": "https://www.google.com/?hl=es",
-      "facebook": "https://www.google.com/?hl=es",
-      "whatsapp": "https://www.google.com/?hl=es"
-    }
   }
 ]
