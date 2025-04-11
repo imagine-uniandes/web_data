@@ -1365,8 +1365,8 @@
   "lucasgandara": {
     "user": "lucasgandara",
     "display_name": "Lucas Gandara",
-    "role": "faculty",
-    "is_active": true,
+    "role": "master",
+    "is_active": false,
     "webpage": "",
     "image": "foto_lucasgandara.jpeg",
     "github": "",
