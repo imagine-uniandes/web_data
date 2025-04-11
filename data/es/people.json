@@ -1375,5 +1375,19 @@
     "email": "l.gandara10@uniandes.edu.co",
     "bio": "Estudiante de maestria - Proyecto de Grado",
     "description": "Estudiante de ultimo semestre de MISIS, mi proyecto de grado se enfoca en Aprendizaje por refuerzo profundo aplicado a robots moviles."
+  },
+  "paulpaffen": {
+    "user": "paulpaffen",
+    "display_name": "Paul Alejandro Paffen Suarez",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_paulpaffen.jpeg",
+    "github": "Paulpaffen",
+    "linkedin": "https://www.linkedin.com/in/paul-alejandro-paffen-suarez/",
+    "phone": "3182878568",
+    "email": "p.paffen@uniandes.edu.co",
+    "bio": "Estudiante de pregrado - Oasis",
+    "description": "Estoy actualmente en sexto semestres de ingeniería de sistemas, desde pequeño siempre me intereso todos los temas de Xr, lo que me motivo a unirme a osasis para poder también desarrollar en este campo, actualmente estoy desempeñando un rol de desarrallodor Xr ayudando ya sea en programar alguna mecánica del proyecto o modelando algún objecto."
   }
 }
