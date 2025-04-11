@@ -1361,5 +1361,19 @@
     "email": "d.ocampol@uniandes.edu.co",
     "bio": "Estudiante de pregrado - Oasis",
     "description": "Hola! Soy estudiante de tercer semestre de pregrado en Ingenieria de Sistemas y Computación. Siempre tuve mucho interés en el desarrollo de aplicaciones y juegos, por lo que me gustó mucho la idea de trabajar en proyectos de realidad virtual con Oasis en el lab Colivri. Por ahora aún tengo mucho que aprender, pero estoy emocionado para trabajar en este espacio."
+  },
+  "lucasgandara": {
+    "user": "lucasgandara",
+    "display_name": "Lucas Gandara",
+    "role": "faculty",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_lucasgandara.jpeg",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/lucasgandara-software/",
+    "phone": "3045600045",
+    "email": "l.gandara10@uniandes.edu.co",
+    "bio": "Estudiante de maestria - Proyecto de Grado",
+    "description": "Estudiante de ultimo semestre de MISIS, mi proyecto de grado se enfoca en Aprendizaje por refuerzo profundo aplicado a robots moviles."
   }
 }
