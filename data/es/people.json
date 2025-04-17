@@ -1403,5 +1403,19 @@
     "email": "l.trochez@uniandes.edu.co",
     "bio": "Estudiante de maestria - GIAP",
     "description": "Soy Leffer Trochez, estudiante de Maestría en Ingeniería Electrónica y de Computadores en la Universidad de los Andes. Desde que tuve mi primer acercamiento con la robótica, supe que este era mi camino. Me apasiona el diseño de hardware, la programación y el desarrollo de sistemas inteligentes que puedan interactuar con el mundo de manera autónoma.\n\nDurante mi pregrado, creé a DuqueXII, un robot estático diseñado para ayudar a mitigar los accidentes domésticos en la primera infancia mediante sensórica y análisis de imágenes. Hoy sigo trabajando en su evolución hacia una versión móvil, con el objetivo de llevar su funcionalidad aún más lejos. Ser parte del laboratorio Colivri ha sido y será una experiencia increíble. Aquí tengo la oportunidad de trabajar con el robot humanoide Unitree G1 EDU, explorando el mundo del control y la navegación espacial. Mi tesis de maestría se enfocará en el análisis de distintos algoritmos de control para mejorar su movilidad y autonomía. A través de mi investigación y desarrollo, aspiro a contribuir con conocimiento valioso a la universidad y a la comunidad científica, impulsando nuevas soluciones que acerquen la robótica a más personas y resuelvan problemas reales."
+  },
+  "atest": {
+    "user": "atest",
+    "display_name": "soy un test",
+    "role": "collab",
+    "is_active": false,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "soy test",
+    "description": "hola"
   }
 }
