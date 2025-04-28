@@ -82,7 +82,29 @@
       "youtube": "",
       "facebook": "",
       "whatsapp": "https://chat.whatsapp.com/HmQ6w0yRtOk5sCgtILmsWY"
-    }
+    },
+    "logros": [
+      {
+        "nombre": "Test 1",
+        "foto": "testLogros.jpg"
+      },
+      {
+        "nombre": "Test 2",
+        "foto": "testLogros.jpg"
+      },
+      {
+        "nombre": "Test 3",
+        "foto": "testLogros.jpg"
+      },
+      {
+        "nombre": "Test 4",
+        "foto": "testLogros.jpg"
+      },
+      {
+        "nombre": "Test 5",
+        "foto": "testLogros.jpg"
+      }
+    ]
   },
   {
     "nombre": "SinfonIA",
