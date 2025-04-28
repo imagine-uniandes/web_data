@@ -116,7 +116,17 @@
       "youtube": "",
       "facebook": "https://www.facebook.com/SinfoniaUniandes/?locale=es_LA",
       "whatsapp": ""
-    }
+    },
+    "logros": [
+      {
+        "nombre": "Test 1",
+        "foto": "testLogros.jpg"
+      },
+      {
+        "nombre": "Test 2",
+        "foto": "testLogros.jpg"
+      }
+    ]
   },
   {
     "id": 5,
