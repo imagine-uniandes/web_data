@@ -1417,5 +1417,19 @@
     "email": "",
     "bio": "soy test",
     "description": "hola"
+  },
+  "davidburgos": {
+    "user": "davidburgos",
+    "display_name": "David Burgos Mendez",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "github": "dburgos26",
+    "linkedin": "https://www.linkedin.com/in/david-burgos-18173b350/",
+    "phone": "3167485391",
+    "email": "d.burgos@uniandes.edu.co",
+    "bio": "Estudiante de Ingeniería de Sistemas @ Uniandes",
+    "description": ""
   }
 }
