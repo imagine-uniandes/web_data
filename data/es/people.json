@@ -1431,5 +1431,19 @@
     "email": "d.burgos@uniandes.edu.co",
     "bio": "Estudiante de Ingeniería de Sistemas @ Uniandes",
     "description": ""
+  },
+  "carlafernanda": {
+    "user": "carlafernanda",
+    "display_name": "Carla Fernanda Gonzalez",
+    "role": "faculty",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_carlafernanda.jpeg",
+    "github": "Carlixgonzam",
+    "linkedin": "",
+    "phone": "",
+    "email": "cf.gonzalezm1@uniandes.edu.co",
+    "bio": "",
+    "description": ""
   }
 }
