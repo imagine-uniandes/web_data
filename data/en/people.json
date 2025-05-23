@@ -1403,5 +1403,33 @@
     "email": "l.trochez@uniandes.edu.co",
     "bio": "Graduate Assistant - GIAP",
     "description": "I am Leffer Trochez, a Master's student in Electronic and Computer Engineering at the Universidad de los Andes. Since I had my first approach with robotics, I knew this was my path. I am passionate about hardware design, programming and the development of intelligent systems that can interact with the world autonomously.\n\nDuring my undergrad, I created DuqueXII, a static robot designed to help mitigate domestic accidents in early childhood through sensorics and image analysis. Today I am still working on its evolution towards a mobile version, with the goal of taking its functionality even further. Being part of the Colivri lab has been and will be an incredible experience. Here I have the opportunity to work with the Unitree G1 EDU humanoid robot, exploring the world of spatial control and navigation. My master thesis will focus on the analysis of different control algorithms to improve its mobility and autonomy. Through my research and development, I aspire to contribute valuable knowledge to the university and the scientific community, promoting new solutions that bring robotics to more people and solve real problems."
+  },
+  "davidburgos": {
+    "user": "davidburgos",
+    "display_name": "David Burgos Mendez",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_davidburgos.JPG",
+    "github": "dburgos26",
+    "linkedin": "https://www.linkedin.com/in/david-burgos-18173b350/",
+    "phone": "3167485391",
+    "email": "d.burgos@uniandes.edu.co",
+    "bio": "Computer and Systems Engineering student @ Uniandes",
+    "description": ""
+  },
+  "carlafernanda": {
+    "user": "carlafernanda",
+    "display_name": "Carla Fernanda Gonzalez",
+    "role": "ugrad",
+    "is_active": true,
+    "webpage": "",
+    "image": "foto_carlafernanda.jpeg",
+    "github": "Carlixgonzam",
+    "linkedin": "",
+    "phone": "",
+    "email": "cf.gonzalezm1@uniandes.edu.co",
+    "bio": "",
+    "description": ""
   }
 }
