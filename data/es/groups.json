@@ -26,7 +26,19 @@
       "youtube": "https://www.youtube.com/channel/UCkJnkKHOWqj5tk9Jf5vgMSw",
       "facebook": "https://www.facebook.com/p/Vivero-Virtual-Uniandes-100086579619980/?locale=es_LA",
       "whatsapp": ""
-    }
+    },
+    "logros": [
+      {
+        "nombre": "Beneficiarios de la subvención de innovación Higher Ed XR",
+        "foto": "Unity2.jpg",
+        "url": "https://unity.com/es/blog/news/announcing-the-higher-ed-xr-innovation-grant-recipients"
+      },
+      {
+        "nombre": "Reconocimiento SCo2 al compromiso con la Comunidad e Impacto Social",
+        "foto": "trophy.png",
+        "url": ""
+      }
+    ]
   },
   {
     "id": 2,
@@ -85,24 +97,19 @@
     },
     "logros": [
       {
-        "nombre": "Test 1",
-        "foto": "testLogros.jpg"
+        "nombre": "Participación y Finalistas en el Reality Hack del MIT",
+        "foto": "Oasis1.jpeg",
+        "url": ""
       },
       {
-        "nombre": "Test 2",
-        "foto": "testLogros.jpg"
+        "nombre": "Apoyo a iniciativas estudiantiles de 1M",
+        "foto": "trophy.png",
+        "url": ""
       },
       {
-        "nombre": "Test 3",
-        "foto": "testLogros.jpg"
-      },
-      {
-        "nombre": "Test 4",
-        "foto": "testLogros.jpg"
-      },
-      {
-        "nombre": "Test 5",
-        "foto": "testLogros.jpg"
+        "nombre": "Participación en el VR day en la Universidad de La Salle",
+        "foto": "Oasis3.jpg",
+        "url": "https://www.instagram.com/reel/DCuMkULRWSv/?igsh=MWV3a2U5MGFwazdjYw=="
       }
     ]
   },
@@ -141,12 +148,29 @@
     },
     "logros": [
       {
-        "nombre": "Test 1",
-        "foto": "testLogros.jpg"
+        "nombre": "Primer puesto en categoría @Home de la competencia RoboCup en 2024",
+        "foto": "trophy.png",
+        "url": ""
       },
       {
-        "nombre": "Test 2",
-        "foto": "testLogros.jpg"
+        "nombre": "Segundo puesto en categoría @Home de la competencia RoboCup en 2023",
+        "foto": "trophy.png",
+        "url": ""
+      },
+      {
+        "nombre": "Segundo puesto en categoría @Home de la competencia RoboCup en 2022",
+        "foto": "trophy.png",
+        "url": ""
+      },
+      {
+        "nombre": "Cuarto puesto en categoría @Home de la competencia RoboCup en 2019",
+        "foto": "trophy.png",
+        "url": ""
+      },
+      {
+        "nombre": "Participación en el primer ROS Meetup de Colombia",
+        "foto": "trophy.png",
+        "url": ""
       }
     ]
   },

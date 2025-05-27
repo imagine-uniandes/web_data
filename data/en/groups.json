@@ -26,7 +26,19 @@
       "youtube": "https://www.youtube.com/channel/UCkJnkKHOWqj5tk9Jf5vgMSw",
       "facebook": "https://www.facebook.com/p/Vivero-Virtual-Uniandes-100086579619980/?locale=es_LA",
       "whatsapp": ""
-    }
+    },
+    "logros": [
+      {
+        "nombre": "Higher Ed XR Innovation Grant Recipients",
+        "foto": "Unity2.jpg",
+        "url": "https://unity.com/es/blog/news/announcing-the-higher-ed-xr-innovation-grant-recipients"
+      },
+      {
+        "nombre": "SCo2 Recognition for Community Engagement and Social Impact",
+        "foto": "trophy.png",
+        "url": ""
+      }
+    ]
   },
   {
     "id": 2,
@@ -85,26 +97,21 @@
     },
     "logros": [
       {
-        "nombre": "Test 1",
-        "foto": "testLogros.jpg"
+        "nombre": "Participation and Finalists at the MIT Reality Hack",
+        "foto": "Oasis1.jpeg",
+        "url": ""
       },
       {
-        "nombre": "Test 2",
-        "foto": "testLogros.jpg"
+        "nombre": "Support for 1M Student Initiatives",
+        "foto": "trophy.png",
+        "url": ""
       },
       {
-        "nombre": "Test 3",
-        "foto": "testLogros.jpg"
-      },
-      {
-        "nombre": "Test 4",
-        "foto": "testLogros.jpg"
-      },
-      {
-        "nombre": "Test 5",
-        "foto": "testLogros.jpg"
+        "nombre": "Participation in VR Day at La Salle University",
+        "foto": "Oasis3.jpg",
+        "url": "https://www.instagram.com/reel/DCuMkULRWSv/?igsh=MWV3a2U5MGFwazdjYw=="
       }
-    ]
+  ]
   },
   {
     "nombre": "SinfonIA",
@@ -141,12 +148,29 @@
     },
     "logros": [
       {
-        "nombre": "Test 1",
-        "foto": "testLogros.jpg"
+        "nombre": "First Place in the RoboCup @Home Category, 2024",
+        "foto": "trophy.png",
+        "url": ""
       },
       {
-        "nombre": "Test 2",
-        "foto": "testLogros.jpg"
+        "nombre": "Second Place in the RoboCup @Home Category, 2023",
+        "foto": "trophy.png",
+        "url": ""
+      },
+      {
+        "nombre": "Second Place in the RoboCup @Home Category, 2022",
+        "foto": "trophy.png",
+        "url": ""
+      },
+      {
+        "nombre": "Fourth Place in the RoboCup @Home Category, 2019",
+        "foto": "trophy.png",
+        "url": ""
+      },
+      {
+        "nombre": "Participation in the First ROS Meetup in Colombia",
+        "foto": "trophy.png",
+        "url": ""
       }
     ]
   },
