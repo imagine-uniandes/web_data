@@ -1435,7 +1435,7 @@
   "test": {
     "user": "test",
     "display_name": "test",
-    "role": "faculty",
+    "role": "ugrad",
     "is_active": true,
     "webpage": "",
     "image": "",
