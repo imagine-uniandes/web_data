@@ -1432,20 +1432,6 @@
     "bio": "",
     "description": ""
   },
-  "test2": {
-    "user": "test2",
-    "display_name": "test2",
-    "role": "faculty",
-    "is_active": true,
-    "webpage": "",
-    "image": "foto_test2.png",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "email": "a@g.c",
-    "bio": "test",
-    "description": ""
-  },
   "test3": {
     "user": "test3",
     "display_name": "test3",
