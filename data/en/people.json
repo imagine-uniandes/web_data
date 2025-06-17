@@ -1445,19 +1445,5 @@
     "email": "a@g.c",
     "bio": "test",
     "description": ""
-  },
-  "test": {
-    "user": "test",
-    "display_name": "test",
-    "role": "faculty",
-    "is_active": true,
-    "webpage": "",
-    "image": "foto_test.png",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "email": "a@g.c",
-    "bio": "test",
-    "description": ""
   }
 }
