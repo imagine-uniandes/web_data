@@ -1431,19 +1431,5 @@
     "email": "cf.gonzalezm1@uniandes.edu.co",
     "bio": "",
     "description": ""
-  },
-  "test4": {
-    "user": "test4",
-    "display_name": "test4",
-    "role": "faculty",
-    "is_active": true,
-    "webpage": "",
-    "image": "foto_test4.png",
-    "github": "",
-    "linkedin": "",
-    "phone": "",
-    "email": "a@g.c",
-    "bio": "test",
-    "description": ""
   }
 }
