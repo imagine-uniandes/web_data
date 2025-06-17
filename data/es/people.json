@@ -1459,5 +1459,19 @@
     "email": "a@g.c",
     "bio": "test",
     "description": ""
+  },
+  "test3": {
+    "user": "test3",
+    "display_name": "test3",
+    "role": "faculty",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "a@g.c",
+    "bio": "test",
+    "description": ""
   }
 }
