@@ -209,9 +209,10 @@
     }
   },
   {
+    "nombre": "test2",
+    "researchArea": "test2",
+    "descripcion": "englishD2",
     "id": 6,
-    "nombre": "test",
-    "researchArea": "test",
     "logo": "",
     "fotoGrupo": "",
     "website": "https://www.google.com/?hl=es",
@@ -225,7 +226,6 @@
       "facebook": "https://www.google.com/?hl=es",
       "whatsapp": "https://www.google.com/?hl=es"
     },
-    "logros": [],
-    "descripcion": "englishD"
+    "logros": []
   }
 ]
