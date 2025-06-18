@@ -207,25 +207,5 @@
       "facebook": "",
       "whatsapp": ""
     }
-  },
-  {
-    "nombre": "test3",
-    "researchArea": "test3",
-    "descripcion": "englishD3",
-    "id": 6,
-    "logo": "logo_6.jpeg",
-    "fotoGrupo": "team_6.png",
-    "website": "https://www.google.com/?hl=es",
-    "github": "https://www.google.com/?hl=es",
-    "integrantes": [],
-    "redes": {
-      "correo": "a@g.c",
-      "instagram": "https://www.google.com/?hl=es",
-      "tiktok": "https://www.google.com/?hl=es",
-      "youtube": "https://www.google.com/?hl=es",
-      "facebook": "https://www.google.com/?hl=es",
-      "whatsapp": "https://www.google.com/?hl=es"
-    },
-    "logros": []
   }
 ]
