@@ -228,8 +228,8 @@
     },
     "logros": [
       {
-        "nombre": "test2",
-        "url": "https://www.google.com",
+        "nombre": "testmodificado",
+        "url": "https://www.google.com/?hl=es-419",
         "foto": "logro_6_1750386097796.jpeg"
       }
     ]
