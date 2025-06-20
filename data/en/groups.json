@@ -231,6 +231,11 @@
         "nombre": "testmodificado2",
         "url": "https://www.youtube.com/index?hl=es&gl=ES&desktop_uri=%2F%3Fgl%3DES%26hl%3Des&app=desktop",
         "foto": "logro_6_1750386825172.png"
+      },
+      {
+        "nombre": "test2",
+        "url": "https://dcuevasa.github.io/",
+        "foto": "logro_6_1750386935694.jpg"
       }
     ]
   }
