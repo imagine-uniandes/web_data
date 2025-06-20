@@ -229,23 +229,28 @@
     "logros": [
       {
         "nombre": "testmodificado2",
-        "url": "https://www.youtube.com/index?hl=es&gl=ES&desktop_uri=%2F%3Fgl%3DES%26hl%3Des&app=desktop",
-        "foto": "logro_6_1750386825172.png"
+        "foto": "logro_6_1750386825172.png",
+        "url": "https://www.youtube.com/index?hl=es&gl=ES&desktop_uri=%2F%3Fgl%3DES%26hl%3Des&app=desktop"
       },
       {
         "nombre": "test2",
-        "url": "https://dcuevasa.github.io/",
-        "foto": "logro_6_1750386935694.jpg"
+        "foto": "logro_6_1750386935694.jpg",
+        "url": "https://dcuevasa.github.io/"
       },
       {
         "nombre": "d",
-        "url": "https://mail.google.com/mail/u/0/#inbox",
-        "foto": "logro_6_1750386959131.png"
+        "foto": "logro_6_1750386959131.png",
+        "url": "https://mail.google.com/mail/u/0/#inbox"
       },
       {
         "nombre": "modificado",
-        "url": "https://colivri.uniandes.edu.co/#/grupos/6",
-        "foto": "logro_6_1750387192835.png"
+        "foto": "logro_6_1750387192835.png",
+        "url": "https://colivri.uniandes.edu.co/#/grupos/6"
+      },
+      {
+        "nombre": "test in english",
+        "foto": "logro_6_1750388075938.png",
+        "url": "https://www.google.com"
       }
     ]
   }
