@@ -207,51 +207,5 @@
       "facebook": "",
       "whatsapp": ""
     }
-  },
-  {
-    "nombre": "test",
-    "researchArea": "test",
-    "descripcion": "spanishD",
-    "id": 6,
-    "logo": "",
-    "fotoGrupo": "",
-    "website": "https://www.google.com/?hl=es",
-    "github": "https://www.google.com/?hl=es",
-    "integrantes": [],
-    "redes": {
-      "correo": "a@g.c",
-      "instagram": "https://www.google.com/?hl=es",
-      "tiktok": "https://www.google.com/?hl=es",
-      "youtube": "https://www.google.com/?hl=es",
-      "facebook": "https://www.google.com/?hl=es",
-      "whatsapp": "https://www.google.com/?hl=es"
-    },
-    "logros": [
-      {
-        "nombre": "testmodificado2",
-        "foto": "logro_6_1750386825172.png",
-        "url": "https://www.youtube.com/index?hl=es&gl=ES&desktop_uri=%2F%3Fgl%3DES%26hl%3Des&app=desktop"
-      },
-      {
-        "nombre": "test2",
-        "foto": "logro_6_1750386935694.jpg",
-        "url": "https://dcuevasa.github.io/"
-      },
-      {
-        "nombre": "d",
-        "foto": "logro_6_1750386959131.png",
-        "url": "https://mail.google.com/mail/u/0/#inbox"
-      },
-      {
-        "nombre": "modificado",
-        "foto": "logro_6_1750387192835.png",
-        "url": "https://colivri.uniandes.edu.co/#/grupos/6"
-      },
-      {
-        "nombre": "test en español modificado",
-        "foto": "logro_6_1750388247899.png",
-        "url": "https://www.youtube.com"
-      }
-    ]
   }
 ]
