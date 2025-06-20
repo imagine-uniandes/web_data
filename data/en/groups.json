@@ -209,9 +209,10 @@
     }
   },
   {
-    "id": 6,
     "nombre": "test",
     "researchArea": "test",
+    "descripcion": "englishD",
+    "id": 6,
     "logo": "",
     "fotoGrupo": "",
     "website": "https://www.google.com/?hl=es",
@@ -225,7 +226,11 @@
       "facebook": "https://www.google.com/?hl=es",
       "whatsapp": "https://www.google.com/?hl=es"
     },
-    "logros": [],
-    "descripcion": "englishD"
+    "logros": [
+      {
+        "nombre": "test",
+        "url": "https://www.google.com/?hl=es-419"
+      }
+    ]
   }
 ]
