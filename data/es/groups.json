@@ -234,6 +234,11 @@
         "nombre": "abc",
         "foto": "logro_6_1750436508144.png",
         "url": "https://dcuevasa.github.io/"
+      },
+      {
+        "nombre": "test en español modificado",
+        "foto": "logro_6_1750436577792.jpg",
+        "url": "https://www.google.com"
       }
     ]
   }
