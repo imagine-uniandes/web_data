@@ -226,11 +226,6 @@
       "facebook": "https://www.google.com/?hl=es",
       "whatsapp": "https://www.google.com/?hl=es"
     },
-    "logros": [
-      {
-        "nombre": "test",
-        "url": "https://www.google.com/?hl=es-419"
-      }
-    ]
+    "logros": []
   }
 ]
