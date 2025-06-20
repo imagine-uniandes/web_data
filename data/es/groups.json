@@ -226,6 +226,12 @@
       "facebook": "https://www.google.com/?hl=es",
       "whatsapp": "https://www.google.com/?hl=es"
     },
-    "logros": []
+    "logros": [
+      {
+        "nombre": "test2",
+        "url": "https://www.google.com",
+        "foto": "logro_6_1750386097796.jpeg"
+      }
+    ]
   }
 ]
