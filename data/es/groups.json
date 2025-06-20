@@ -230,10 +230,6 @@
       {
         "nombre": "test",
         "url": "https://www.google.com/?hl=es-419"
-      },
-      {
-        "nombre": "test2",
-        "url": "https://www.google.com"
       }
     ]
   }
