@@ -234,6 +234,10 @@
         "nombre": "test en español modificado",
         "foto": "logro_6_1750436420529.jpg",
         "url": "https://www.google.com"
+      },
+      {
+        "nombre": "abc",
+        "url": ""
       }
     ]
   }
