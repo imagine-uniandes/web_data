@@ -1796,5 +1796,22 @@
     "papers": [],
     "title": "Leon",
     "description": "Un león muy cool, demasiado cool"
+  },
+  {
+    "id": 85,
+    "area": "Video Games",
+    "url": "",
+    "group": "",
+    "image": "",
+    "video": "",
+    "link": "",
+    "repository": "",
+    "last_update": "",
+    "is_legacy": false,
+    "execution_years": "",
+    "members": [],
+    "papers": [],
+    "title": "Hola",
+    "description": "Hola"
   }
 ]
