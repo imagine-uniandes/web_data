@@ -209,39 +209,5 @@
       "whatsapp": ""
     },
     "logros": []
-  },
-  {
-    "nombre": "Sinfoasis",
-    "researchArea": "test",
-    "descripcion": "spanishD",
-    "id": 6,
-    "logo": "logo_5.png",
-    "fotoGrupo": "",
-    "website": "https://www.google.com/?hl=es",
-    "github": "https://www.google.com/?hl=es",
-    "integrantes": [
-      "josehernandez",
-      "maciejorkisz"
-    ],
-    "redes": {
-      "correo": "a@g.c",
-      "instagram": "https://www.google.com/?hl=es",
-      "tiktok": "https://www.google.com/?hl=es",
-      "youtube": "https://www.google.com/?hl=es",
-      "facebook": "https://www.google.com/?hl=es",
-      "whatsapp": "https://www.google.com/?hl=es"
-    },
-    "logros": [
-      {
-        "nombre": "abc",
-        "foto": "logro_6_1750436508144.png",
-        "url": "https://dcuevasa.github.io/"
-      },
-      {
-        "nombre": "test en español modificado",
-        "foto": "logro_6_1750436577792.jpg",
-        "url": "https://www.google.com"
-      }
-    ]
   }
 ]
