@@ -652,7 +652,8 @@
       "markustatzgen"
     ],
     "papers": [],
-    "title": "Interacciones pseudohápticas en realidad virtual",
+    "paper": "https://ieeexplore.ieee.org/document/10536224",
+    "title": "Retroalimentación háptica pasiva para elementos de control en realidad virtual",
     "description": "Hemos diseñado un método de entrada manual basado en un controlador que permite a los usuarios percibir la retroalimentación háptica con los controladores portátiles habituales al interactuar con elementos de control virtuales, al tiempo que se benefician del seguimiento preciso basado en el controlador. Realizamos un experimento en el que comparamos nuestro método de entrada basado en controladores con el seguimiento de manos nativo de HMD. Curiosamente, el seguimiento de manos fue robusto y preciso durante las interacciones con la mayoría de los elementos de control en nuestra configuración experimental. Un resultado sorprendente fue que la retroalimentación háptica generalmente ralentizaba a los usuarios durante la interacción, posiblemente debido al temor de golpear la superficie física durante la interacción."
   },
   {
