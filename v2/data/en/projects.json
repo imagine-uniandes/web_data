@@ -1797,5 +1797,22 @@
     "paper": "https://ieeexplore.ieee.org/document/10536224",
     "title": "Test",
     "description": "Ignore test"
+  },
+  {
+    "id": 85,
+    "area": "default",
+    "url": "",
+    "group": "",
+    "image": "",
+    "video": "",
+    "link": "",
+    "repository": "",
+    "last_update": "",
+    "is_legacy": false,
+    "execution_years": "",
+    "members": [],
+    "paper": "test test 2",
+    "title": "test 3",
+    "description": "test 3 ignore"
   }
 ]
