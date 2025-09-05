@@ -1796,22 +1796,5 @@
     "papers": [],
     "title": "Test",
     "description": "Ignore test"
-  },
-  {
-    "id": 85,
-    "area": "default",
-    "url": "",
-    "group": "",
-    "image": "foto_85.jpeg",
-    "video": "",
-    "link": "",
-    "repository": "",
-    "last_update": "",
-    "is_legacy": false,
-    "execution_years": "",
-    "members": [],
-    "papers": [],
-    "title": "test 2",
-    "description": "butter"
   }
 ]
