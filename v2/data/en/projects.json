@@ -634,11 +634,9 @@
   },
   {
     "id": 31,
-    "title": "Pseudohaptic interactions in virtual reality",
     "area": "Mixed Realities",
     "url": "",
     "group": "Imagine",
-    "description": "In this project we seek to design and test a series of traditional and pseudohaptic interactions in virtual reality.",
     "image": "Pseudohaptics.PNG",
     "video": "",
     "link": "",
@@ -653,7 +651,9 @@
       "valentinauribe",
       "markustatzgen"
     ],
-    "papers": []
+    "papers": [],
+    "title": "Pseudohaptic interactions in virtual reality",
+    "description": "We designed a controller-based hand input method that allows users to perceive haptic feedback with typical handheld controllers when interacting with virtual control elements while at the same time benefitting from precise controller-based tracking. We performed an experiment comparing our controller-based input method against native HMD hand tracking. Interestingly, hand tracking was robust and precise during interactions with most control elements in our experimental setup. A surprising outcome was that haptic feedback generally slowed down users during interaction, potentially due to a fear of hitting the physical surface during interaction."
   },
   {
     "id": 32,
