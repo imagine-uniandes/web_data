@@ -1797,5 +1797,22 @@
     "paper": "https://ieeexplore.ieee.org/document/10536224",
     "title": "Prueba",
     "description": "Ignorar prueba"
+  },
+  {
+    "id": 85,
+    "area": "default",
+    "url": "",
+    "group": "",
+    "image": "",
+    "video": "",
+    "link": "",
+    "repository": "",
+    "last_update": "",
+    "is_legacy": false,
+    "execution_years": "",
+    "members": [],
+    "paper": "test test 2",
+    "title": "prueba 3",
+    "description": "prueba 3 ignorar"
   }
 ]
