@@ -645,11 +645,11 @@
     "is_legacy": false,
     "execution_years": "",
     "members": [
-      "pablofigueroa",
+      "markustatzgen",
       "viviangomez",
       "sebastiancalvache",
-      "valentinauribe",
-      "markustatzgen"
+      "pablofigueroa",
+      "valentinauribe"
     ],
     "papers": [],
     "paper": "https://ieeexplore.ieee.org/document/10536224",
@@ -732,17 +732,17 @@
     "area": "Mixed Realities",
     "url": "",
     "group": "Imagine",
-    "description": "This project consists of a prototype of a virtual reality video game, which seeks to strengthen the skills of patients diagnosed with Attention Deficit Disorder (ADHD) through a series of interactive tasks.",
+    "description": "ADD SCAPE is a project focused on developing a virtual reality game prototype designed to strengthen the skills of patients diagnosed with Attention Deficit Disorder (ADD). The system includes a series of interactive tasks aimed at stimulating concentration, working memory, and self-regulation, within an immersive environment that supports both learning and cognitive training. To achieve this, traditional games involving the association of shapes, colors, and sound sequences are digitized; upon completion, players are rewarded with clues or progression within an Escape Room-style dynamic.",
     "image": "addscape.PNG",
     "video": "https://www.youtube.com/embed/hTaPmFHje3M",
     "link": "",
-    "repository": "",
+    "repository": "https://github.com/VivianGomez/EscapeRoomVR-ADDScape",
     "last_update": "",
     "is_legacy": false,
     "execution_years": "",
     "members": [
-      "pablofigueroa",
-      "viviangomez"
+      "viviangomez",
+      "pablofigueroa"
     ],
     "papers": []
   },
@@ -769,11 +769,11 @@
   },
   {
     "id": 37,
-    "title": "Prototype of virtual reality engineering console and simulation in the training of crews of the Colombian Navy's naval fleet",
+    "title": "OPVSim: Applying a Graph-Based Methodology for VR Training in Guided Learning of Emergency Procedures in a Ship’s Engineering Room",
     "area": "Mixed Realities",
     "url": "",
     "group": "Imagine",
-    "description": "This project is based on the creation of virtual reality software that simulates three-dimensional scenarios, similar to the engineering room of a ship in the Colombian Navy fleet. This project seeks to train the crew of the room, responsible for supervision and maintenance tasks in the ship's engine room. Therefore, a non-commissioned officer in the simulator can interact with the engineering console, the control panels and the room's personnel. In particular, he must deal with normal, abnormal and emergency situations that may occur on the ship. This allows the crew to acquire training to know how to act in such situations, in a space close to the real ship.",
+    "description": "Virtual Reality (VR) can support effective and scalable training for procedures presented as step-by-step processes in machinery use, such as in an engineering room. Currently, many procedures are trained in closed experiences that do not allow for human errors or interaction with real subjects or machinery. Our goal is to address this gap by using VR training tools for guided procedural learning. To achieve this, we applied an existing methodology for designing such systems, called ProtoColVR, to develop a VR training simulation prototype for emergency procedures within an engineering room on a ship. The simulator, called OPVSim, employs end-to-end instruction, including a VR controls tutorial, step-by-step guided training based on graphs, offering different paths to the same goal, with feedback on correct and incorrect actions. We conducted a study with two groups of participants-cadets in training and experienced officers-to assess the effectiveness of the system developed using the described methodology. The study results reveal positive trends, including increased knowledge scores after using the simulator, and favorable outcomes for the prototype in terms of usability, presence, and workload. We discuss our findings, limitations, and the implications for designing VR training systems for guided procedural learning.",
     "image": "p75926.jpg",
     "video": "https://www.youtube.com/embed/ScdDqaJFiPg",
     "link": "",
@@ -782,18 +782,19 @@
     "is_legacy": false,
     "execution_years": "",
     "members": [
-      "pablofigueroa",
-      "viviangomez"
+      "viviangomez",
+      "pablofigueroa"
     ],
-    "papers": []
+    "papers": [],
+    "paper": "https://ieeexplore.ieee.org/document/10917010"
   },
   {
     "id": 38,
-    "title": "Application for training based on virtual reality and pseudo-haptics",
+    "title": "Training in the use of a VR prototype engineering console for the Colombian Navy with pseudo-haptic feedback",
     "area": "Mixed Realities",
     "url": "",
     "group": "Imagine",
-    "description": "This project, developed in the Colivri room as a degree thesis, is a virtual reality immersion application using pseudo-haptic technologies, for training the crew of the OPV vessels of the Colombian Navy, in the use of the engineering console. In the project, calibration is carried out between the virtual console and a full-scale model of the engineering console, to interact with all its buttons, indicators and levers, in order to train in its operation.",
+    "description": "This project supports the training of the Colombian Navy crew through a virtual reality simulator that replicates the control panel of a ship’s engineering console. A physical mock-up of the console is synchronized with a virtual environment using mixed reality headsets such as Quest 2 and Quest Pro. Leveraging the Passthrough function and Hand Tracking technology, cadets can operate real buttons and levers on the mock-up while simultaneously seeing the results of their actions in the virtual world. This integration provides an immersive, safe, and realistic training environment where future officers can practice, make mistakes without consequences, and strengthen their knowledge of the control panel before facing real-life operations on a ship",
     "image": "Foto_Entrenamiento_Armada.png",
     "video": "https://www.youtube.com/embed/ZeRPRznbJ5o",
     "link": "",
@@ -802,11 +803,11 @@
     "is_legacy": false,
     "execution_years": "",
     "members": [
-      "pablofigueroa",
-      "viviangomez",
-      "nicolasrueda"
+      "nicolasrueda",
+      "viviangomez"
     ],
-    "papers": []
+    "papers": [],
+    "paper": "https://hdl.handle.net/1992/73762?utm_source=chatgpt.com"
   },
   {
     "id": 39,
@@ -1037,7 +1038,8 @@
     ],
     "papers": [
       20
-    ]
+    ],
+    "paper": "https://hdl.handle.net/1992/73447"
   },
   {
     "id": 49,
@@ -1159,11 +1161,12 @@
     "is_legacy": false,
     "execution_years": "",
     "members": [
+      "valentinauribe",
       "pablofigueroa",
-      "viviangomez",
-      "valentinauribe"
+      "viviangomez"
     ],
-    "papers": []
+    "papers": [],
+    "paper": "https://ieeexplore.ieee.org/document/10536259"
   },
   {
     "id": 55,
@@ -1202,9 +1205,9 @@
     "is_legacy": false,
     "execution_years": "",
     "members": [
-      "pablofigueroa",
       "kellypenaranda",
-      "viviangomez"
+      "viviangomez",
+      "pablofigueroa"
     ],
     "papers": []
   },

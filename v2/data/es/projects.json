@@ -645,11 +645,11 @@
     "is_legacy": false,
     "execution_years": "",
     "members": [
-      "pablofigueroa",
+      "markustatzgen",
       "viviangomez",
       "sebastiancalvache",
-      "valentinauribe",
-      "markustatzgen"
+      "pablofigueroa",
+      "valentinauribe"
     ],
     "papers": [],
     "paper": "https://ieeexplore.ieee.org/document/10536224",
@@ -732,17 +732,17 @@
     "area": "Mixed Realities",
     "url": "",
     "group": "Imagine",
-    "description": "Este proyecto consta de un prototipo de videojuego en realidad virtual, el cual busca fortalecer las habilidades de pacientes diagnosticados con Trastorno por Déficit de Atención (TDHA) mediante unsa serie de tares interactivas",
+    "description": "ADD SCAPE es un proyecto centrado en el desarrollo de un prototipo de juego de realidad virtual diseñado para reforzar las habilidades de los pacientes diagnosticados con trastorno por déficit de atención (TDA). El sistema incluye una serie de tareas interactivas destinadas a estimular la concentración, la memoria de trabajo y la autorregulación, dentro de un entorno inmersivo que favorece tanto el aprendizaje como el entrenamiento cognitivo. Para lograrlo, se digitalizan juegos tradicionales que implican la asociación de formas, colores y secuencias de sonidos; al completarlos, los jugadores son recompensados con pistas o avances dentro de una dinámica al estilo Escape Room.",
     "image": "addscape.PNG",
     "video": "https://www.youtube.com/embed/hTaPmFHje3M",
     "link": "",
-    "repository": "",
+    "repository": "https://github.com/VivianGomez/EscapeRoomVR-ADDScape",
     "last_update": "",
     "is_legacy": false,
     "execution_years": "",
     "members": [
-      "pablofigueroa",
-      "viviangomez"
+      "viviangomez",
+      "pablofigueroa"
     ],
     "papers": []
   },
@@ -769,11 +769,11 @@
   },
   {
     "id": 37,
-    "title": "Prototipo consola de ingeniería en realidad virtual y simulación en el entrenamiento de tripulaciones de la flota naval de la armada de Colombia",
+    "title": "OPVSim: Aplicación de una metodología basada en grafos para la formación en realidad virtual en el aprendizaje guiado de procedimientos de emergencia en la sala de máquinas de un buque.",
     "area": "Mixed Realities",
     "url": "",
     "group": "Imagine",
-    "description": "El presente proyecto se basa en la creación de un software de realidad virtual que simula escenarios tridimensionales, similares al cuarto de ingeniería de un buque de la flota de la Armada de Colombia. En este proyecto, se busca entrenar a la tripulación del cuarto, encargada de tareas de supervisión y mantenimiento del cuarto de máquinas del buque. Por lo cual, un suboficial en el simulador puede interactuar con la consola de ingeniería, los tableros de control y el personal del cuarto. En particular, debe atender situaciones normales, anormales y de emergencia que se pueden presentar en el buque. Esto permite que la tripulación adquiera un entrenamiento para saber cómo actuar en dichas situaciones, en un espacio cercano al buque real.",
+    "description": "La realidad virtual (RV) puede servir de apoyo a una formación eficaz y escalable para procedimientos que se presentan como procesos paso a paso en el uso de maquinaria, como en una sala de ingeniería. Actualmente, muchos procedimientos se enseñan en experiencias cerradas que no permiten errores humanos ni la interacción con sujetos o maquinaria reales. Nuestro objetivo es abordar esta laguna mediante el uso de herramientas de formación en RV para el aprendizaje guiado de procedimientos. Para lograrlo, aplicamos una metodología existente para el diseño de este tipo de sistemas, denominada ProtoColVR, con el fin de desarrollar un prototipo de simulación de formación en RV para procedimientos de emergencia dentro de una sala de ingeniería en un barco. El simulador, denominado OPVSim, emplea instrucciones de principio a fin, incluyendo un tutorial de controles de RV, formación guiada paso a paso basada en gráficos, que ofrece diferentes caminos para alcanzar el mismo objetivo, con comentarios sobre las acciones correctas e incorrectas. Realizamos un estudio con dos grupos de participantes, cadetes en formación y oficiales experimentados, para evaluar la eficacia del sistema desarrollado utilizando la metodología descrita. Los resultados del estudio revelan tendencias positivas, como el aumento de las puntuaciones de conocimientos tras el uso del simulador y resultados favorables para el prototipo en términos de usabilidad, presencia y carga de trabajo. Analizamos nuestros hallazgos, limitaciones e implicaciones para el diseño de sistemas de formación en RV para el aprendizaje guiado de procedimientos.",
     "image": "p75926.jpg",
     "video": "https://www.youtube.com/embed/ScdDqaJFiPg",
     "link": "",
@@ -782,18 +782,19 @@
     "is_legacy": false,
     "execution_years": "",
     "members": [
-      "pablofigueroa",
-      "viviangomez"
+      "viviangomez",
+      "pablofigueroa"
     ],
-    "papers": []
+    "papers": [],
+    "paper": "https://ieeexplore.ieee.org/document/10917010"
   },
   {
     "id": 38,
-    "title": "Aplicativo para entrenamiento basado en realidad virtual y pseudo-hápticas",
+    "title": "Entrenamiento en el uso de un prototipo VR de consola de ingeniería la Armada Nacional de Colombia con retroalimentación Pseudo Háptica",
     "area": "Mixed Realities",
     "url": "",
     "group": "Imagine",
-    "description": "Este proyecto, desarrollado en la sala Colivri como tesis de grado, es un aplicativo de inmersión en realidad virtual utilizando tecnologías pseudo-hápticas, para el entrenamiento de la tripulación de los buques OPV de la Armada Nacional de Colombia, en el manejo de la consola de ingeniería. En el proyecto se realiza la calibración entre la consola virtual y una maqueta a escala real de la consola de ingeniería, para interactuar con todos sus botones, indicadores y palancas, con el fin de entrenarse en su operación.",
+    "description": "Este proyecto apoya la formación de la tripulación de la Armada de Colombia mediante un simulador de realidad virtual que reproduce el panel de control de la consola de ingeniería de un barco. Una maqueta física de la consola se sincroniza con un entorno virtual utilizando cascos de realidad mixta como Quest 2 y Quest Pro. Aprovechando la función Passthrough y la tecnología Hand Tracking, los cadetes pueden manejar botones y palancas reales en la maqueta mientras ven simultáneamente los resultados de sus acciones en el mundo virtual. Esta integración proporciona un entorno de formación inmersivo, seguro y realista en el que los futuros oficiales pueden practicar, cometer errores sin consecuencias y reforzar sus conocimientos sobre el panel de control antes de enfrentarse a operaciones reales en un barco.",
     "image": "Foto_Entrenamiento_Armada.png",
     "video": "https://www.youtube.com/embed/ZeRPRznbJ5o",
     "link": "",
@@ -802,11 +803,11 @@
     "is_legacy": false,
     "execution_years": "",
     "members": [
-      "pablofigueroa",
-      "viviangomez",
-      "nicolasrueda"
+      "nicolasrueda",
+      "viviangomez"
     ],
-    "papers": []
+    "papers": [],
+    "paper": "https://hdl.handle.net/1992/73762?utm_source=chatgpt.com"
   },
   {
     "id": 39,
@@ -1037,7 +1038,8 @@
     ],
     "papers": [
       20
-    ]
+    ],
+    "paper": "https://hdl.handle.net/1992/73447"
   },
   {
     "id": 49,
@@ -1159,11 +1161,12 @@
     "is_legacy": false,
     "execution_years": "",
     "members": [
+      "valentinauribe",
       "pablofigueroa",
-      "viviangomez",
-      "valentinauribe"
+      "viviangomez"
     ],
-    "papers": []
+    "papers": [],
+    "paper": "https://ieeexplore.ieee.org/document/10536259"
   },
   {
     "id": 55,
@@ -1202,9 +1205,9 @@
     "is_legacy": false,
     "execution_years": "",
     "members": [
-      "pablofigueroa",
       "kellypenaranda",
-      "viviangomez"
+      "viviangomez",
+      "pablofigueroa"
     ],
     "papers": []
   },
