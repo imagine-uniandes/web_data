@@ -1821,6 +1821,7 @@
       "pablofigueroa"
     ],
     "papers": [],
+    "paper": "https://hdl.handle.net/1992/75782",
     "title": "Exploring Gaze Direction as an Indicator of Attention in Extended Reality Environments ",
     "description": "This study analyzes how gaze direction can serve as an indicator of attention in three different contexts: face-to-face, telepresence (using a Double 3 robot), and virtual reality. The objective is to understand how gaze direction, measured through head orientation, can be used as an indicator of attention in each of these environments. \nThis study provides a framework for understanding attention in face-to-face and extended reality environments, with practical applications in education, hybrid meetings, and the analysis of social dynamics. The findings can contribute to the creation of more effective experiences in these contexts. "
   },
@@ -1836,8 +1837,13 @@
     "last_update": "",
     "is_legacy": false,
     "execution_years": "July 2025",
-    "members": [],
+    "members": [
+      "juanjosesierra",
+      "abelarismendy",
+      "viviangomez"
+    ],
     "papers": [],
+    "paper": "https://hdl.handle.net/1992/76991",
     "title": "Digital Twin Networking Lab (Multi-interface)",
     "description": "The ML340 Networks and Communications Laboratory at the University of the Andes is a critical environment equipped with sensitive technology that requires optimal operating conditions. To meet this challenge, in collaboration with the IMAGINE and COMIT groups, we developed an interactive digital twin that combines IoT, Augmented Reality, Virtual Reality, and web visualization, offering a unique multi-interface experience for intelligent space monitoring and management. This system integrates distributed sensors to capture environmental variables (temperature, humidity, CO₂, noise), energy consumption, occupancy, and equipment use in real time. The information collected is processed on a central platform that enables different modes of interaction:\n\nTraditional Web Dashboard: visualization of metrics, historical data, and analysis with interactive graphs.\n\nVR in Quest 3: total immersion in a digital twin of the laboratory for remote exploration and monitoring.\n\nWebXR for Mobile: agile access from mobile devices with interactive 3D experiences with contextual projection of information about the physical laboratory.\n\nAR in Hololens: contextual projection of information about the physical laboratory for on-site support and decision analysis.\n\nWith this solution, it is possible to anticipate risks, improve safety and comfort, optimize energy consumption, and have a permanent record of the laboratory's status. The project demonstrates how the integration of multiple immersive and web interfaces enhances the intelligent management of academic spaces and paves the way for more connected and sustainable university environments.\n"
   }

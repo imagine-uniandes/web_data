@@ -1821,6 +1821,7 @@
       "pablofigueroa"
     ],
     "papers": [],
+    "paper": "https://hdl.handle.net/1992/75782",
     "title": "Exploración de la Dirección de la Mirada como indicador de Atención en Ambientes con Realidad Extendida",
     "description": "Este estudio analiza cómo la dirección de la mirada puede servir como indicador de atención en tres contextos distintos: presencial, telepresencia (utilizando un robot Double 3) y realidad virtual. El objetivo es comprender cómo la dirección de la mirada, medida a través de la orientación de la cabeza, puede ser usada como indicador de atención en cada uno de estos entornos. \nEste estudio proporciona un marco para comprender la atención en entornos presenciales y de realidad extendida, con aplicaciones prácticas en educación, reuniones híbridas y el análisis de dinámicas sociales. Los hallazgos pueden contribuir a la creación de experiencias más efectivas en estos contextos. "
   },
@@ -1836,8 +1837,13 @@
     "last_update": "",
     "is_legacy": false,
     "execution_years": "July 2025",
-    "members": [],
+    "members": [
+      "juanjosesierra",
+      "abelarismendy",
+      "viviangomez"
+    ],
     "papers": [],
+    "paper": "https://hdl.handle.net/1992/76991",
     "title": "Gemelo Digital Laboratorio de Redes (Multi-interfaz)",
     "description": "El Laboratorio de Redes y Comunicaciones ML340 de la Universidad de los Andes es un entorno crítico, equipado con tecnología sensible que requiere condiciones óptimas de operación. Para responder a este reto, en colaboración entre los grupos IMAGINE y COMIT desarrollamos un gemelo digital interactivo que combina IoT, Realidad Aumentada, Realidad Virtual y visualización web, ofreciendo una experiencia multi–interfaz única para el monitoreo y gestión inteligente del espacio. Este sistema integra sensores distribuidos para capturar en tiempo real variables ambientales (temperatura, humedad, CO₂, ruido), consumo energético, ocupación y uso de equipos. La información recolectada se procesa en una plataforma central que habilita diferentes modos de interacción:\n\nDashboard Web Tradicional: visualización de métricas, históricos y análisis con gráficas interactivas.\n\nVR en Quest 3: inmersión total en un gemelo digital del laboratorio, para exploración y supervisión remota.\n\nWebXR para Mobile: acceso ágil desde dispositivos móviles con experiencias 3D interactivas con proyección contextual de información sobre el laboratorio físico\n\nAR en Hololens: proyección contextual de información sobre el laboratorio físico para soporte y análisis de decisiones en sitio.\n\nCon esta solución, es posible anticipar riesgos, mejorar la seguridad y el confort, optimizar el consumo energético y contar con un registro permanente del estado del laboratorio. El proyecto demuestra cómo la integración de múltiples interfaces inmersivas y web potencia la gestión inteligente de espacios académicos y abre el camino hacia entornos universitarios más conectados y sostenibles.\n"
   }
