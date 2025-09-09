@@ -1831,7 +1831,10 @@
     "last_update": "",
     "is_legacy": false,
     "execution_years": "Ongoing / En proceso",
-    "members": [],
+    "members": [
+      "carlafernanda",
+      "viviangomez"
+    ],
     "papers": [],
     "title": "Colivri Escape Room",
     "description": "Colivri Escape Room es un proyecto en desarrollo que busca crear retos y mini-juegos en Realidad Virtual, inspirados en la dinámica de un Escape Room, dentro del entorno previamente diseñado en el Gemelo Digital del Laboratorio Colivri. El objetivo de esta nueva versión es ofrecer una experiencia VR sencilla, inmersiva y divertida para cualquier jugador, en la que pueda resolver puzzles, superar desafíos, descubrir claves y avanzar a través de diferentes niveles de exploración e interacción. Además, se plantea integrar distintos tipos de interacciones que permitan familiarizar a los usuarios con las posibilidades de la Realidad Virtual, combinando entretenimiento con aprendizaje sobre las dinámicas propias de esta tecnología."
