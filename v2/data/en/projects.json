@@ -1818,5 +1818,22 @@
     "paper": "test test 2",
     "title": "test 3",
     "description": "test 3 ignore"
+  },
+  {
+    "id": 86,
+    "area": "Mixed Realities",
+    "url": "",
+    "group": "",
+    "image": "foto_86.jpeg",
+    "video": "https://www.youtube.com/watch?v=Q7htB_qRoV8&feature=youtu.be",
+    "link": "",
+    "repository": "https://github.com/imagine-uniandes/ColivriDigitalTwin_VR",
+    "last_update": "",
+    "is_legacy": false,
+    "execution_years": "Ongoing / En proceso",
+    "members": [],
+    "papers": [],
+    "title": "Colivri Escape Room",
+    "description": "Colivri Escape Room is a project in development that seeks to create challenges and mini-games in Virtual Reality, inspired by the dynamics of an Escape Room, within the environment previously designed in the Digital Twin of the Colivri Laboratory. The goal of this new version is to offer a simple, immersive, and fun VR experience for any player, in which they can solve puzzles, overcome challenges, discover clues, and advance through different levels of exploration and interaction. In addition, it aims to integrate different types of interactions that allow users to become familiar with the possibilities of Virtual Reality, combining entertainment with learning about the dynamics of this technology."
   }
 ]
