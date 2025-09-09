@@ -1851,7 +1851,10 @@
     "last_update": "",
     "is_legacy": false,
     "execution_years": "",
-    "members": [],
+    "members": [
+      "valentinarozo",
+      "pablofigueroa"
+    ],
     "papers": [],
     "title": "Exploración de la Dirección de la Mirada como indicador de Atención en Ambientes con Realidad Extendida",
     "description": "Este estudio analiza cómo la dirección de la mirada puede servir como indicador de atención en tres contextos distintos: presencial, telepresencia (utilizando un robot Double 3) y realidad virtual. El objetivo es comprender cómo la dirección de la mirada, medida a través de la orientación de la cabeza, puede ser usada como indicador de atención en cada uno de estos entornos. \nEste estudio proporciona un marco para comprender la atención en entornos presenciales y de realidad extendida, con aplicaciones prácticas en educación, reuniones híbridas y el análisis de dinámicas sociales. Los hallazgos pueden contribuir a la creación de experiencias más efectivas en estos contextos. "
