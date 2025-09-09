@@ -1838,5 +1838,22 @@
     "papers": [],
     "title": "Colivri Escape Room",
     "description": "Colivri Escape Room is a project in development that seeks to create challenges and mini-games in Virtual Reality, inspired by the dynamics of an Escape Room, within the environment previously designed in the Digital Twin of the Colivri Laboratory. The goal of this new version is to offer a simple, immersive, and fun VR experience for any player, in which they can solve puzzles, overcome challenges, discover clues, and advance through different levels of exploration and interaction. In addition, it aims to integrate different types of interactions that allow users to become familiar with the possibilities of Virtual Reality, combining entertainment with learning about the dynamics of this technology."
+  },
+  {
+    "id": 87,
+    "area": "Mixed Realities",
+    "url": "",
+    "group": "IMAGINE",
+    "image": "foto_87.png",
+    "video": "",
+    "link": "",
+    "repository": "https://github.com/imagine-uniandes/Ubiq_Twin",
+    "last_update": "",
+    "is_legacy": false,
+    "execution_years": "",
+    "members": [],
+    "papers": [],
+    "title": "Exploring Gaze Direction as an Indicator of Attention in Extended Reality Environments ",
+    "description": "This study analyzes how gaze direction can serve as an indicator of attention in three different contexts: face-to-face, telepresence (using a Double 3 robot), and virtual reality. The objective is to understand how gaze direction, measured through head orientation, can be used as an indicator of attention in each of these environments. \nThis study provides a framework for understanding attention in face-to-face and extended reality environments, with practical applications in education, hybrid meetings, and the analysis of social dynamics. The findings can contribute to the creation of more effective experiences in these contexts. "
   }
 ]
