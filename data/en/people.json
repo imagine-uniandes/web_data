@@ -1432,5 +1432,19 @@
     "email": "cf.gonzalezm1@uniandes.edu.co",
     "bio": "",
     "description": ""
+  },
+  "danielperez": {
+    "user": "danielperez",
+    "display_name": "Daniel Escalante Perez",
+    "role": "collab",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
   }
 }
