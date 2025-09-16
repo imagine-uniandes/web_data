@@ -1446,5 +1446,19 @@
     "email": "",
     "bio": "",
     "description": ""
+  },
+  "andreshernandez": {
+    "user": "andreshernandez",
+    "display_name": "Andres Hernandez",
+    "role": "collab",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
   }
 }
