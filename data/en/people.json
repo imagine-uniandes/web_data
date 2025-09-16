@@ -1432,5 +1432,61 @@
     "email": "cf.gonzalezm1@uniandes.edu.co",
     "bio": "",
     "description": ""
+  },
+  "danielperez": {
+    "user": "danielperez",
+    "display_name": "Daniel Escalante Perez",
+    "role": "collab",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
+  },
+  "andreshernandez": {
+    "user": "andreshernandez",
+    "display_name": "Andres Hernandez",
+    "role": "collab",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
+  },
+  "andresrodriguez": {
+    "user": "andresrodriguez",
+    "display_name": "Andres Rodríguez",
+    "role": "collab",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
+  },
+  "carloslozano": {
+    "user": "carloslozano",
+    "display_name": "Carlos Lozano",
+    "role": "collab",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
   }
 }
