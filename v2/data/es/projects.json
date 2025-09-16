@@ -47,7 +47,9 @@
         "group": "Imagine",
         "description": "Este proyecto pretende ense\u00f1ar sobre las diferentes obras de arte, museos y lugares de todo el mundo de una forma interactiva. Inspirado en la popular serie '\u00bfD\u00f3nde est\u00e1 Carmen Sandiego en el mundo?', el jugador trabaja como investigador para una agencia internacional con el objetivo de detener a varios criminales que viajan por el mundo. Mientras est\u00e1 en movimiento, el jugador puede aprender y ver algunos de los lugares de inter\u00e9s y museos m\u00e1s importantes de los diferentes pa\u00edses que est\u00e1n disponibles.",
         "image": "defensorCultura.png",
-        "videos": [],
+        "videos": [
+          "https://www.youtube.com/embed/eM0-8YLHb84"
+        ],
         "link": "",
         "repository": "https://github.com/Arturony/Tesis_2022",
         "last_update": "",
@@ -89,7 +91,9 @@
         "group": "Imagine",
         "description": "El proyecto es un juego cooperativo de realidad virtual que sigue la din\u00e1mica de un escape room. Esto significa que los jugadores, en este caso dos, estar\u00e1n sumergidos en un entorno virtual ambientado en la \u00e9poca medieval y estos tendr\u00e1n la tarea de resolver distintos acertijos para lograr escapar de su encierro. Asimismo, los acertijos a los cuales se enfrentar\u00e1n evaluar\u00e1n sus habilidades para trabajar en equipo y comunicar sus ideas.",
         "image": "escapeVR.png",
-        "videos": [],
+        "videos": [
+          "https://www.youtube.com/embed/WK2SxbgI36U"
+        ],
         "link": "",
         "repository": "https://github.com/AngelaJimenez/ColabVRTesis",
         "last_update": "2022-11-22",
@@ -110,7 +114,9 @@
         "group": "Imagine",
         "description": "Investigar y dise\u00f1ar una arquitectura que integre VR a la interacci\u00f3n con drones UAV para resolver tareas de definici\u00f3n de trayectoria y seguimiento de trayectoria.",
         "image": "Three-dimensional-path.png",
-        "videos": [],
+        "videos": [
+          "https://www.youtube.com/embed/_lJLJAQSTYU"
+        ],
         "link": "",
         "repository": "",
         "last_update": "2018-12-05",
@@ -150,7 +156,9 @@
         "group": "Imagine",
         "description": "Consolidar arquitecturas web y m\u00f3viles, para implementar el control y programaci\u00f3n existente de los robots Lego Mindstorm EV3 en m\u00faltiples plataformas; Android, IOS y WebPages.",
         "image": "legoMindstorm.png",
-        "videos": [],
+        "videos": [
+          "https://www.youtube.com/embed/u2lfPUpbOe8"
+        ],
         "link": "",
         "repository": "",
         "last_update": "2019-02-04",
@@ -190,7 +198,9 @@
         "group": "Imagine",
         "description": "Definir una arquitectura de software base para la creaci\u00f3n de aplicaciones web para la operaci\u00f3n, control y programaci\u00f3n de robots Lego Mindstorm EV3.",
         "image": "",
-        "videos": [],
+        "videos": [
+          "https://www.youtube.com/embed/u2lfPUpbOe8"
+        ],
         "link": "",
         "repository": "",
         "last_update": "2018-02-19",
@@ -261,7 +271,9 @@
             "meilivanegas"
         ],
         "papers": [],
-        "videos": []
+        "videos": [
+          "https://www.youtube.com/embed/K_nUJ5exn1A"
+        ]
     },
     {
         "id": 14,
