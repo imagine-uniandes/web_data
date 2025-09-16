@@ -1474,5 +1474,19 @@
     "email": "",
     "bio": "",
     "description": ""
+  },
+  "carloslozano": {
+    "user": "carloslozano",
+    "display_name": "Carlos Lozano",
+    "role": "collab",
+    "is_active": true,
+    "webpage": "",
+    "image": "",
+    "github": "",
+    "linkedin": "",
+    "phone": "",
+    "email": "",
+    "bio": "",
+    "description": ""
   }
 }
