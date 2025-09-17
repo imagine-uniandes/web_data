@@ -527,5 +527,18 @@
             "andresrodriguez",
             "viviangomez"
         ] 
+    },
+    {
+        "id": 41,
+        "nombre": "Exploración de la dirección de la mirada como indicador de atención en ambientes con realidad extendida",
+        "descripcion": "La dirección de la mirada es un indicador de atención en diversos contextos, incluyendo los entornos de realidad extendida (XR). Comprender cómo los usuarios interactúan visualmente en ambientes reales, de telepresencia y virtuales puede ofrecer información para optimizar la efectividad de espacios de realidad extendida. Este trabajo tiene como objetivo analizar la dirección de la mirada como indicador de atención en tres entornos: real, de telepresencia y de realidad virtual. El estudio se desarrolló en dos fases experimentales. En la primera, se realizaron conversatorios en presencialidad y telepresencia, mientras que en la segunda fase se llevaron a cabo reuniones presenciales, en telepresencia y en realidad virtual. Los resultados indican que la distribución de la atención puede estar vinculada a la proximidad física y la visibilidad de los puntos de interés. En el entorno presencial, en el experimento 2 los participantes distribuyeron su atención de manera equilibrada entre sus compañeros y las ayudas visuales. En el experimento 1 la atención se centró mayoritariamente en el instructor robot comparada con la sesión presencial. En realidad virtual, la dirección de la mirada estuvo condicionada por las restricciones del campo visual, enfocándose principalmente en elementos directamente visibles. Este estudio proporciona un marco para comprender la atención en entornos presenciales y de realidad extendida, con aplicaciones prácticas en educación, reuniones híbridas y el análisis de dinámicas sociales, contribuyendo a la creación de experiencias más efectivas.",
+        "researchArea": "Mixed Realities",
+        "lugarpublicacion": "Universidad de los Andes, Bogotá, Colombia",
+        "fecha": "2024-12-09",
+        "link": "https://hdl.handle.net/1992/75782",
+        "autores": [
+            "valentinarozo",
+            "pablofigueroa"
+        ] 
     }
 ]

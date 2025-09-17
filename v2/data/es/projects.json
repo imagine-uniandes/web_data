@@ -664,7 +664,9 @@
             "pablofigueroa",
             "valentinauribe"
         ],
-        "papers": [],
+        "papers": [
+            35
+        ],
         "paper": "https://ieeexplore.ieee.org/document/10536224",
         "title": "Retroalimentaci\u00f3n h\u00e1ptica pasiva para elementos de control en realidad virtual",
         "description": "Hemos dise\u00f1ado un m\u00e9todo de entrada manual basado en un controlador que permite a los usuarios percibir la retroalimentaci\u00f3n h\u00e1ptica con los controladores port\u00e1tiles habituales al interactuar con elementos de control virtuales, al tiempo que se benefician del seguimiento preciso basado en el controlador. Realizamos un experimento en el que comparamos nuestro m\u00e9todo de entrada basado en controladores con el seguimiento de manos nativo de HMD. Curiosamente, el seguimiento de manos fue robusto y preciso durante las interacciones con la mayor\u00eda de los elementos de control en nuestra configuraci\u00f3n experimental. Un resultado sorprendente fue que la retroalimentaci\u00f3n h\u00e1ptica generalmente ralentizaba a los usuarios durante la interacci\u00f3n, posiblemente debido al temor de golpear la superficie f\u00edsica durante la interacci\u00f3n.",
@@ -804,8 +806,9 @@
             "viviangomez",
             "pablofigueroa"
         ],
-        "papers": [],
-        "paper": "https://ieeexplore.ieee.org/document/10917010",
+        "papers": [
+            36
+        ],
         "videos": [
             "https://www.youtube.com/embed/ScdDqaJFiPg"
         ]
@@ -827,8 +830,9 @@
             "nicolasrueda",
             "viviangomez"
         ],
-        "papers": [],
-        "paper": "https://hdl.handle.net/1992/73762?utm_source=chatgpt.com",
+        "papers": [
+            37
+        ],
         "videos": [
             "https://www.youtube.com/embed/ZeRPRznbJ5o"
         ]
@@ -1204,8 +1208,10 @@
             "pablofigueroa",
             "viviangomez"
         ],
-        "papers": [],
-        "paper": "https://ieeexplore.ieee.org/document/10536259",
+        "papers": [
+            38,
+            39
+        ],
         "videos": []
     },
     {
@@ -1899,7 +1905,9 @@
             "valentinarozo",
             "pablofigueroa"
         ],
-        "papers": [],
+        "papers": [
+            41
+        ],
         "paper": "https://hdl.handle.net/1992/75782",
         "title": "Exploraci\u00f3n de la Direcci\u00f3n de la Mirada como indicador de Atenci\u00f3n en Ambientes con Realidad Extendida",
         "description": "Este estudio analiza c\u00f3mo la direcci\u00f3n de la mirada puede servir como indicador de atenci\u00f3n en tres contextos distintos: presencial, telepresencia (utilizando un robot Double 3) y realidad virtual. El objetivo es comprender c\u00f3mo la direcci\u00f3n de la mirada, medida a trav\u00e9s de la orientaci\u00f3n de la cabeza, puede ser usada como indicador de atenci\u00f3n en cada uno de estos entornos. \nEste estudio proporciona un marco para comprender la atenci\u00f3n en entornos presenciales y de realidad extendida, con aplicaciones pr\u00e1cticas en educaci\u00f3n, reuniones h\u00edbridas y el an\u00e1lisis de din\u00e1micas sociales. Los hallazgos pueden contribuir a la creaci\u00f3n de experiencias m\u00e1s efectivas en estos contextos. ",
@@ -1925,8 +1933,9 @@
             "andresrodriguez",
             "carloslozano"
         ],
-        "papers": [],
-        "paper": "https://hdl.handle.net/1992/76991",
+        "papers": [
+            40
+        ],
         "title": "Gemelo Digital Laboratorio de Redes (Multi-interfaz)",
         "description": "El Laboratorio de Redes y Comunicaciones ML340 de la Universidad de los Andes es un entorno cr\u00edtico, equipado con tecnolog\u00eda sensible que requiere condiciones \u00f3ptimas de operaci\u00f3n. Para responder a este reto, en colaboraci\u00f3n entre los grupos IMAGINE y COMIT desarrollamos un gemelo digital interactivo que combina IoT, Realidad Aumentada, Realidad Virtual y visualizaci\u00f3n web, ofreciendo una experiencia multi\u2013interfaz \u00fanica para el monitoreo y gesti\u00f3n inteligente del espacio. Este sistema integra sensores distribuidos para capturar en tiempo real variables ambientales (temperatura, humedad, CO\u2082, ruido), consumo energ\u00e9tico, ocupaci\u00f3n y uso de equipos. La informaci\u00f3n recolectada se procesa en una plataforma central que habilita diferentes modos de interacci\u00f3n:\n\nDashboard Web Tradicional: visualizaci\u00f3n de m\u00e9tricas, hist\u00f3ricos y an\u00e1lisis con gr\u00e1ficas interactivas.\n\nVR en Quest 3: inmersi\u00f3n total en un gemelo digital del laboratorio, para exploraci\u00f3n y supervisi\u00f3n remota.\n\nWebXR para Mobile: acceso \u00e1gil desde dispositivos m\u00f3viles con experiencias 3D interactivas con proyecci\u00f3n contextual de informaci\u00f3n sobre el laboratorio f\u00edsico\n\nAR en Hololens: proyecci\u00f3n contextual de informaci\u00f3n sobre el laboratorio f\u00edsico para soporte y an\u00e1lisis de decisiones en sitio.\n\nCon esta soluci\u00f3n, es posible anticipar riesgos, mejorar la seguridad y el confort, optimizar el consumo energ\u00e9tico y contar con un registro permanente del estado del laboratorio. El proyecto demuestra c\u00f3mo la integraci\u00f3n de m\u00faltiples interfaces inmersivas y web potencia la gesti\u00f3n inteligente de espacios acad\u00e9micos y abre el camino hacia entornos universitarios m\u00e1s conectados y sostenibles.\n",
         "videos": [

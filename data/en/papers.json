@@ -527,5 +527,18 @@
             "andresrodriguez",
             "viviangomez"
         ] 
+    },
+    {
+        "id": 41,
+        "nombre": "Exploring gaze direction as an indicator of attention in extended reality environments",
+        "descripcion": "Gaze direction is an indicator of attention in various contexts, including extended reality (XR) environments. Understanding how users interact visually in real, telepresence, and virtual environments can provide information to optimize the effectiveness of extended reality spaces. This work aims to analyze gaze direction as an indicator of attention in three environments: real, telepresence, and virtual reality. The study was conducted in two experimental phases. In the first phase, face-to-face and telepresence discussions were held, while in the second phase, face-to-face, telepresence, and virtual reality meetings were held. The results indicate that the distribution of attention may be linked to physical proximity and the visibility of points of interest. In the face-to-face environment, in experiment 2, participants distributed their attention evenly between their peers and visual aids. In Experiment 1, attention was focused mainly on the robot instructor compared to the face-to-face session. In virtual reality, gaze direction was conditioned by visual field restrictions, focusing primarily on directly visible elements. This study provides a framework for understanding attention in face-to-face and extended reality environments, with practical applications in education, hybrid meetings, and the analysis of social dynamics, contributing to the creation of more effective experiences. ",
+        "researchArea": "Mixed Realities",
+        "lugarpublicacion": "Universidad de los Andes, Bogotá, Colombia",
+        "fecha": "2024-12-09",
+        "link": "https://hdl.handle.net/1992/75782",
+        "autores": [
+            "valentinarozo",
+            "pablofigueroa"
+        ] 
     }
 ]
