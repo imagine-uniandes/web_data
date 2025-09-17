@@ -7,7 +7,6 @@
         "group": "Imagine",
         "description": "Las estructuras de datos son un tema fundamental que se aborda en la formaci\u00f3n como ingenieros de sistemas. Para facilitar el aprendizaje de este tema se propone construir una herramienta visual que permita realizar validaciones de la implementaci\u00f3n de una estructura de datos y de las operaciones que se realizan sobre ella. Como resultado, se obtiene una aplicaci\u00f3n en Python que permite trabajar con las estructuras listas enlazadas, \u00e1rboles binarios ordenados y grafos.",
         "image": "aprendizajeEstructuras.png",
-        "videos": [],
         "link": "",
         "repository": "",
         "last_update": "",
@@ -17,7 +16,10 @@
             "fernandodelarosa",
             "vhanessacardona"
         ],
-        "papers": []
+        "papers": [
+            1
+        ],
+        "videos": []
     },
     {
         "id": 2,
@@ -27,7 +29,6 @@
         "group": "Imagine",
         "description": "La inspecci\u00f3n de estructuras f\u00edsicas es una tarea cr\u00edtica, y omitir alg\u00fan detalle puede tener consecuencias desastrosas. Al pilotear manualmente un dron, existe el riesgo de que el piloto no cubra en su totalidad la estructura y se pierda informaci\u00f3n sumamente importante. Se propone un sistema basado en la existencia de un modelo tridimensional de la estructura a inspeccionar, donde el usuario inspector solo tenga que introducir algunos par\u00e1metros b\u00e1sicos y un dron sea capaz de ejecutar la tarea de inspecci\u00f3n autom\u00e1ticamente",
         "image": "",
-        "videos": [],
         "link": "",
         "repository": "",
         "last_update": "",
@@ -37,7 +38,10 @@
             "fernandodelarosa",
             "davidoviedo"
         ],
-        "papers": []
+        "papers": [
+            2
+        ],
+        "videos": []
     },
     {
         "id": 3,
@@ -47,9 +51,6 @@
         "group": "Imagine",
         "description": "Este proyecto pretende ense\u00f1ar sobre las diferentes obras de arte, museos y lugares de todo el mundo de una forma interactiva. Inspirado en la popular serie '\u00bfD\u00f3nde est\u00e1 Carmen Sandiego en el mundo?', el jugador trabaja como investigador para una agencia internacional con el objetivo de detener a varios criminales que viajan por el mundo. Mientras est\u00e1 en movimiento, el jugador puede aprender y ver algunos de los lugares de inter\u00e9s y museos m\u00e1s importantes de los diferentes pa\u00edses que est\u00e1n disponibles.",
         "image": "defensorCultura.png",
-        "videos": [
-          "https://www.youtube.com/embed/eM0-8YLHb84"
-        ],
         "link": "",
         "repository": "https://github.com/Arturony/Tesis_2022",
         "last_update": "",
@@ -61,7 +62,12 @@
             "camilootalora",
             "arturorubio"
         ],
-        "papers": []
+        "papers": [
+            3
+        ],
+        "videos": [
+            "https://www.youtube.com/embed/eM0-8YLHb84"
+        ]
     },
     {
         "id": 4,
@@ -71,7 +77,6 @@
         "group": "Imagine",
         "description": "El proyecto hace parte de una investigaci\u00f3n que busca apoyar la generaci\u00f3n de empat\u00eda que se puede crear mediante videos de realidad virtual 360. Para tal fin, se desarroll\u00f3 una aplicaci\u00f3n de realidad virtual en la cual se pueden reproducir e intervenir videos 360. Los usuarios de la aplicaci\u00f3n pueden comentar y leer bullet comments dejados sobre el video 360",
         "image": "desarrolloValientes.png",
-        "videos": [],
         "link": "",
         "repository": "https://github.com/imagine-uniandes/empatia-room-360",
         "last_update": "2022-11-22",
@@ -81,7 +86,12 @@
             "camilouseche",
             "pablofigueroa"
         ],
-        "papers": []
+        "papers": [
+            4
+        ],
+        "videos": [
+            "https://www.youtube.com/embed/NoRnkz74sc8"
+        ]
     },
     {
         "id": 5,
@@ -91,9 +101,6 @@
         "group": "Imagine",
         "description": "El proyecto es un juego cooperativo de realidad virtual que sigue la din\u00e1mica de un escape room. Esto significa que los jugadores, en este caso dos, estar\u00e1n sumergidos en un entorno virtual ambientado en la \u00e9poca medieval y estos tendr\u00e1n la tarea de resolver distintos acertijos para lograr escapar de su encierro. Asimismo, los acertijos a los cuales se enfrentar\u00e1n evaluar\u00e1n sus habilidades para trabajar en equipo y comunicar sus ideas.",
         "image": "escapeVR.png",
-        "videos": [
-          "https://www.youtube.com/embed/WK2SxbgI36U"
-        ],
         "link": "",
         "repository": "https://github.com/AngelaJimenez/ColabVRTesis",
         "last_update": "2022-11-22",
@@ -104,7 +111,10 @@
             "andresrincon",
             "pablofigueroa"
         ],
-        "papers": []
+        "papers": [],
+        "videos": [
+            "https://www.youtube.com/embed/WK2SxbgI36U"
+        ]
     },
     {
         "id": 6,
@@ -114,9 +124,6 @@
         "group": "Imagine",
         "description": "Investigar y dise\u00f1ar una arquitectura que integre VR a la interacci\u00f3n con drones UAV para resolver tareas de definici\u00f3n de trayectoria y seguimiento de trayectoria.",
         "image": "Three-dimensional-path.png",
-        "videos": [
-          "https://www.youtube.com/embed/_lJLJAQSTYU"
-        ],
         "link": "",
         "repository": "",
         "last_update": "2018-12-05",
@@ -126,7 +133,10 @@
             "fernandodelarosa",
             "nelsonandressanchez"
         ],
-        "papers": []
+        "papers": [],
+        "videos": [
+            "https://www.youtube.com/embed/_lJLJAQSTYU"
+        ]
     },
     {
         "id": 7,
@@ -136,7 +146,6 @@
         "group": "Imagine",
         "description": "Desarrollo de un sistema de planeaci\u00f3n de rutas que permita hacer la navegaci\u00f3n de un robot P3DX dentro de un escenario interior para que sea un guia dentro del edificio Mario Laserna.",
         "image": "",
-        "videos": [],
         "link": "",
         "repository": "https://github.com/franciscoD1202/robot_guide",
         "last_update": "2019-06-20",
@@ -146,7 +155,10 @@
             "fernandodelarosa",
             "franciscodurango"
         ],
-        "papers": []
+        "papers": [
+            5
+        ],
+        "videos": []
     },
     {
         "id": 8,
@@ -156,9 +168,6 @@
         "group": "Imagine",
         "description": "Consolidar arquitecturas web y m\u00f3viles, para implementar el control y programaci\u00f3n existente de los robots Lego Mindstorm EV3 en m\u00faltiples plataformas; Android, IOS y WebPages.",
         "image": "legoMindstorm.png",
-        "videos": [
-          "https://www.youtube.com/embed/u2lfPUpbOe8"
-        ],
         "link": "",
         "repository": "",
         "last_update": "2019-02-04",
@@ -168,7 +177,10 @@
             "fernandodelarosa",
             "samuelbaquero"
         ],
-        "papers": []
+        "papers": [],
+        "videos": [
+            "https://www.youtube.com/embed/u2lfPUpbOe8"
+        ]
     },
     {
         "id": 9,
@@ -178,7 +190,6 @@
         "group": "Imagine",
         "description": "Desarrollar e implementar una t\u00e9cnica para resolver el Problema del Vendedor Viajero M\u00faltiple (MTSP) cuando se aplica a robots m\u00f3viles en escenarios din\u00e1micos.",
         "image": "",
-        "videos": [],
         "link": "http://ieeexplore.ieee.org/document/8023519/",
         "repository": "",
         "last_update": "2018-02-09",
@@ -188,7 +199,10 @@
             "fernandodelarosa",
             "nelsonandressanchez"
         ],
-        "papers": []
+        "papers": [
+            6
+        ],
+        "videos": []
     },
     {
         "id": 10,
@@ -198,9 +212,6 @@
         "group": "Imagine",
         "description": "Definir una arquitectura de software base para la creaci\u00f3n de aplicaciones web para la operaci\u00f3n, control y programaci\u00f3n de robots Lego Mindstorm EV3.",
         "image": "",
-        "videos": [
-          "https://www.youtube.com/embed/u2lfPUpbOe8"
-        ],
         "link": "",
         "repository": "",
         "last_update": "2018-02-19",
@@ -210,7 +221,12 @@
             "fernandodelarosa",
             "eduardocabello"
         ],
-        "papers": []
+        "papers": [
+            7
+        ],
+        "videos": [
+            "https://www.youtube.com/embed/u2lfPUpbOe8"
+        ]
     },
     {
         "id": 11,
@@ -220,7 +236,6 @@
         "group": "Imagine",
         "description": "Harmony es una herramienta de aprendizaje de drumps con Unity, Oculus y Photon. La idea es crear el ambiente perfecto para aprender a tocar la bater\u00eda. Los m\u00fasicos y los alumnos pueden tener un espacio para practicar y desarrollar nuevas habilidades mientras un maestro o un amigo los gu\u00eda a trav\u00e9s del proceso.",
         "image": "",
-        "videos": [],
         "link": "",
         "repository": "",
         "last_update": "2022-11-22",
@@ -231,7 +246,8 @@
             "andresrincon",
             "pablofigueroa"
         ],
-        "papers": []
+        "papers": [],
+        "videos": []
     },
     {
         "id": 12,
@@ -241,7 +257,6 @@
         "group": "Imagine",
         "description": "Muestreo, resumen y exploraci\u00f3n de grandes conjuntos de datos basados en tablas para proporcionar al usuario una muestra representativa y comprensible de los datos.",
         "image": "Tadava_VisualAnalyticsArchitecture.png",
-        "videos": [],
         "link": "",
         "repository": "https://github.com/john-guerra/elasticSearchExperiments",
         "last_update": "2018-02-09",
@@ -251,7 +266,10 @@
             "johnguerra",
             "juancamilo"
         ],
-        "papers": []
+        "papers": [
+            8
+        ],
+        "videos": []
     },
     {
         "id": 13,
@@ -270,9 +288,11 @@
             "johnguerra",
             "meilivanegas"
         ],
-        "papers": [],
+        "papers": [
+            9
+        ],
         "videos": [
-          "https://www.youtube.com/embed/K_nUJ5exn1A"
+            "https://www.youtube.com/embed/K_nUJ5exn1A"
         ]
     },
     {
@@ -454,7 +474,9 @@
             "johnguerra",
             "luismesa"
         ],
-        "papers": [],
+        "papers": [
+            10
+        ],
         "videos": []
     },
     {
@@ -576,7 +598,9 @@
             "marcelahernandez",
             "ricardomendoza"
         ],
-        "papers": [],
+        "papers": [
+            11
+        ],
         "videos": []
     },
     {
@@ -617,7 +641,9 @@
             "marcelahernandez",
             "juanpabloreyes"
         ],
-        "papers": [],
+        "papers": [
+            12
+        ],
         "videos": []
     },
     {
@@ -638,9 +664,8 @@
             "pablofigueroa",
             "valentinauribe"
         ],
-        "papers": [
-            "https://ieeexplore.ieee.org/document/10536224"
-        ],
+        "papers": [],
+        "paper": "https://ieeexplore.ieee.org/document/10536224",
         "title": "Retroalimentaci\u00f3n h\u00e1ptica pasiva para elementos de control en realidad virtual",
         "description": "Hemos dise\u00f1ado un m\u00e9todo de entrada manual basado en un controlador que permite a los usuarios percibir la retroalimentaci\u00f3n h\u00e1ptica con los controladores port\u00e1tiles habituales al interactuar con elementos de control virtuales, al tiempo que se benefician del seguimiento preciso basado en el controlador. Realizamos un experimento en el que comparamos nuestro m\u00e9todo de entrada basado en controladores con el seguimiento de manos nativo de HMD. Curiosamente, el seguimiento de manos fue robusto y preciso durante las interacciones con la mayor\u00eda de los elementos de control en nuestra configuraci\u00f3n experimental. Un resultado sorprendente fue que la retroalimentaci\u00f3n h\u00e1ptica generalmente ralentizaba a los usuarios durante la interacci\u00f3n, posiblemente debido al temor de golpear la superficie f\u00edsica durante la interacci\u00f3n.",
         "videos": []
@@ -687,7 +712,9 @@
             "juancamacho",
             "joseriano"
         ],
-        "papers": [],
+        "papers": [
+            13
+        ],
         "videos": []
     },
     {
@@ -710,7 +737,9 @@
             "johncmcclelland",
             "audreygirouard"
         ],
-        "papers": [],
+        "papers": [
+            14
+        ],
         "videos": []
     },
     {
@@ -775,9 +804,8 @@
             "viviangomez",
             "pablofigueroa"
         ],
-        "papers": [
-            "https://ieeexplore.ieee.org/document/10917010"
-        ],
+        "papers": [],
+        "paper": "https://ieeexplore.ieee.org/document/10917010",
         "videos": [
             "https://www.youtube.com/embed/ScdDqaJFiPg"
         ]
@@ -799,9 +827,8 @@
             "nicolasrueda",
             "viviangomez"
         ],
-        "papers": [
-            "https://hdl.handle.net/1992/73762?utm_source=chatgpt.com"
-        ],
+        "papers": [],
+        "paper": "https://hdl.handle.net/1992/73762?utm_source=chatgpt.com",
         "videos": [
             "https://www.youtube.com/embed/ZeRPRznbJ5o"
         ]
@@ -825,7 +852,9 @@
             "juliomorales",
             "andresgonzalez"
         ],
-        "papers": [],
+        "papers": [
+            15
+        ],
         "videos": []
     },
     {
@@ -847,7 +876,9 @@
             "danielpardo",
             "andreslosada"
         ],
-        "papers": [],
+        "papers": [
+            16
+        ],
         "videos": [
             "https://www.youtube.com/embed/IFVkVLKDt18"
         ]
@@ -893,7 +924,9 @@
             "santiagogamboa",
             "nicolasfajardo"
         ],
-        "papers": [],
+        "papers": [
+            17
+        ],
         "videos": [
             "https://www.youtube.com/embed/grDYLl6gy_Y"
         ]
@@ -961,7 +994,9 @@
             "carlosorduz",
             "jesuscarcamo"
         ],
-        "papers": [],
+        "papers": [
+            18
+        ],
         "videos": []
     },
     {
@@ -983,7 +1018,9 @@
             "zulmacastaneda",
             "camilouseche"
         ],
-        "papers": [],
+        "papers": [
+            19
+        ],
         "videos": [
             "https://www.youtube.com/embed/UEEGDM1uYMY"
         ]
@@ -1033,8 +1070,9 @@
             "abelarismendy"
         ],
         "papers": [
-            "https://hdl.handle.net/1992/73447"
+            20
         ],
+        "paper": "https://hdl.handle.net/1992/73447",
         "videos": [
             "https://www.youtube.com/embed/sKon0Wl4ZEk"
         ]
@@ -1141,7 +1179,9 @@
             "pablofigueroa",
             "julianamm"
         ],
-        "papers": [],
+        "papers": [
+            21
+        ],
         "videos": [
             "https://www.youtube.com/embed/W1prd3MMN0A"
         ]
@@ -1164,9 +1204,8 @@
             "pablofigueroa",
             "viviangomez"
         ],
-        "papers": [
-            "https://ieeexplore.ieee.org/document/10536259"
-        ],
+        "papers": [],
+        "paper": "https://ieeexplore.ieee.org/document/10536259",
         "videos": []
     },
     {
@@ -1186,7 +1225,9 @@
             "pablofigueroa",
             "diegorodriguez"
         ],
-        "papers": [],
+        "papers": [
+            22
+        ],
         "videos": []
     },
     {
@@ -1295,7 +1336,9 @@
             "pablofigueroa",
             "josedorado"
         ],
-        "papers": [],
+        "papers": [
+            23
+        ],
         "videos": []
     },
     {
@@ -1339,7 +1382,9 @@
             "juanmanuelmu\u00f1oz",
             "juansebastianarciniegas"
         ],
-        "papers": [],
+        "papers": [
+            24
+        ],
         "videos": [
             "https://www.youtube.com/embed/BknTOvWK6OU"
         ]
@@ -1426,7 +1471,9 @@
             "juanpablootalora",
             "eliasnegrete"
         ],
-        "papers": [],
+        "papers": [
+            26
+        ],
         "videos": [
             "https://www.youtube.com/embed/wpGb45UeoVs"
         ]
@@ -1448,7 +1495,9 @@
             "pablofigueroa",
             "lauraforero"
         ],
-        "papers": [],
+        "papers": [
+            27
+        ],
         "videos": [
             "https://www.youtube.com/embed/GFKQv1j6vpQ"
         ]
@@ -1471,7 +1520,9 @@
             "josehernandez",
             "josedorado"
         ],
-        "papers": [],
+        "papers": [
+            28
+        ],
         "videos": [
             "https://youtu.be/RvdMAa9-Nvo"
         ]
@@ -1493,7 +1544,9 @@
             "gabrielacaballero",
             "pablofigueroa"
         ],
-        "papers": [],
+        "papers": [
+            29
+        ],
         "videos": [
             "https://www.youtube.com/embed/nDPP78MRtxM"
         ]
@@ -1516,7 +1569,9 @@
             "pablofigueroa",
             "praimbaud"
         ],
-        "papers": [],
+        "papers": [
+            30
+        ],
         "videos": []
     },
     {
@@ -1598,7 +1653,9 @@
             "josehernandez",
             "davidmayorga"
         ],
-        "papers": [],
+        "papers": [
+            31
+        ],
         "videos": []
     },
     {
@@ -1618,7 +1675,9 @@
             "josehernandez",
             "miguelfeijoo"
         ],
-        "papers": [],
+        "papers": [
+            32
+        ],
         "videos": []
     },
     {
@@ -1638,7 +1697,9 @@
             "josehernandez",
             "meilivanegas"
         ],
-        "papers": [],
+        "papers": [
+            33
+        ],
         "videos": []
     },
     {
@@ -1660,7 +1721,9 @@
             "danieluseche",
             "pablofigueroa"
         ],
-        "papers": [],
+        "papers": [
+            34
+        ],
         "videos": [
             "https://www.youtube.com/embed/2rnAn1-6BMY"
         ]
@@ -1836,9 +1899,8 @@
             "valentinarozo",
             "pablofigueroa"
         ],
-        "papers": [
-            "https://hdl.handle.net/1992/75782"
-        ],
+        "papers": [],
+        "paper": "https://hdl.handle.net/1992/75782",
         "title": "Exploraci\u00f3n de la Direcci\u00f3n de la Mirada como indicador de Atenci\u00f3n en Ambientes con Realidad Extendida",
         "description": "Este estudio analiza c\u00f3mo la direcci\u00f3n de la mirada puede servir como indicador de atenci\u00f3n en tres contextos distintos: presencial, telepresencia (utilizando un robot Double 3) y realidad virtual. El objetivo es comprender c\u00f3mo la direcci\u00f3n de la mirada, medida a trav\u00e9s de la orientaci\u00f3n de la cabeza, puede ser usada como indicador de atenci\u00f3n en cada uno de estos entornos. \nEste estudio proporciona un marco para comprender la atenci\u00f3n en entornos presenciales y de realidad extendida, con aplicaciones pr\u00e1cticas en educaci\u00f3n, reuniones h\u00edbridas y el an\u00e1lisis de din\u00e1micas sociales. Los hallazgos pueden contribuir a la creaci\u00f3n de experiencias m\u00e1s efectivas en estos contextos. ",
         "videos": []
@@ -1863,9 +1925,8 @@
             "andresrodriguez",
             "carloslozano"
         ],
-        "papers": [
-            "https://hdl.handle.net/1992/76991"
-        ],
+        "papers": [],
+        "paper": "https://hdl.handle.net/1992/76991",
         "title": "Gemelo Digital Laboratorio de Redes (Multi-interfaz)",
         "description": "El Laboratorio de Redes y Comunicaciones ML340 de la Universidad de los Andes es un entorno cr\u00edtico, equipado con tecnolog\u00eda sensible que requiere condiciones \u00f3ptimas de operaci\u00f3n. Para responder a este reto, en colaboraci\u00f3n entre los grupos IMAGINE y COMIT desarrollamos un gemelo digital interactivo que combina IoT, Realidad Aumentada, Realidad Virtual y visualizaci\u00f3n web, ofreciendo una experiencia multi\u2013interfaz \u00fanica para el monitoreo y gesti\u00f3n inteligente del espacio. Este sistema integra sensores distribuidos para capturar en tiempo real variables ambientales (temperatura, humedad, CO\u2082, ruido), consumo energ\u00e9tico, ocupaci\u00f3n y uso de equipos. La informaci\u00f3n recolectada se procesa en una plataforma central que habilita diferentes modos de interacci\u00f3n:\n\nDashboard Web Tradicional: visualizaci\u00f3n de m\u00e9tricas, hist\u00f3ricos y an\u00e1lisis con gr\u00e1ficas interactivas.\n\nVR en Quest 3: inmersi\u00f3n total en un gemelo digital del laboratorio, para exploraci\u00f3n y supervisi\u00f3n remota.\n\nWebXR para Mobile: acceso \u00e1gil desde dispositivos m\u00f3viles con experiencias 3D interactivas con proyecci\u00f3n contextual de informaci\u00f3n sobre el laboratorio f\u00edsico\n\nAR en Hololens: proyecci\u00f3n contextual de informaci\u00f3n sobre el laboratorio f\u00edsico para soporte y an\u00e1lisis de decisiones en sitio.\n\nCon esta soluci\u00f3n, es posible anticipar riesgos, mejorar la seguridad y el confort, optimizar el consumo energ\u00e9tico y contar con un registro permanente del estado del laboratorio. El proyecto demuestra c\u00f3mo la integraci\u00f3n de m\u00faltiples interfaces inmersivas y web potencia la gesti\u00f3n inteligente de espacios acad\u00e9micos y abre el camino hacia entornos universitarios m\u00e1s conectados y sostenibles.\n",
         "videos": [

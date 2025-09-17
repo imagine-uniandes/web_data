@@ -16,7 +16,9 @@
             "fernandodelarosa",
             "vhanessacardona"
         ],
-        "papers": [],
+        "papers": [
+            1
+        ],
         "videos": []
     },
     {
@@ -36,7 +38,9 @@
             "fernandodelarosa",
             "davidoviedo"
         ],
-        "papers": [],
+        "papers": [
+            2
+        ],
         "videos": []
     },
     {
@@ -58,7 +62,9 @@
             "camilootalora",
             "arturorubio"
         ],
-        "papers": [],
+        "papers": [
+            3
+        ],
         "videos": [
             "https://www.youtube.com/embed/eM0-8YLHb84"
         ]
@@ -80,7 +86,9 @@
             "camilouseche",
             "pablofigueroa"
         ],
-        "papers": [],
+        "papers": [
+            4
+        ],
         "videos": [
             "https://www.youtube.com/embed/NoRnkz74sc8"
         ]
@@ -147,7 +155,9 @@
             "fernandodelarosa",
             "franciscodurango"
         ],
-        "papers": [],
+        "papers": [
+            5
+        ],
         "videos": []
     },
     {
@@ -189,7 +199,9 @@
             "fernandodelarosa",
             "nelsonandressanchez"
         ],
-        "papers": [],
+        "papers": [
+            6
+        ],
         "videos": []
     },
     {
@@ -209,7 +221,9 @@
             "fernandodelarosa",
             "eduardocabello"
         ],
-        "papers": [],
+        "papers": [
+            7
+        ],
         "videos": [
             "https://www.youtube.com/embed/u2lfPUpbOe8"
         ]
@@ -252,7 +266,9 @@
             "johnguerra",
             "juancamilo"
         ],
-        "papers": [],
+        "papers": [
+            8
+        ],
         "videos": []
     },
     {
@@ -272,7 +288,9 @@
             "johnguerra",
             "meilivanegas"
         ],
-        "papers": [],
+        "papers": [
+            9
+        ],
         "videos": [
             "https://www.youtube.com/embed/K_nUJ5exn1A"
         ]
@@ -456,7 +474,9 @@
             "johnguerra",
             "luismesa"
         ],
-        "papers": [],
+        "papers": [
+            10
+        ],
         "videos": []
     },
     {
@@ -578,7 +598,9 @@
             "marcelahernandez",
             "ricardomendoza"
         ],
-        "papers": [],
+        "papers": [
+            11
+        ],
         "videos": []
     },
     {
@@ -619,7 +641,9 @@
             "marcelahernandez",
             "juanpabloreyes"
         ],
-        "papers": [],
+        "papers": [
+            12
+        ],
         "videos": []
     },
     {
@@ -640,9 +664,8 @@
             "pablofigueroa",
             "valentinauribe"
         ],
-        "papers": [
-            "https://ieeexplore.ieee.org/document/10536224"
-        ],
+        "papers": [],
+        "paper": "https://ieeexplore.ieee.org/document/10536224",
         "title": "Passive haptic feedback for control elements in virtual reality",
         "description": "We designed a controller-based hand input method that allows users to perceive haptic feedback with typical handheld controllers when interacting with virtual control elements while at the same time benefitting from precise controller-based tracking. We performed an experiment comparing our controller-based input method against native HMD hand tracking. Interestingly, hand tracking was robust and precise during interactions with most control elements in our experimental setup. A surprising outcome was that haptic feedback generally slowed down users during interaction, potentially due to a fear of hitting the physical surface during interaction.",
         "videos": []
@@ -689,7 +712,9 @@
             "juancamacho",
             "joseriano"
         ],
-        "papers": [],
+        "papers": [
+            13
+        ],
         "videos": []
     },
     {
@@ -712,7 +737,9 @@
             "johncmcclelland",
             "audreygirouard"
         ],
-        "papers": [],
+        "papers": [
+            14
+        ],
         "videos": []
     },
     {
@@ -777,9 +804,8 @@
             "viviangomez",
             "pablofigueroa"
         ],
-        "papers": [
-            "https://ieeexplore.ieee.org/document/10917010"
-        ],
+        "papers": [],
+        "paper": "https://ieeexplore.ieee.org/document/10917010",
         "videos": [
             "https://www.youtube.com/embed/ScdDqaJFiPg"
         ]
@@ -801,9 +827,8 @@
             "nicolasrueda",
             "viviangomez"
         ],
-        "papers": [
-            "https://hdl.handle.net/1992/73762?utm_source=chatgpt.com"
-        ],
+        "papers": [],
+        "paper": "https://hdl.handle.net/1992/73762?utm_source=chatgpt.com",
         "videos": [
             "https://www.youtube.com/embed/ZeRPRznbJ5o"
         ]
@@ -827,7 +852,9 @@
             "juliomorales",
             "andresgonzalez"
         ],
-        "papers": [],
+        "papers": [
+            15
+        ],
         "videos": []
     },
     {
@@ -849,7 +876,9 @@
             "danielpardo",
             "andreslosada"
         ],
-        "papers": [],
+        "papers": [
+            16
+        ],
         "videos": [
             "https://www.youtube.com/embed/IFVkVLKDt18"
         ]
@@ -895,7 +924,9 @@
             "santiagogamboa",
             "nicolasfajardo"
         ],
-        "papers": [],
+        "papers": [
+            17
+        ],
         "videos": [
             "https://www.youtube.com/embed/grDYLl6gy_Y"
         ]
@@ -963,7 +994,9 @@
             "carlosorduz",
             "jesuscarcamo"
         ],
-        "papers": [],
+        "papers": [
+            18
+        ],
         "videos": []
     },
     {
@@ -985,7 +1018,9 @@
             "zulmacastaneda",
             "camilouseche"
         ],
-        "papers": [],
+        "papers": [
+            19
+        ],
         "videos": [
             "https://www.youtube.com/embed/UEEGDM1uYMY"
         ]
@@ -1035,8 +1070,9 @@
             "abelarismendy"
         ],
         "papers": [
-            "https://hdl.handle.net/1992/73447"
+            20
         ],
+        "paper": "https://hdl.handle.net/1992/73447",
         "videos": [
             "https://www.youtube.com/embed/sKon0Wl4ZEk"
         ]
@@ -1143,7 +1179,9 @@
             "pablofigueroa",
             "julianamm"
         ],
-        "papers": [],
+        "papers": [
+            21
+        ],
         "videos": [
             "https://www.youtube.com/embed/W1prd3MMN0A"
         ]
@@ -1166,9 +1204,8 @@
             "pablofigueroa",
             "viviangomez"
         ],
-        "papers": [
-            "https://ieeexplore.ieee.org/document/10536259"
-        ],
+        "papers": [],
+        "paper": "https://ieeexplore.ieee.org/document/10536259",
         "videos": []
     },
     {
@@ -1188,7 +1225,9 @@
             "pablofigueroa",
             "diegorodriguez"
         ],
-        "papers": [],
+        "papers": [
+            22
+        ],
         "videos": []
     },
     {
@@ -1297,7 +1336,9 @@
             "pablofigueroa",
             "josedorado"
         ],
-        "papers": [],
+        "papers": [
+            23
+        ],
         "videos": []
     },
     {
@@ -1341,7 +1382,9 @@
             "juanmanuelmu\u00f1oz",
             "juansebastianarciniegas"
         ],
-        "papers": [],
+        "papers": [
+            24
+        ],
         "videos": [
             "https://www.youtube.com/embed/BknTOvWK6OU"
         ]
@@ -1428,7 +1471,9 @@
             "juanpablootalora",
             "eliasnegrete"
         ],
-        "papers": [],
+        "papers": [
+            26
+        ],
         "videos": [
             "https://www.youtube.com/embed/wpGb45UeoVs"
         ]
@@ -1450,7 +1495,9 @@
             "pablofigueroa",
             "lauraforero"
         ],
-        "papers": [],
+        "papers": [
+            27
+        ],
         "videos": [
             "https://www.youtube.com/embed/GFKQv1j6vpQ"
         ]
@@ -1473,7 +1520,9 @@
             "josehernandez",
             "josedorado"
         ],
-        "papers": [],
+        "papers": [
+            28
+        ],
         "videos": [
             "https://youtu.be/RvdMAa9-Nvo"
         ]
@@ -1495,7 +1544,9 @@
             "gabrielacaballero",
             "pablofigueroa"
         ],
-        "papers": [],
+        "papers": [
+            29
+        ],
         "videos": [
             "https://www.youtube.com/embed/nDPP78MRtxM"
         ]
@@ -1518,7 +1569,9 @@
             "pablofigueroa",
             "praimbaud"
         ],
-        "papers": [],
+        "papers": [
+            30
+        ],
         "videos": []
     },
     {
@@ -1600,7 +1653,9 @@
             "josehernandez",
             "davidmayorga"
         ],
-        "papers": [],
+        "papers": [
+            31
+        ],
         "videos": []
     },
     {
@@ -1620,7 +1675,9 @@
             "josehernandez",
             "miguelfeijoo"
         ],
-        "papers": [],
+        "papers": [
+            32
+        ],
         "videos": []
     },
     {
@@ -1640,7 +1697,9 @@
             "josehernandez",
             "meilivanegas"
         ],
-        "papers": [],
+        "papers": [
+            33
+        ],
         "videos": []
     },
     {
@@ -1662,7 +1721,9 @@
             "danieluseche",
             "pablofigueroa"
         ],
-        "papers": [],
+        "papers": [
+            34
+        ],
         "videos": [
             "https://www.youtube.com/embed/2rnAn1-6BMY"
         ]
@@ -1838,9 +1899,8 @@
             "valentinarozo",
             "pablofigueroa"
         ],
-        "papers": [
-            "https://hdl.handle.net/1992/75782"
-        ],
+        "papers": [],
+        "paper": "https://hdl.handle.net/1992/75782",
         "title": "Exploring Gaze Direction as an Indicator of Attention in Extended Reality Environments ",
         "description": "This study analyzes how gaze direction can serve as an indicator of attention in three different contexts: face-to-face, telepresence (using a Double 3 robot), and virtual reality. The objective is to understand how gaze direction, measured through head orientation, can be used as an indicator of attention in each of these environments. \nThis study provides a framework for understanding attention in face-to-face and extended reality environments, with practical applications in education, hybrid meetings, and the analysis of social dynamics. The findings can contribute to the creation of more effective experiences in these contexts. ",
         "videos": []
@@ -1865,9 +1925,8 @@
             "andresrodriguez",
             "carloslozano"
         ],
-        "papers": [
-            "https://hdl.handle.net/1992/76991"
-        ],
+        "papers": [],
+        "paper": "https://hdl.handle.net/1992/76991",
         "title": "Digital Twin Networking Lab (Multi-interface)",
         "description": "The ML340 Networks and Communications Laboratory at the University of the Andes is a critical environment equipped with sensitive technology that requires optimal operating conditions. To meet this challenge, in collaboration with the IMAGINE and COMIT groups, we developed an interactive digital twin that combines IoT, Augmented Reality, Virtual Reality, and web visualization, offering a unique multi-interface experience for intelligent space monitoring and management. This system integrates distributed sensors to capture environmental variables (temperature, humidity, CO\u2082, noise), energy consumption, occupancy, and equipment use in real time. The information collected is processed on a central platform that enables different modes of interaction:\n\nTraditional Web Dashboard: visualization of metrics, historical data, and analysis with interactive graphs.\n\nVR in Quest 3: total immersion in a digital twin of the laboratory for remote exploration and monitoring.\n\nWebXR for Mobile: agile access from mobile devices with interactive 3D experiences with contextual projection of information about the physical laboratory.\n\nAR in Hololens: contextual projection of information about the physical laboratory for on-site support and decision analysis.\n\nWith this solution, it is possible to anticipate risks, improve safety and comfort, optimize energy consumption, and have a permanent record of the laboratory's status. The project demonstrates how the integration of multiple immersive and web interfaces enhances the intelligent management of academic spaces and paves the way for more connected and sustainable university environments.\n",
         "videos": [
