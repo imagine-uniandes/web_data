@@ -246,22 +246,22 @@
         ]
     },
     {
-        "id": 20,
+       "id": 20,
         "nombre": "Inmersión total: creando el Gemelo Digital del Laboratorio Colivri en la Universidad de Los Andes",
-        "descripcion": "Este proyecto desarrolla un Gemelo Digital avanzado para el laboratorio Colivri de la Universidad de Los Andes, utilizando Unity para modelar un entorno tridimensional desplegado en aplicaciones de escritorio, realidad virtual, aumentada y mixta. Se asegura la funcionalidad en dispositivos de punta como Meta Quest 2, Meta Quest Pro, equipo multiscreen, HTC VIVE Pro y Microsoft HoloLens 2, con un énfasis en funcionalidades esenciales como la adaptabilidad gráfica y el monitoreo en tiempo real del rendimiento de sistemas informáticos remotos. Un servidor central promueve la comunicación eficiente mediante HTTP, mientras que la integración de análisis de imágenes facilita la interacción con movimientos de objetos físicos. Este esfuerzo académico resalta el uso de metodologías ágiles y herramientas como Jira y Git, enfatizando el fortalecimiento de las competencias colaborativas de los estudiantes en Ingeniería de Sistemas y Computación.",
+        "descripcion": "Este proyecto desarrolla un Gemelo Digital avanzado para el laboratorio Colivri de la Universidad de Los Andes, utilizando Unity para modelar un entorno tridimensional desplegado en aplicaciones de escritorio, realidad virtual, aumentada y mixta. Se asegura la funcionalidad en dispositivos de punta como Meta Quest 2, Meta Quest Pro, equipo multiscreen, HTC VIVE Pro y Microsoft HoloLens 2, con un énfasis en funcionalidades esenciales como la adaptabilidad gráfica y el monitoreo en tiempo real del rendimiento de sistemas informáticos remotos. Un servidor central promueve la comunicación eficiente mediante HTTP, mientras que la integración de análisis de imágenes facilita la interacción con movimientos de objetos físicos. Este esfuerzo académico resalta el uso de metodologías ágiles y herramientas como Jira y Git, enfatizando el fortalecimiento de las competencias colaborativas de los estudiantes en Ingeniería de Sistemas y Computación. ",
         "researchArea": "Mixed Realities",
+        "lugarpublicacion": "Universidad de los Andes, Bogotá, Colombia",
         "fecha": "2024-01-20",
         "link": "https://hdl.handle.net/1992/73447",
         "autores": [
-            "pablofigueroa",
-            "viviangomez",
-            "juanestebanrodriguez",
-            "melissacontreras",
-            "juanalegria",
             "julianmora",
+            "juanalegria",
+            "juanestebanrodriguez",
             "nicolasfalla",
-            "valentinauribe"
-        ]
+            "melissacontreras",
+            "pablofigueroa",
+            "viviangomez"
+        ] 
     },
     {
         "id": 21,
@@ -438,5 +438,107 @@
             "danieluseche",
             "pablofigueroa"
         ]
+    },
+    {
+        "id": 35,
+        "nombre": "Retroalimentación háptica pasiva para elementos de control en realidad virtual",
+        "descripcion": "Hemos diseñado un método de entrada manual basado en un controlador que permite a los usuarios percibir la retroalimentación háptica con los controladores portátiles habituales al interactuar con elementos de control virtuales, al tiempo que se benefician del seguimiento preciso basado en el controlador. Realizamos un experimento en el que comparamos nuestro método de entrada basado en controladores con el seguimiento de manos nativo de HMD. Curiosamente, el seguimiento de manos fue robusto y preciso durante las interacciones con la mayoría de los elementos de control en nuestra configuración experimental. Un resultado sorprendente fue que la retroalimentación háptica generalmente ralentizaba a los usuarios durante la interacción, posiblemente debido al temor de golpear la superficie física durante la interacción.",
+        "researchArea": "Mixed Realities",
+        "lugarpublicacion": "Orlando, FL, USA",
+        "fecha": "2024-05-21",
+        "link": "https://ieeexplore.ieee.org/document/10536224",
+        "autores": [
+            "markustatzgern",
+            "davidfasching",
+            "viviangomez",
+            "sebastiancalvache",
+            "pablofigueroa"
+        ]
+    },
+    {
+       "id": 36,
+        "nombre": "OPVSim: Aplicación de una metodología basada en grafos para la formación en realidad virtual en el aprendizaje guiado de procedimientos de emergencia en la sala de máquinas de un buque.",
+        "descripcion": "La realidad virtual (RV) puede servir de apoyo a una formación eficaz y escalable para procedimientos presentados como procesos paso a paso en el uso de maquinaria, como en una sala de ingeniería. Actualmente, muchos procedimientos se enseñan en experiencias cerradas que no permiten errores humanos ni la interacción con sujetos o maquinaria reales. Nuestro objetivo es abordar esta laguna mediante el uso de herramientas de formación en RV para el aprendizaje guiado de procedimientos. Para lograrlo, aplicamos una metodología existente para el diseño de este tipo de sistemas, denominada ProtoColVR, con el fin de desarrollar un prototipo de simulación de formación en RV para procedimientos de emergencia en la sala de máquinas de un barco. El simulador, denominado OPVSim, emplea instrucciones integrales, que incluyen un tutorial de controles de RV, formación guiada paso a paso basada en gráficos, que ofrece diferentes caminos para alcanzar el mismo objetivo, con comentarios sobre las acciones correctas e incorrectas. Realizamos un estudio con dos grupos de participantes, cadetes en formación y oficiales experimentados, para evaluar la eficacia del sistema desarrollado utilizando la metodología descrita. Los resultados del estudio revelan tendencias positivas, como el aumento de las puntuaciones de conocimientos tras el uso del simulador y resultados favorables para el prototipo en términos de usabilidad, presencia y carga de trabajo. Analizamos nuestros hallazgos, limitaciones e implicaciones para el diseño de sistemas de formación en RV para el aprendizaje guiado de procedimientos.",
+        "researchArea": "Mixed Realities",
+        "lugarpublicacion": "Universidad de los Andes, Bogotá, Colombia",
+        "fecha": "2025-03-07",
+        "link": "https://ieeexplore.ieee.org/document/10917010",
+        "autores": [
+            "viviangomez",
+            "pablofigueroa",
+            "aldolovo"
+        ] 
+    },
+    {
+       "id": 37,
+        "nombre": "Entrenamiento en el uso de la consola de ingeniería para procedimientos de emergencia en un buque OPV de la Armada Nacional de Colombia utilizando realidad virtual",
+        "descripcion": "Este proyecto tiene como propósito de entrenar a la tripulación de los buques OPV de la Armada Nacional de Colombia, en el uso del tablero de control de una consola de ingeniería. Para ello, se calibra una maqueta a escala real de la consola de ingeniería con el entorno de realidad virtual presente en los dispositivos Quest 2 y Quest Pro, utilizando la función Passtrough que permite combinar la imagen real captada por las cámaras del visor con el mundo virtual, logrando así una total sincronización entre la maqueta de la consola y el entorno virtual. Una vez realizada esta calibración, se utiliza el reconocimiento de manos, denominado Hand Tracking, para detectar las interacciones del usuario con cualquier botón o palanca de la consola y proyectarle en el ambiente virtual el resultado de dichas interacciones, mientras que el usuario experimenta una sensación pseudo-háptica, dado que estará interactuando con los botones y palancas reales de la maqueta.",
+        "researchArea": "Mixed Realities",
+        "lugarpublicacion": "Universidad de los Andes, Bogotá, Colombia",
+        "fecha": "2023-11-10",
+        "link": "https://hdl.handle.net/1992/73762",
+        "autores": [
+            "nicolasrueda",
+            "viviangomez"
+        ] 
+    },
+    {
+       "id": 38,
+        "nombre": "La influencia del diseño del entorno metaverso en las experiencias de aprendizaje en clases de realidad virtual: un estudio comparativo",
+        "descripcion": "Este estudio explora el potencial de las tecnologías metaversas para la educación virtual, comparando cuatro plataformas: Workrooms, Spatial, Mozilla Hubs y Arthur. Evaluamos factores como los avatares, la disposición espacial, la movilidad y el impacto de las funcionalidades en la concentración, la usabilidad, la presencia y el aprendizaje. Si bien los resultados del aprendizaje no muestran diferencias significativas, surgen variaciones sustanciales en la experiencia en el aula. Los metaversos con movimientos y funcionalidades limitados muestran una mayor inmersión, concentración y presencia. Además, los avatares con una mayor expresividad facial influyen positivamente en la experiencia de aprendizaje general.",
+        "researchArea": "Mixed Realities",
+        "lugarpublicacion": "Orlando, FL, USA",
+        "fecha": "2024-03-21",
+        "link": "https://ieeexplore.ieee.org/document/10536259?utm_source=chatgpt.com",
+        "autores": [
+            "valentinauribe",
+            "pablofigueroa",
+            "viviangomez"
+        ] 
+    },
+    {
+       "id": 39,
+        "nombre": "La influencia del diseño del entorno metaverso en las experiencias de aprendizaje en clases de realidad virtual: un estudio comparativo",
+        "descripcion": "Nos interesa cómo las tecnologías del metaverso pueden proporcionar un entorno para la educación virtual del futuro más allá de las tecnologías tradicionales de videoconferencia. Este estudio investiga el aprendizaje y la calidad de la experiencia en el aula mediante la realización de clases en cuatro entornos metaversos: Meta Horizon Workrooms, Spatial, Mozilla Hubs y Arthur. A través del análisis de cuestionarios, evaluamos la influencia de factores como los avatares, la disposición espacial, la movilidad y las funcionalidades adicionales en la concentración, la usabilidad, la presencia y el aprendizaje. Aunque no observamos diferencias significativas en los resultados del aprendizaje, nuestro análisis revela variaciones sustanciales en la calidad de la experiencia en el aula. Concretamente, se observaron mayores niveles de inmersión, concentración y presencia en los metaversos con movimientos y funcionalidades limitados. Además, nuestros hallazgos enfatizan el impacto positivo de los avatares con expresiones faciales realistas en la mejora de la experiencia general. Por último, presentamos las lecciones aprendidas y ofrecemos recomendaciones para la configuración de las clases en el metaverso basadas en nuestro análisis de los cuestionarios.",
+        "researchArea": "Mixed Realities",
+        "lugarpublicacion": "Universidad de los Andes, Bogotá, Colombia",
+        "fecha": "2024-12-15",
+        "link": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1451859/full",
+        "autores": [
+            "valentinauribe",
+            "pablofigueroa",
+            "viviangomez"
+        ] 
+    },
+    {
+       "id": 40,
+        "nombre": "Gemelo Digital del Laboratorio ML340",
+        "descripcion": "El laboratorio de redes y comunicaciones ML340 de la Universidad de los Andes es un entorno crítico con equipamiento costoso y sensible, donde asegurar condiciones óptimas de operación es fundamental. En este proyecto se desarrolló un gemelo digital interactivo del laboratorio ML340 que integra tecnologías de Internet de las Cosas (IoT), Realidad Aumentada (RA) y visualización web para mejorar el control y la supervisión del espacio en tiempo real. A través de una arquitectura IoT distribuida, se instrumentó el laboratorio con sensores para medir variables ambientales (temperatura, humedad, niveles de CO₂, ruido), ocupación del espacio, consumo energético y uso de equipos computacionales. Los datos capturados se transmiten y almacenan en una plataforma central, alimentando tanto un dashboard web como una aplicación RA inmersiva. El dashboard web permite monitorear métricas en tiempo real y analizar historiales mediante gráficas interactivas, mientras que la interfaz de RA proyecta información contextual sobre el entorno físico del laboratorio. Esta solución habilita una toma de decisiones informada basada en datos actualizados al instante, anticipando condiciones adversas (por ejemplo, sobrecalentamiento o mala calidad del aire) y facilitando acciones de mantenimiento predictivo. Como resultado, se mejoró la seguridad, la eficiencia energética y el confort en el laboratorio, a la vez que se generó un registro permanente de su estado. El gemelo digital propuesto demuestra el valor de integrar IoT, RA y sistemas web para la gestión inteligente de espacios académicos. ",
+        "researchArea": "Mixed Realities",
+        "lugarpublicacion": "Universidad de los Andes, Bogotá, Colombia",
+        "fecha": "2025-07-31",
+        "link": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1451859/full",
+        "autores": [
+            "abelarismendy",
+            "danielescalante",
+            "juanjosesierra",
+            "carloslozano",
+            "andreshernandez",
+            "andresrodriguez",
+            "viviangomez"
+        ] 
+    },
+    {
+        "id": 41,
+        "nombre": "Exploración de la dirección de la mirada como indicador de atención en ambientes con realidad extendida",
+        "descripcion": "La dirección de la mirada es un indicador de atención en diversos contextos, incluyendo los entornos de realidad extendida (XR). Comprender cómo los usuarios interactúan visualmente en ambientes reales, de telepresencia y virtuales puede ofrecer información para optimizar la efectividad de espacios de realidad extendida. Este trabajo tiene como objetivo analizar la dirección de la mirada como indicador de atención en tres entornos: real, de telepresencia y de realidad virtual. El estudio se desarrolló en dos fases experimentales. En la primera, se realizaron conversatorios en presencialidad y telepresencia, mientras que en la segunda fase se llevaron a cabo reuniones presenciales, en telepresencia y en realidad virtual. Los resultados indican que la distribución de la atención puede estar vinculada a la proximidad física y la visibilidad de los puntos de interés. En el entorno presencial, en el experimento 2 los participantes distribuyeron su atención de manera equilibrada entre sus compañeros y las ayudas visuales. En el experimento 1 la atención se centró mayoritariamente en el instructor robot comparada con la sesión presencial. En realidad virtual, la dirección de la mirada estuvo condicionada por las restricciones del campo visual, enfocándose principalmente en elementos directamente visibles. Este estudio proporciona un marco para comprender la atención en entornos presenciales y de realidad extendida, con aplicaciones prácticas en educación, reuniones híbridas y el análisis de dinámicas sociales, contribuyendo a la creación de experiencias más efectivas.",
+        "researchArea": "Mixed Realities",
+        "lugarpublicacion": "Universidad de los Andes, Bogotá, Colombia",
+        "fecha": "2024-12-09",
+        "link": "https://hdl.handle.net/1992/75782",
+        "autores": [
+            "valentinarozo",
+            "pablofigueroa"
+        ] 
     }
 ]
